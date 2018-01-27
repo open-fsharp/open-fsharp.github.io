@@ -1,0 +1,46 @@
+<script type='text/javascript' src='public/js/plugins.js'></script>
+<script type='text/javascript' src='public/js/countdown.js'></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAb0psVbwZlenAqUvnyPn9HV0Th7Lr6at0"></script>
+<script type='text/javascript' src='public/js/gmaps.js'></script>
+<script type='text/javascript' src='public/js/modernizr.js'></script>
+<script type='text/javascript' src='public/js/functions.js'></script>
+<script type='text/javascript' src='public/js/custom.js'></script>
+<script type='text/javascript'>
+
+     map = new GMaps({
+            el: '#map',
+            zoom: 13,
+            lat: 37.7614397,
+            lng: -122.4226557,
+            zoomControl : true,
+            scrollwheel: false,
+            zoomControlOpt: {
+                style : 'SMALL',
+                position: 'TOP_LEFT'
+            },
+            panControl : false,
+            streetViewControl : false,
+            mapTypeControl: false,
+            overviewMapControl: false
+          });
+
+     map.addMarker({
+            lat: 37.7614397,
+            lng: -122.4226557,
+            title: 'WebCode',
+            icon: "assets/images/mapicon.png"
+          });
+
+     countdown_init();
+</script>
+<!-- Google Analytics --> 
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-97901185-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
