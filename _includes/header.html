@@ -19,23 +19,17 @@
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                             <a class="navbar-brand logo" href="#header">
                                 <span class="temp-logo white">
-                                    <img width="100" src="assets/images/icon-green.svg" alt="Open Fsharp Icon">
+                                    <img width="100" src="{{ site.baseurl }}assets/icon-green.svg" alt="Open Fsharp Icon">
                                 </span>
                             </a>
                             <a class="navbar-brand scroll-logo" href="#header">
                                 <span class="temp-logo black">
-                                    <img width="100" src="assets/images/icon-purple.svg" alt="Open Fsharp Icon">
+                                    <img width="100" src="{{ site.baseurl }}assets/icon-purple.svg" alt="Open Fsharp Icon">
                                 </span>
                             </a>
-                            <ul class="nav navbar-nav">
-                                <li><a href="#about">About</a></li>
-                                <li><a href="#speakers">Speakers</a></li>
-                                <li><a href="#sponsors">Sponsors</a></li>
-                                <li><a href="#tickets">Tickets</a></li>
-                                <li><a href="schedule.html">Schedule</a></li>
-                                <li><a href="#venue">Location</a></li>									
-                                <li><a href="#coc">Code of conduct</a></li>																	
-                            </ul>								
+
+                            {% include navbar.html %}
+
                         </div><!-- /.navbar-collapse -->
                     </div><!-- /.menu-area -->
                 </div><!-- /.row -->
