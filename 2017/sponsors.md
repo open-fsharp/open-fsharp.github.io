@@ -3,14 +3,28 @@ layout: default
 title: Sponsors
 ---
 
+<!--  start cfp header   -->
+<section id="cfp-header" class="call-for-paper">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-9">
+                <div class="row">
+                    <div class="call-for-paper-item">
+                        <h2>Sponsors 2017</h2>
+                        <p>Many thanks to our fabulous sponsors who make this conference possible!</p> 
+                    </div>
+                </div><!-- /.row -->
+            </div><!-- /.col-md-10 -->
+        </div><!-- /.row -->
+    </div><!-- /.container -->
+</section>
+<!--  start cfp header   -->
+
 <!--  start sponsor section  -->
 <section class="sponsor">
 	<div class="container">
 		<div class="row">
-			<div class="section-head">
-				<h2 class="header-title">Sponsors 2017</h2>
-				<p class="header-desc">Many thanks to our fabulous sponsors who make this conference possible!</p>
-			</div>
 			<div class="sponsor-wrapper">
 				<div class="ccr-sponsor">
 					<h3 class="sponsor-title">Platinum Sponsors</h3>

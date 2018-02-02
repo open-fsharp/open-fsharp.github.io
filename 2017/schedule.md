@@ -11,7 +11,7 @@ title: Schedule
             <div class="col-md-9">
                 <div class="row">
                     <div class="call-for-paper-item">
-                        <h2>Schedule 2017*</h2>
+                        <h2>Schedule 2017</h2>
                         <p>A conference to learn, create and connect with F# and its Community.</p> 
                     </div>
                 </div><!-- /.row -->
