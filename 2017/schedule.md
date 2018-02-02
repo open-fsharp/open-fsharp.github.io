@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Schedule
+---
 
 <!--  start cfp header   -->
 <section id="cfp-header" class="call-for-paper">
