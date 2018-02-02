@@ -1,10 +1,10 @@
-<script type='text/javascript' src='public/js/plugins.js'></script>
-<script type='text/javascript' src='public/js/countdown.js'></script>
+<script type='text/javascript' src='{{ site.baseurl }}public/js/plugins.js'></script>
+<script type='text/javascript' src='{{ site.baseurl }}public/js/countdown.js'></script>
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAb0psVbwZlenAqUvnyPn9HV0Th7Lr6at0"></script>
-<script type='text/javascript' src='public/js/gmaps.js'></script>
-<script type='text/javascript' src='public/js/modernizr.js'></script>
-<script type='text/javascript' src='public/js/functions.js'></script>
-<script type='text/javascript' src='public/js/custom.js'></script>
+<script type='text/javascript' src='{{ site.baseurl }}public/js/gmaps.js'></script>
+<script type='text/javascript' src='{{ site.baseurl }}public/js/modernizr.js'></script>
+<script type='text/javascript' src='{{ site.baseurl }}public/js/functions.js'></script>
+<script type='text/javascript' src='{{ site.baseurl }}public/js/custom.js'></script>
 <script type='text/javascript'>
 
      map = new GMaps({
@@ -28,7 +28,7 @@
             lat: 37.7614397,
             lng: -122.4226557,
             title: 'WebCode',
-            icon: "assets/images/mapicon.png"
+            icon: "public/assets/mapicon.png"
           });
 
      countdown_init();
