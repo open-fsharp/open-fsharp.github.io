@@ -77,7 +77,7 @@ title: Schedule
                                             <td colspan="3" class="item-inner event-schedule-speaker">	
                                                 <div>
                                                     <a href="#" data-toggle="modal" data-target="#alenahall">											
-                                                        <img src="assets/images/speakers/alena-hall.jpg" alt="Alena Hall" />													
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2017/alena-hall.jpg" alt="Alena Hall" />													
                                                         <div class="title">Keynote: F# is the future of .NET</div>
                                                         <div>Alena Hall</div>										
                                                     </a>
@@ -99,7 +99,7 @@ title: Schedule
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="#" data-toggle="modal" data-target="#scottwlaschin">											
-                                                        <img src="assets/images/speakers/scott-wlaschin.jpg" alt="Scott Wlaschin" />													
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2017/scott-wlaschin.jpg" alt="Scott Wlaschin" />													
                                                         <div class="title">Domain Modeling Made Functional</div>
                                                         <div>Scott Wlaschin</div>									
                                                     </a>
@@ -115,7 +115,7 @@ title: Schedule
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="#" data-toggle="modal" data-target="#ryanriley">											
-                                                        <img src="assets/images/speakers/Ryan.jpg" alt="Ryan Riley" />													
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2017/Ryan.jpg" alt="Ryan Riley" />													
                                                         <div class="title">Extending F# through Computation Expressions</div>
                                                         <div>Ryan Riley</div>									
                                                     </a>
@@ -138,7 +138,7 @@ title: Schedule
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="#" data-toggle="modal" data-target="#chrisholt">											
-                                                        <img src="assets/images/speakers/chris-holt.jpg" alt="Chris Holt" />													
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2017/chris-holt.jpg" alt="Chris Holt" />													
                                                         <div class="title">Pursuing Quality</div>
                                                         <div>Chris Holt</div>									
                                                     </a>
@@ -153,7 +153,7 @@ title: Schedule
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="#" data-toggle="modal" data-target="#jeremybellows">											
-                                                        <img src="assets/images/speakers/jeremy-bellows.jpg" alt="Jeremy Bellows" />													
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2017/jeremy-bellows.jpg" alt="Jeremy Bellows" />													
                                                         <div class="title">Neuroevolution</div>
                                                         <div>Jeremy Bellows</div>									
                                                     </a>
@@ -176,7 +176,7 @@ title: Schedule
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="#" data-toggle="modal" data-target="#ericlynn">											
-                                                        <img src="assets/images/speakers/eric-lynn.jpg" alt="Eric Lynn" />													
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2017/eric-lynn.jpg" alt="Eric Lynn" />													
                                                         <div class="title">Asynchrony on Steroids: An Introduction to Agent-Based Development in F#</div>										
                                                         <div>Eric Lynn</div>
                                                     </a>
@@ -199,7 +199,7 @@ title: Schedule
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="#" data-toggle="modal" data-target="#marcusgriep">											
-                                                        <img src="assets/images/speakers/marcus-griep.jpg" alt="Marcus Griep" />													
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2017/marcus-griep.jpg" alt="Marcus Griep" />													
                                                         <div class="title">Freya: Building services with the HTTP machine</div>
                                                         <div>Marcus Griep</div>									
                                                     </a>
@@ -221,7 +221,7 @@ title: Schedule
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="#" data-toggle="modal" data-target="#jeremyabbot">											
-                                                        <img src="assets/images/speakers/Jeremy.jpg" alt="Jeremy Abbot" />													
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2017/Jeremy.jpg" alt="Jeremy Abbot" />													
                                                         <div class="title">Exploring the F# Stack of Happiness</div>
                                                         <div>Jeremy Abbott</div>									
                                                     </a>
@@ -237,7 +237,7 @@ title: Schedule
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="#" data-toggle="modal" data-target="#darrenplatt">											
-                                                        <img src="assets/images/speakers/Darren-Platt.png" alt="Darren Platt" />													
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2017/Darren-Platt.png" alt="Darren Platt" />													
                                                         <div class="title">GSL: a compiler tool-chain whose target architecture is life itself</div>										
                                                         <div>Darren Platt</div>
                                                     </a>
@@ -265,7 +265,7 @@ title: Schedule
                                                 <div class="title">Lightning talks</div>
                                                 <div>
                                                     <a href="#" data-toggle="modal" data-target="#willsmith">											
-                                                        <img src="assets/images/speakers/will-smith.jpg" alt="Will Smith" />													
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2017/will-smith.jpg" alt="Will Smith" />													
                                                         <div class="title">Writing a F# DSL for Xamarin.UITest</div>
                                                         <div>Will Smith</div>										
                                                     </a>
@@ -279,7 +279,7 @@ title: Schedule
                                                 </div>
                                                 <div>
                                                     <a href="#" data-toggle="modal" data-target="#ericknutsen">											
-                                                        <img src="assets/images/speakers/eric-knutsen.jpg" alt="Eric Knutsen" />												
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2017/eric-knutsen.jpg" alt="Eric Knutsen" />												
                                                         <div class="title">Using Windowed Aggregate Forecasts to Detect Customer Impacting Outages of Online Services.</div>										
                                                         <div>Eric Knutsen</div>
                                                     </a>
@@ -294,7 +294,7 @@ title: Schedule
                                                 </div>
                                                 <div>
                                                     <a href="#" data-toggle="modal" data-target="#phillipcarter">											
-                                                        <img src="assets/images/speakers/phillip-carter.jpg" alt="Phillip Carter" />												
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2017/phillip-carter.jpg" alt="Phillip Carter" />												
                                                         <div class="title">Shipping .NET Core support for F#</div>										
                                                         <div>Phillip Carter</div>
                                                     </a>
@@ -363,7 +363,7 @@ title: Schedule
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="#" data-toggle="modal" data-target="#chrissmith">											
-                                                        <img src="assets/images/speakers/chris-smith.jpg" alt="Chris Smith" />													
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2017/chris-smith.jpg" alt="Chris Smith" />													
                                                         <div class="title">Machine learning on Google's Cloud: everything there is to know</div>										
                                                         <div>Chris Smith</div>
                                                     </a>	
@@ -378,7 +378,7 @@ title: Schedule
                                             <td rowspan="4" class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="#" data-toggle="modal" data-target="#scottwlaschin">												
-                                                        <img src="assets/images/speakers/scott-wlaschin.jpg" alt="Scott Wlaschin" />													
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2017/scott-wlaschin.jpg" alt="Scott Wlaschin" />													
                                                         <div class="title">WORKSHOP</div>										
                                                         <div class="title">Domain Driven Design with F#</div>										
                                                         <div>Scott Wlaschin</div>
@@ -394,7 +394,7 @@ title: Schedule
                                             <td rowspan="4" class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="#" data-toggle="modal" data-target="#enricosada">												
-                                                        <img src="assets/images/speakers/enrico-sada.png" alt="Enrico Sada" />													
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2017/enrico-sada.png" alt="Enrico Sada" />													
                                                         <div class="title">WORKSHOP</div>										
                                                         <div class="title">Modern F# development using new .NET Sdk</div>										
                                                         <div>Enrico Sada</div>
@@ -421,7 +421,7 @@ title: Schedule
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="#" data-toggle="modal" data-target="#vincentlabrecque">											
-                                                        <img src="assets/images/speakers/vincent-labrecque.jpg" alt="Vincent Labrecque" />										
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2017/vincent-labrecque.jpg" alt="Vincent Labrecque" />										
                                                         <div class="title">F# from the trenches</div>										
                                                         <div>Vincent Labrecque</div>
                                                     </a>
@@ -453,7 +453,7 @@ title: Schedule
                                             <td rowspan="4" class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="#" data-toggle="modal" data-target="#lincolnatkinson">											
-                                                        <img src="assets/images/speakers/Lincoln-Atkinson.jpg" alt="Lincoln Atkinson" />
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2017/Lincoln-Atkinson.jpg" alt="Lincoln Atkinson" />
                                                         <div class="title">WORKSHOP</div>												
                                                         <div class="title">DIY blog comments with F# and Azure Functions</div>										
                                                         <div>Lincoln Atkinson</div>
@@ -473,7 +473,7 @@ title: Schedule
                                             <td rowspan="4" class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="#" data-toggle="modal" data-target="#ryanriley">											
-                                                        <img src="assets/images/speakers/Ryan.jpg" alt="Ryan Riley" />
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2017/Ryan.jpg" alt="Ryan Riley" />
                                                         <div class="title">WORKSHOP</div>												
                                                         <div class="title">The Agony and the Ecstasy of F# Scripting</div>										
                                                         <div>Ryan Riley</div>
@@ -492,7 +492,7 @@ title: Schedule
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="#" data-toggle="modal" data-target="#jamiedixon">											
-                                                        <img src="assets/images/speakers/jamie-dixon.jpg" alt="Jamie Dixon" />													
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2017/jamie-dixon.jpg" alt="Jamie Dixon" />													
                                                         <div class="title">Stock Cars, Raspberry PI, and F# FTCF <br>(For the Checked Flag)</div>										
                                                         <div>Jamie Dixon</div>
                                                     </a>
@@ -514,7 +514,7 @@ title: Schedule
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="#" data-toggle="modal" data-target="#davecurylo">											
-                                                        <img src="assets/images/speakers/dave-curylo.JPG" alt="Dave Curylo" />											
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2017/dave-curylo.JPG" alt="Dave Curylo" />											
                                                         <div class="title">Resilient F# in the Linux Ecosystem</div>										
                                                         <div>Dave Curylo</div>
                                                     </a>	
@@ -539,7 +539,7 @@ title: Schedule
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="#" data-toggle="modal" data-target="#colingravill">											
-                                                        <img src="assets/images/speakers/colin-gravill.jpg" alt="Colin Gravill" />													
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2017/colin-gravill.jpg" alt="Colin Gravill" />													
                                                         <div class="title">Reprogramming Biology with F#</div>										
                                                         <div>Colin Gravill</div>
                                                     </a>
@@ -558,7 +558,7 @@ title: Schedule
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="#" data-toggle="modal" data-target="#edgarsanchez">											
-                                                        <img src="assets/images/speakers/edgar-sanchez.jpg" alt="Edgar Sanchez" />													
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2017/edgar-sanchez.jpg" alt="Edgar Sanchez" />													
                                                         <div class="title">Developing chatbots with F# and the Microsoft Bot Framework</div>										
                                                         <div>Edgar Sanchez</div>
                                                     </a>
@@ -587,7 +587,7 @@ title: Schedule
                                             <td colspan="3" class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="#" data-toggle="modal" data-target="#rickminerich">											
-                                                        <img src="assets/images/speakers/richard-minerich.jpg" alt="Rick Minerich" />													
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2017/richard-minerich.jpg" alt="Rick Minerich" />													
                                                         <div class="title">Keynote: 7 Years of F#</div>										
                                                         <div>Rick Minerich</div>
                                                     </a>
