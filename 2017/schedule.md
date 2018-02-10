@@ -618,67 +618,6 @@ title: Schedule
 </section>
 <!-- end event-schedule  -->
 
-<!--  footer start   -->
-<footer id="footer">
-    <div class="footer-top">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="row">
-                        <div class="f-widget">
-                            <h3 class="widget-title">open fsharp 2017</h3>
-                            <!--<a href="#header" class="footer-logo"><img src="assets/images/footer-logo.png" alt="Logo"></a>-->
-                            <div class="excerpt">
-                                A conference to learn, create and connect with F# and its Community. 
-                            </div>
-                            <ul class="social-media">										
-                                    <li><a href="https://twitter.com/openfsharp" target="_blank"><i class="fa fa-twitter"></i></a></li>										
-                                    <li><a href="https://www.instagram.com/openfsharp/" target="_blank"><i class="fa fa-camera"></i></a></li>
-                                </ul>
-                        </div><!-- /.f-widget -->
-                    </div><!-- /.row -->
-                </div><!-- /.col-md-4 -->
-                <div class="col-md-4">
-                        <div class="f-widget">
-                            <h3 class="widget-title">Our team</h3>
-                            <ul class="small-post-list">
-                                <li class="small-post-item">
-                                    <a href="https://twitter.com/brandewinder" class="post-thumb">Mathias Brandewinder</a>										
-                                </li>
-                                <li class="small-post-item">
-                                    <a href="https://twitter.com/TRikace" class="post-thumb">Riccardo Terrell</a>										
-                                </li>
-                                <li class="small-post-item">
-                                    <a href="https://twitter.com/selketjah" class="post-thumb">Gien Verschatse</a>										
-                                </li>
-                            </ul>
-                        </div><!-- /.f-widget -->
-                </div><!-- /.col-md-4 -->
-                <div class="col-md-4">
-                    <div class="row">
-                        <div class="f-widget">
-                            <h3 class="widget-title">Tags</h3>
-                            <ul class="tag">
-                                <li><a href="#">F#</a></li>
-                                <li><a href="#">fsharp</a></li>
-                                <li><a href="#">Functional Programming</a></li>
-                                <li><a href="#">.NET</a></li>
-                                <li><a href="#">DotNetCore</a></li>
-                                <li><a href="#">Fable</a></li>									
-                                <li><a href="#">Software</a></li>									
-                            </ul>
-                        </div><!-- /.f-widget -->
-                    </div><!-- /.row -->
-                </div><!-- /.col-md-4 -->
-            </div><!-- /.row -->
-        </div><!-- /.container -->
-    </div><!-- /.footer-top -->
-    <div class="footer-bottom">
-        <p>Copyright &copy; 2017.</p>
-    </div>
-</footer>
-<!--  footer end   -->
-
 <!-- ALENA HALL -->
 <div id="alenahall" class="modal fade" role="dialog">
     <div class="modal-dialog">
