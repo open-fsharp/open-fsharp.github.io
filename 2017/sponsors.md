@@ -4,7 +4,7 @@ title: Sponsors
 ---
 
 <!--  start cfp header   -->
-<section id="cfp-header" class="call-for-paper">
+<section id="cfp-header" class="call-for-paper-2017">
     <div class="overlay"></div>
     <div class="container">
         <div class="row">

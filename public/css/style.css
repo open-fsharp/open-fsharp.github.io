@@ -1952,7 +1952,7 @@ input {
 	31  Call for paper section
 --------------------------------------*/
 
-.call-for-paper {
+.call-for-paper-2017 {
 	background-image: url(../assets/backgrounds/bg-call-for-paper.png);
 	background-position: center center;
 	background-attachment: fixed;
@@ -1961,6 +1961,17 @@ input {
 	padding-bottom: 120px;
 	position: relative;
 }
+
+.call-for-paper {
+	background-image: url(../assets/backgrounds/golden-gate-bridge.jpg);
+	background-position: center center;
+	background-attachment: fixed;
+	background-size:cover;
+	padding-top: 120px;
+	padding-bottom: 120px;
+	position: relative;
+}
+
 .call-for-paper .overlay {
 	position: absolute;
 	left: 0;
