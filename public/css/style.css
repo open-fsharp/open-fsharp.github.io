@@ -2008,6 +2008,10 @@ input {
 	color: #A0CC49;
 }
 
+.call-for-paper-item a:hover {
+	color: #8f398d;
+}
+
 .call-for-paper .custom-btn {
     padding: 14px 30px;
     border: none;
