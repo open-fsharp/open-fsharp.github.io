@@ -4,7 +4,7 @@ title: Speakers
 ---
 
 <!-- start event speaker  -->
-<section id="speakers" class="event-speaker">
+<section id="speakers" class="event-speaker-2017">
 	<div class="overlay"></div>
 	<div class="container">
 		<div class="row">
