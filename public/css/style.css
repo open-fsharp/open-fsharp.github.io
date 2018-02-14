@@ -1807,8 +1807,6 @@ ul.widget-nav-tabs.widget-title {
     animation-delay: 0.1s;
 	}						
 	
-
-
 @-webkit-keyframes animate {
  
   50% {
@@ -1817,9 +1815,6 @@ ul.widget-nav-tabs.widget-title {
     transform: scaleY(0);
 	
 	  }
-	  
-	  
-
 }
 
 @keyframes animate {
@@ -1830,9 +1825,6 @@ ul.widget-nav-tabs.widget-title {
 	  }
 }
 
-
-
-
 .primary-menu.fixed-top-menu1 .navbar-toggle .icon-bar,
 .primary-menu.transparent-bg-menu .navbar-toggle .icon-bar {
 	background: #fff;
@@ -1840,8 +1832,6 @@ ul.widget-nav-tabs.widget-title {
 .primary-menu .navbar-toggle .icon-bar {
 	background: #000;
 }
-
-
 
 /* Countdown */
 
@@ -2013,6 +2003,11 @@ input {
 	font-size: 18px;
 	color: #fff;
 }
+
+.call-for-paper-item a {
+	color: #A0CC49;
+}
+
 .call-for-paper .custom-btn {
     padding: 14px 30px;
     border: none;
