@@ -491,6 +491,9 @@
 		border: 21px solid;
 		color:#4f671d;
 	}
+	.navbar-brand .temp-logo img {
+		width: 50px;
+	} 
 }
 
 
