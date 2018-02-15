@@ -107,7 +107,7 @@
 		padding: 3px 7px;
 		margin: 22px 0;
 		font-size: 13px;
-		border: 1px solid #fff;
+		border: 1px solid #8f398d;
 		font-weight: 400;
 	}
 	.bannar-conent-area {
@@ -403,7 +403,7 @@
 	    transform: translateX(-50%);
 	}
 	.bannar-content:before {
-	    top: 20px;
+	    top: 15px;
 	}
 	.bannar-btn a {
 	    margin: 0;
@@ -445,7 +445,7 @@
 	    margin-bottom: 8px;
 	}
 	.bannar-content:before {
-	    height: 50px;
+	    height: 55px;
 	}
 	
 	.bannar-conent-area {
@@ -475,7 +475,7 @@
 	}
 	.header-countdown-wrapper {
 	    height: 50px;
-	     margin-top: 0px; 
+	    margin-top: 0px; 
 	}
 	.header-countdown {
 		bottom: -13px;
