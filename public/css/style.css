@@ -1925,7 +1925,7 @@ ul.widget-nav-tabs.widget-title {
 .countdown-box .box-value {
 	font-size:38px;
 	line-height:38px;
-	margin:25px 0 3px;
+	padding:25px 0 3px;
 	font-family:'Montserrat';
 	font-weight:bold;
 	color: #fff;
