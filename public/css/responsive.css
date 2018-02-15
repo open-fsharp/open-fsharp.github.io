@@ -543,7 +543,7 @@
 		margin-left: 40px;
 		margin-right: 40px;
 	}
-	/*.countDays, .countHours, .countMinutes, .countSeconds {
+	.countDays, .countHours, .countMinutes, .countSeconds {
 	    margin-right: 6px;
 	    border: 1px solid #fff;
 	    width: 30px;
@@ -591,7 +591,7 @@
 	.countDays .ccr-position:before, .countHours .ccr-position:before, .countMinutes .ccr-position:before, .countSeconds .ccr-position:before {
 	    font-size: 10px;
 	    bottom: -15px;
-	}*/
+	}
 	.meta-post {
 	    margin-bottom: 2px;
 	}
