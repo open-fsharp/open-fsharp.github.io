@@ -15,12 +15,6 @@ $(window).scroll(function() {
     }
 });
 
-
-
-
-
-
-
 // client section
 var swiper = new Swiper('.testimonial-container', {
     spaceBetween: 50,
@@ -104,9 +98,3 @@ $(window).load(function() {
     $("#loading").fadeOut(500);
     })
 })
-
-// $('.countdown').final_countdown({
-//     'start': 1362139200,
-//     'end': 1388461320,
-//     'now': 1387461319        
-// });
