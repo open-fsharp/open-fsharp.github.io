@@ -306,7 +306,9 @@
 	    width: 100%;
 	    float: none;
 	}
-	.become-sponsor {
+	.become-sponsor,
+	.call-for-paper,
+	.call-for-paper-2017 {
 	    padding-left: 30px;
 	    padding-right: 30px;
 	}
