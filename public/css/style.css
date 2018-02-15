@@ -902,6 +902,8 @@ a:active {
 	width: 100%;
 	text-align: center;
 	transition: .5s;
+	padding-left:10px;
+	padding-right:10px;
 }
 
 .speaker-item .speaker-content .speaker-name {
