@@ -289,7 +289,7 @@ a:active {
 }
 
 .primary-menu-inner .menu-area .navbar-nav li.menu-item-has-children>a:before {
-	content:"\f0d7";
+	content:"\f0dd";
 	position: absolute;
 	right: 8px;
 	top: 50%;
