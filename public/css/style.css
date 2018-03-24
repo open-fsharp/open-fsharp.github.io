@@ -289,7 +289,6 @@ a:active {
 }
 
 .primary-menu-inner .menu-area .navbar-nav li.menu-item-has-children>a:before {
-	content:"\f0dd";
 	position: absolute;
 	right: 8px;
 	top: 50%;
@@ -297,6 +296,9 @@ a:active {
 	font: normal normal normal 14px/1 FontAwesome;
 	color: #707070;
 }
+li.menu-item-has-children>a::before {
+    font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f0d7";
+  }
 .primary-menu-inner .menu-area .navbar-nav li.menu-item-has-children>a:hover:before {
 	color: #91bf36;
 }
