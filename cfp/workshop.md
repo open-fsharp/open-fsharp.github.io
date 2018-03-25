@@ -34,47 +34,37 @@ title: Call for papers workshop
 					<div class="section-head">
 						<h2 class="header-title">TIMELINE</h2>
 					</div>
-					<div>
-                        <ul>
-                            <li>1st of April: Call for Papers are open.</li>
-                            <li>1st of June: Call for Papers close.</li>
-                            <li>1st of July: All submissions will have received feedback.</li>
-                        </ul>
-                    </div>
+                    <ul>
+                        <li>1st of April: Call for Papers are open.</li>
+                        <li>1st of June: Call for Papers close.</li>
+                        <li>1st of July: All submissions will have received feedback.</li>
+                    </ul>
 				</div><!-- /.conference-main -->
                 <div class="conference-main">
 					<div class="section-head">
 						<h2 class="header-title">SESSION LEVELS</h2>
 					</div>
-					<div>
-                        <p>Open FSharp aims to have content that is attractive both for beginners, and for experienced F# developers. We will have an equal amount of workshops for each. When making your submission, please specify whether you intend this workshop to be:</p>
-                        <p><strong>Deep dive</strong>: Please have a basic knowledge of F# and want to dive into a specific topic for a full day workshop.</p>
-                        <p><strong>Taster</strong>: They are not that familiar yet with the topic or the language, but they want a taste of what can be done it.</p>
-                    </div>
+                    <p>Open FSharp aims to have content that is attractive both for beginners, and for experienced F# developers. We will have an equal amount of workshops for each. When making your submission, please specify whether you intend this workshop to be:</p>
+                    <p><strong>Deep dive</strong>: Please have a basic knowledge of F# and want to dive into a specific topic for a full day workshop.</p>
+                    <p><strong>Taster</strong>: They are not that familiar yet with the topic or the language, but they want a taste of what can be done it.</p>
 				</div><!-- /.conference-main -->
                 <div class="conference-main">
 					<div class="section-head">
 						<h2 class="header-title">TOPICS</h2>
 					</div>
-					<div>
-                        <p>Whatever topic you find exciting - we want to hear about it! Of course, it should be F# related. In general, we are looking for workshops focusing on practical applications of F#, and how the language can be used to build great solutions. We are particularly interested in topics such as cross platform development, mobile development, Fable...</p>
-                    </div>
+                    <p>Whatever topic you find exciting - we want to hear about it! Of course, it should be F# related. In general, we are looking for workshops focusing on practical applications of F#, and how the language can be used to build great solutions. We are particularly interested in topics such as cross platform development, mobile development, Fable...</p>
 				</div><!-- /.conference-main -->
                 <div class="conference-main">
 					<div class="section-head">
 						<h2 class="header-title">PAYMENT</h2>
 					</div>
-					<div>
-                        <p></p>
-                    </div>
+                    <p></p>
 				</div><!-- /.conference-main -->
                 <div class="conference-main">
 					<div class="section-head">
 						<h2 class="header-title">PREPERATION AND COACHING</h2>
 					</div>
-					<div>
-                        <p>If you have ideas or questions you would like to run by us, or if you feel a dry run, some feedback or a bit of coaching would help - we'll do our best to help you get your workshop ready. Feel free to reach out at cfp@openfsharp.org if you want to discuss.</p>
-                    </div>
+                    <p>If you have ideas or questions you would like to run by us, or if you feel a dry run, some feedback or a bit of coaching would help - we'll do our best to help you get your workshop ready. Feel free to reach out at cfp@openfsharp.org if you want to discuss.</p>
 				</div><!-- /.conference-main -->
 			</div><!-- /.col-md-8 -->
 			<div class="col-md-4">

@@ -34,49 +34,39 @@ title: Call for papers conference
 					<div class="section-head">
 						<h2 class="header-title">TIMELINE</h2>
 					</div>
-					<div>
-                        <ul>
-                            <li>1st of April: Call for Papers are open.</li>
-                            <li>1st of June: Call for Papers close.</li>
-                            <li>1st of July: All submissions will have received feedback.</li>
-                        </ul>
-                    </div>
+                    <ul>
+                        <li>1st of April: Call for Papers are open.</li>
+                        <li>1st of June: Call for Papers close.</li>
+                        <li>1st of July: All submissions will have received feedback.</li>
+                    </ul>
 				</div><!-- /.conference-main -->
                 <div class="conference-main">
 					<div class="section-head">
 						<h2 class="header-title">SESSION LEVELS</h2>
 					</div>
-					<div>
-                        <p>Open FSharp aims to have content that is attractive both for beginners, and for experienced F# developers. We will have an equal amount of talks for each. When making your submission, please specify whether you intend this talk to be:</p>
-                        <p><strong>“Bunny"</strong>: I expect the audience to have limited knowledge of the language, and will treat them gently. My goal is to give them practical advice, and guide them on their journey to becoming a confident F# developer.</p>
-                        <p><strong>“Tiger”</strong>: I don’t plan on explaining language basics, I would like to jump right in advanced techniques that will inspire experienced F# developers to go further, or showcase what can be done stretching the language.</p>
-                        <p><strong>“Bear”</strong>: I have a very cool subject I want to present, but it is not F# specific. Although the demo's, code snippets, etc... will be in F#, knowing the language is not very important here.</p>
-                    </div>
+                    <p>Open FSharp aims to have content that is attractive both for beginners, and for experienced F# developers. We will have an equal amount of talks for each. When making your submission, please specify whether you intend this talk to be:</p>
+                    <p><strong>“Bunny"</strong>: I expect the audience to have limited knowledge of the language, and will treat them gently. My goal is to give them practical advice, and guide them on their journey to becoming a confident F# developer.</p>
+                    <p><strong>“Tiger”</strong>: I don’t plan on explaining language basics, I would like to jump right in advanced techniques that will inspire experienced F# developers to go further, or showcase what can be done stretching the language.</p>
+                    <p><strong>“Bear”</strong>: I have a very cool subject I want to present, but it is not F# specific. Although the demo's, code snippets, etc... will be in F#, knowing the language is not very important here.</p>
 				</div><!-- /.conference-main -->
                 <div class="conference-main">
 					<div class="section-head">
 						<h2 class="header-title">TOPICS</h2>
 					</div>
-					<div>
-                        <p>Whatever topic you find exciting - we want to hear about it! Of course, it should be F# related. In general, we are looking for talks focusing on practical applications of F#, and how the language can be used to build great solutions. We are particularly interested in topics such as cross platform development (dot net core and/or mono), mobile applications (Xamarin), Fable, design patterns, and testing.</p>
-                    </div>
+                    <p>Whatever topic you find exciting - we want to hear about it! Of course, it should be F# related. In general, we are looking for talks focusing on practical applications of F#, and how the language can be used to build great solutions. We are particularly interested in topics such as cross platform development (dot net core and/or mono), mobile applications (Xamarin), Fable, design patterns, and testing.</p>
 				</div><!-- /.conference-main -->
                 <div class="conference-main">
 					<div class="section-head">
 						<h2 class="header-title">TRAVEL EXPENSES</h2>
 					</div>
-					<div>
-                        <p>All speakers get free admission to the conference, and are invited to the speaker dinner. For speakers giving a talk or a hands-on session, we will cover travel expenses up to 500 USD for travel from the US, Mexico or Canada, and up to 750 USD for international travelers.</p> 
-                        <p>Sadly, we cannot cover travel expenses for Lightning Talks.</p>
-                    </div>
+                    <p>All speakers get free admission to the conference, and are invited to the speaker dinner. For speakers giving a talk or a hands-on session, we will cover travel expenses up to 500 USD for travel from the US, Mexico or Canada, and up to 750 USD for international travelers.</p> 
+                    <p>Sadly, we cannot cover travel expenses for Lightning Talks.</p>
 				</div><!-- /.conference-main -->
                 <div class="conference-main">
 					<div class="section-head">
 						<h2 class="header-title">PREPERATION AND COACHING</h2>
 					</div>
-					<div>
-                        <p>If you have ideas or questions you would like to run by us, or if you feel a dry run, some feedback or a bit of coaching would help - we'll do our best to get your session ready. Feel free to reach out at cfp@openfsharp.org if you want to discuss.</p>
-                    </div>
+                    <p>If you have ideas or questions you would like to run by us, or if you feel a dry run, some feedback or a bit of coaching would help - we'll do our best to get your session ready. Feel free to reach out at cfp@openfsharp.org if you want to discuss.</p>
 				</div><!-- /.conference-main -->
 			</div><!-- /.col-md-8 -->
 			<div class="col-md-4">
