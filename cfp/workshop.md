@@ -64,7 +64,7 @@ title: Call for papers workshop
 				</div><!-- /.conference-main -->
                 <div class="conference-main">
 					<div class="section-head">
-						<h2 class="header-title">PREPERATION AND COACHING</h2>
+						<h2 class="header-title">PREPARATION AND COACHING</h2>
 					</div>
                     <p>If you have ideas or questions you would like to run by us, or if you feel a dry run, some feedback or a bit of coaching would help - we'll do our best to help you get your workshop ready. Feel free to reach out at cfp@openfsharp.org if you want to discuss.</p>
 				</div><!-- /.conference-main -->
