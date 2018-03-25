@@ -34,11 +34,13 @@ title: Call for papers workshop
 					<div class="section-head">
 						<h2 class="header-title">TIMELINE</h2>
 					</div>
-                    <ul>
-                        <li>1st of April: Call for Papers are open.</li>
-                        <li>1st of June: Call for Papers close.</li>
-                        <li>1st of July: All submissions will have received feedback.</li>
-                    </ul>
+                    <p>
+                        <ul>
+                            <li>1st of April: Call for Papers are open.</li>
+                            <li>1st of June: Call for Papers close.</li>
+                            <li>1st of July: All submissions will have received feedback.</li>
+                        </ul>                    
+                    </p>
 				</div><!-- /.conference-main -->
                 <div class="conference-main">
 					<div class="section-head">
