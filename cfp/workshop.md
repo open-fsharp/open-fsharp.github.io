@@ -47,8 +47,8 @@ title: Call for papers workshop
 						<h2 class="header-title">SESSION LEVELS</h2>
 					</div>
                     <p>Open FSharp aims to have content that is attractive both for beginners, and for experienced F# developers. We will have an equal amount of workshops for each. When making your submission, please specify whether you intend this workshop to be:</p>
-                    <p><strong>Deep dive</strong>: Please have a basic knowledge of F# and want to dive into a specific topic for a full day workshop.</p>
-                    <p><strong>Taster</strong>: They are not that familiar yet with the topic or the language, but they want a taste of what can be done with it.</p>
+                    <p><strong>Deep dive</strong>: People have a basic knowledge of F# and want to dive into a specific topic for a full day workshop.</p>
+                    <p><strong>Taster</strong>: They are not that familiar yet with the topic, but they want a taste of what can be done with it.</p>
 				</div><!-- /.conference-main -->
                 <div class="conference-main">
 					<div class="section-head">
