@@ -46,7 +46,10 @@ title: Call for papers workshop
 					<div class="section-head">
 						<h2 class="header-title">SESSION LEVELS</h2>
 					</div>
-                    <p>Open FSharp aims to have content that is attractive both for beginners, and for experienced F# developers. We will have an equal amount of workshops for each. When making your submission, please specify whether you intend this workshop to be:</p>
+                    <p>In addition to the main conference, Open FSharp will feature a day of paid workshops on Wednesday, September 26th. Workshops are instructor lead sessions, intended to give a small group of attendees a chance to learn and practice first hand a specific topic.
+					<br>
+					We will feature two workshop formats:
+					</p>
                     <p><strong>Deep dive</strong>: People have a basic knowledge of F# and want to dive into a specific topic for a full day workshop.</p>
                     <p><strong>Taster</strong>: They are not that familiar yet with the topic, but they want a taste of what can be done with it.</p>
 				</div><!-- /.conference-main -->
@@ -58,7 +61,14 @@ title: Call for papers workshop
 				</div><!-- /.conference-main -->
                 <div class="conference-main">
 					<div class="section-head">
-						<h2 class="header-title">PAYMENT</h2>
+						<h2 class="header-title">FINANCIALS</h2>
+						<p>
+						Workshop registration will be separate from the main conference. Deep Dives or 2 Tasters will cost $375, a single Taster $225.
+						<br>
+						Workshop profits will be split equally between the instructor and the conference organization. In other words, for each workshop, half of what is left after the venue, food and various costs are paid for will go to the speaker, the rest being invested in the conference organization. This will be entirely independent from travel support.
+						<br>
+						If too few people register for a workshop (around 6 attendees), we reserve the right to cancel the workshop, rather than run it at a loss. We will do our best to make that decision as early as possible, likely around mid July.
+						</p>
 					</div>
                     <p></p>
 				</div><!-- /.conference-main -->
