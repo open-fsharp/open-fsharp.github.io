@@ -62,14 +62,14 @@ title: Call for papers workshop
                 <div class="conference-main">
 					<div class="section-head">
 						<h2 class="header-title">FINANCIALS</h2>
-						<p>
-						Workshop registration will be separate from the main conference. Deep Dives or 2 Tasters will cost $375, a single Taster $225.
-						<br>
-						Workshop profits will be split equally between the instructor and the conference organization. In other words, for each workshop, half of what is left after the venue, food and various costs are paid for will go to the speaker, the rest being invested in the conference organization. This will be entirely independent from travel support.
-						<br>
-						If too few people register for a workshop (around 6 attendees), we reserve the right to cancel the workshop, rather than run it at a loss. We will do our best to make that decision as early as possible, likely around mid July.
-						</p>
 					</div>
+					<p>
+					Workshop registration will be separate from the main conference. Deep Dives or 2 Tasters will cost $375, a single Taster $225.
+					<br>
+					Workshop profits will be split equally between the instructor and the conference organization. In other words, for each workshop, half of what is left after the venue, food and various costs are paid for will go to the speaker, the rest being invested in the conference organization. This will be entirely independent from travel support.
+					<br>
+					If too few people register for a workshop (around 6 attendees), we reserve the right to cancel the workshop, rather than run it at a loss. We will do our best to make that decision as early as possible, likely around mid July.
+					</p>
                     <p></p>
 				</div><!-- /.conference-main -->
                 <div class="conference-main">
