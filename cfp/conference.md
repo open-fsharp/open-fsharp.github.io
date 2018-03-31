@@ -18,7 +18,7 @@ title: Call for papers conference
                 </div><!-- /.row -->
             </div><!-- /.col-md-10 -->
             <div class="col-md-3">
-                <a target="_blank" href="" class="custom-btn hvr-bounce-to-bottom">Submit</a>
+                <a target="_blank" href="https://goo.gl/forms/zjh8hCgGMaQGSVdk1" class="custom-btn hvr-bounce-to-bottom">Submit</a>
             </div><!-- /.col-md-2 -->
         </div><!-- /.row -->
     </div><!-- /.container -->

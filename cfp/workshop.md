@@ -18,7 +18,7 @@ title: Call for papers workshop
                 </div><!-- /.row -->
             </div><!-- /.col-md-10 -->
             <div class="col-md-3">
-                <a target="_blank" href="" class="custom-btn hvr-bounce-to-bottom">Submit</a>
+                <a target="_blank" href="https://goo.gl/forms/uRrC8K5mMMbbD9fo1" class="custom-btn hvr-bounce-to-bottom">Submit</a>
             </div><!-- /.col-md-2 -->
         </div><!-- /.row -->
     </div><!-- /.container -->
