@@ -55,12 +55,6 @@ title: Call for papers workshop
 				</div><!-- /.conference-main -->
                 <div class="conference-main">
 					<div class="section-head">
-						<h2 class="header-title">TOPICS</h2>
-					</div>
-                    <p>Whatever topic you find exciting - we want to hear about it! Of course, it should be F# related. In general, we are looking for workshops focusing on practical applications of F#, and how the language can be used to build great solutions. We are particularly interested in topics such as cross platform development, mobile development, Fable...</p>
-				</div><!-- /.conference-main -->
-                <div class="conference-main">
-					<div class="section-head">
 						<h2 class="header-title">FINANCIALS</h2>
 					</div>
 					<p>
