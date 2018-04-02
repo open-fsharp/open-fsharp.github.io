@@ -11,8 +11,8 @@ title: Call for papers workshop
             <div class="col-md-9">
                 <div class="row">
                     <div class="call-for-paper-item">
-                        <h2>Presenting at Open FSharp 2018</h2>
-                        <p>Do you have something you would like to present at open fsharp? We would love to hear about it!</p> 
+                        <h2>Workshop at Open FSharp 2018</h2>
+                        <p>Do you have a workshop you would like to give at Open FSharp?</p> 
                         <p>Before going further, here is a bit of information about the event, to help you prepare your submission.</p>
                     </div>
                 </div><!-- /.row -->
@@ -71,6 +71,11 @@ title: Call for papers workshop
 						<h2 class="header-title">PREPARATION AND COACHING</h2>
 					</div>
                     <p>If you have ideas or questions you would like to run by us, or if you feel a dry run, some feedback or a bit of coaching would help - we'll do our best to help you get your workshop ready. Feel free to reach out at cfp@openfsharp.org if you want to discuss.</p>
+				</div><!-- /.conference-main -->
+				<div class="conference-main">
+					<div class="button-group">
+						<a href="https://goo.gl/forms/uRrC8K5mMMbbD9fo1" class="custom-btn hvr-bounce-to-bottom" target="_blank">Submit</a>
+					</div>
 				</div><!-- /.conference-main -->
 			</div><!-- /.col-md-8 -->
 			<div class="col-md-4">
