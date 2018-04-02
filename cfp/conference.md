@@ -68,7 +68,7 @@ title: Call for papers conference
 					<div class="section-head">
 						<h2 class="header-title">PREPARATION AND COACHING</h2>
 					</div>
-                    <p>If you have ideas or questions you would like to run by us, or if you feel a dry run, some feedback or a bit of coaching would help - we'll do our best to get your session ready. Feel free to reach out at cfp@openfsharp.org if you want to discuss.</p>
+                    <p>If you have ideas or questions you would like to run by us, or if you feel a dry run, some feedback or a bit of coaching would help - we'll do our best to get your session ready. Feel free to reach out at <a href="mailto:cfp@openfsharp.org" >cfp@openfsharp.org</a> if you want to discuss.</p>
 				</div><!-- /.conference-main -->
 				<div class="conference-main">
 					<div class="button-group">
