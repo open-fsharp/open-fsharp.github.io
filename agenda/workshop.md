@@ -3,6 +3,24 @@ layout: default
 title: Agenda workshop 2018
 ---
 
+<!--  start cfp header   -->
+<section id="header" class="become-sponsor">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-9">
+                <div class="row">
+                    <div class="become-sponsor-item">
+                        <h2>Workshops 2018</h2>
+                        <p>A conference to learn, create and connect with F# and its Community.</p> 
+                    </div>
+                </div><!-- /.row -->
+            </div><!-- /.col-md-10 -->
+        </div><!-- /.row -->
+    </div><!-- /.container -->
+</section>
+<!--  start cfp header   -->
+
 <!-- start event-schedule  -->
 <section class="event-schedule homepage2">
     <div class="container">
