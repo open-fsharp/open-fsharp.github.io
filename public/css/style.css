@@ -2089,3 +2089,7 @@ input {
 .homepage2 .schedule-item:last-child {
     margin-bottom: 0;
 }
+.homepage2 .event-schedule-speaker {
+	border: none;
+	width: 100%;
+}
