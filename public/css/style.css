@@ -2092,4 +2092,10 @@ input {
 .homepage2 .event-schedule-speaker {
 	border: none;
 	width: 100%;
+	text-align: left;
+}
+.homepage2 .event-time {
+	border: none;
+	width: 100%;
+	text-align: left;
 }
