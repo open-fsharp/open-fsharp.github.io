@@ -73,7 +73,7 @@ title: Agenda workshop 2018
                                 <div class="schedule-item">
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-schedule-speaker">
-                                            <img src="assets/images/homepage1/event-schedule/01.png" alt="speaker">
+                                            <img src="public/assets/speakers/2018/jorge-fioranelli.jpg" alt="speaker" />
                                             <a href="#">Jorge Fioranelli</a>
                                         </div>
                                     </div><!-- /.col-md-3 -->
@@ -91,7 +91,7 @@ title: Agenda workshop 2018
                                 <div class="schedule-item">
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-schedule-speaker">
-                                            <img src="assets/images/homepage1/event-schedule/01.png" alt="speaker">
+                                            <img src="public/assets/speakers/2018/ryan-riley.jpg" alt="Ryan Riley" />
                                             <a href="#">Ryan Riley</a>
                                         </div>
                                     </div><!-- /.col-md-3 -->
