@@ -204,7 +204,25 @@ title: Agenda workshop 2018
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
                                     <div class="col-xs-2 col-sm-2 col-md-2">
                                         <div class="item-inner event-time">
-                                            <span>09:00 AM</span>
+                                            <span>02:00 PM</span>
+                                        </div>
+                                    </div><!-- /.col-xs-2 col-sm-2 col-md-2 -->
+                                </div><!-- /.schedule-item -->
+                                <div class="schedule-item">
+                                    <div class="col-xs-4 col-sm-4 col-md-4">
+                                        <div class="item-inner event-schedule-speaker">
+                                            <img src="assets/images/homepage1/event-schedule/01.png" alt="speaker">
+                                            <a href="#">Tomaz Petricek</a>
+                                        </div>
+                                    </div><!-- /.col-md-3 -->
+                                    <div class="col-xs-4 col-sm-4 col-md-4">
+                                        <div class="item-inner event-session">
+                                            <span>Async</span>
+                                        </div>
+                                    </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
+                                    <div class="col-xs-2 col-sm-2 col-md-2">
+                                        <div class="item-inner event-time">
+                                            <span>02:00 PM</span>
                                         </div>
                                     </div><!-- /.col-xs-2 col-sm-2 col-md-2 -->
                                 </div><!-- /.schedule-item -->
