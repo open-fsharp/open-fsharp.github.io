@@ -2045,8 +2045,8 @@ input {
     margin-bottom: 0;
     overflow: visible;
     background: #fafafa;
-    margin-left: 6px;
-    margin-top: 6px;
+	margin-top: 6px;
+	width: 220px;
 }
 .homepage2 .event-schedule-inner .nav-tab li a {
 	padding: 30px 30px;
