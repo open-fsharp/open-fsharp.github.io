@@ -2018,3 +2018,74 @@ input {
 /*-------------------------------------
 	32  Schedule section
 --------------------------------------*/
+/* conference schedule  */
+.homepage2 .tab-content {
+    width: 80%;
+    float: right;
+}
+
+.homepage2 .nav-tab {
+    width: 16%;
+    float: left;
+    padding: 0;
+    border: none;
+}
+.homepage2 .event-schedule-inner .nav-tab li a strong {
+    float: none;
+    font-size: 48px;
+    line-height: 50px;
+}
+.homepage2 .event-schedule-inner .nav-tab li a .date {
+    margin-left: 0;
+    display: table;
+}
+
+.homepage2 .event-schedule-inner .nav-tab li {
+    border: 1px solid #ebebeb;
+    margin-bottom: 0;
+    overflow: visible;
+    background: #fafafa;
+    margin-left: 6px;
+    margin-top: 6px;
+}
+.homepage2 .event-schedule-inner .nav-tab li a {
+	padding: 30px 30px;
+}
+.homepage2 .event-schedule-inner .nav-tab li:last-child {
+	margin-left: 0px;
+}
+.homepage2 .event-schedule-inner .nav-tab li.active {
+    background-color: #363636;
+    color: #fff;
+}
+
+.homepage2 .event-schedule-inner .nav-tab li.active>a {
+	position: relative;
+}
+
+.homepage2 .event-schedule-inner .nav-tab li.active>a:after {
+	content: "";
+    position: absolute;
+    right: -22px;
+    top: 25px;
+    border-style: solid;
+    border-width: 15px 15px 0px;
+    border-color: #363636 transparent;
+    transform: rotate(-90deg);
+    display: block;
+    width: 0;
+    z-index: 1;
+}
+.homepage2 .event-schedule-inner .nav-tab li.active>a:hover:after {
+	border-color: #ff6f50 transparent;
+}
+.homepage2 .tab-pane {
+    background: #fff;
+    padding: 6px;
+}
+.homepage2 .schedule-item:nth-child(even) {
+    background-color: #fafafa;
+}
+.homepage2 .schedule-item:last-child {
+    margin-bottom: 0;
+}
