@@ -74,7 +74,7 @@ title: Agenda workshop 2018
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-schedule-speaker">
                                             <img src="{{ site.baseurl }}public/assets/speakers/2018/jorge-fioranelli.jpg" alt="speaker" />
-                                            <a href="#">Jorge Fioranelli</a>
+                                            <a href="https://twitter.com/jorgefioranelli" target="_blank">Jorge Fioranelli</a>
                                         </div>
                                     </div><!-- /.col-md-3 -->
                                     <div class="col-xs-4 col-sm-4 col-md-4">
@@ -92,7 +92,7 @@ title: Agenda workshop 2018
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-schedule-speaker">
                                             <img src="{{ site.baseurl }}public/assets/speakers/2018/ryan-riley.jpg" alt="Ryan Riley" />
-                                            <a href="#">Ryan Riley</a>
+                                            <a href="https://twitter.com/panesofglass" target="_blank">Ryan Riley</a>
                                         </div>
                                     </div><!-- /.col-md-3 -->
                                     <div class="col-xs-4 col-sm-4 col-md-4">
@@ -133,8 +133,8 @@ title: Agenda workshop 2018
                                 <div class="schedule-item">
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-schedule-speaker">
-                                            <img src="assets/images/homepage1/event-schedule/02.png" alt="speaker">
-                                            <a href="#">Alfonso Caro-Garcia</a>
+                                            <img src="{{ site.baseurl }}public/assets/speakers/2018/alfonso-garcia-caro.jpg" alt="Alfonso Garcia-Caro" />
+                                            <a href="https://twitter.com/alfonsogcnunez" target="_blank">Alfonso Garcia-Caro</a>
                                         </div>
                                     </div><!-- /.col-md-3 -->
                                     <div class="col-xs-4 col-sm-4 col-md-4">
@@ -151,8 +151,8 @@ title: Agenda workshop 2018
                                 <div class="schedule-item">
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-schedule-speaker">
-                                            <img src="assets/images/homepage1/event-schedule/02.png" alt="speaker">
-                                            <a href="#">Evelina Gabasova</a>
+                                            <img src="{{ site.baseurl }}public/assets/speakers/2018/evelina-gabasova.jpg" alt="Evelina Gabasova" />
+                                            <a href="https://twitter.com/evelgab" target="_blank">Evelina Gabasova</a>
                                         </div>
                                     </div><!-- /.col-md-3 -->
                                     <div class="col-xs-4 col-sm-4 col-md-4">
@@ -193,8 +193,8 @@ title: Agenda workshop 2018
                                 <div class="schedule-item">
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-schedule-speaker">
-                                            <img src="assets/images/homepage1/event-schedule/01.png" alt="speaker">
-                                            <a href="#">Krzysztof Cieslak</a>
+                                            <img src="{{ site.baseurl }}public/assets/speakers/2018/krzysztof-cieslak.jpg" alt="Krzysztof Cieslak" />
+                                            <a href="https://twitter.com/k_cieslak" target="_blank">Krzysztof Cieslak</a>
                                         </div>
                                     </div><!-- /.col-md-3 -->
                                     <div class="col-xs-4 col-sm-4 col-md-4">
@@ -211,8 +211,8 @@ title: Agenda workshop 2018
                                 <div class="schedule-item">
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-schedule-speaker">
-                                            <img src="assets/images/homepage1/event-schedule/01.png" alt="speaker">
-                                            <a href="#">Tomaz Petricek</a>
+                                            <img src="{{ site.baseurl }}public/assets/speakers/2018/tomas-petricek.jpg" alt="Tomas Petricek">
+                                            <a href="https://twitter.com/tomaspetricek" target="_blank">Tomas Petricek</a>
                                         </div>
                                     </div><!-- /.col-md-3 -->
                                     <div class="col-xs-4 col-sm-4 col-md-4">
