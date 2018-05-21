@@ -75,42 +75,6 @@ title: Agenda workshop 2018
 					</div><!-- /.conference-info -->
 				</div><!-- /.conference-info-outer -->
 			</div><!-- /.col-md-4 -->
-			<div class="col-md-4">
-				<div class="conference-info-outer">
-					<div class="conference-info">
-						<ul>
-							<li>
-								<span class="c-info-icon"><i class="fas fa-map-marker-alt"></i></span>
-								<span class="c-info-content">
-									<strong>San Francisco, USA</strong>
-									<span class="i-text"><a href="#" target="_blank">Broadway venue, SF</a></span>
-								</span>
-							</li>
-							<li>
-								<span class="c-info-icon"><i class="far fa-calendar-alt"></i></span>
-								<span class="c-info-content">
-									<strong>26-28 September 2018</strong>
-									<span class="i-text">1 day workshop and 2 day conference</span>
-								</span>
-							</li>
-							<li>
-								<span class="c-info-icon"><i class="fas fa-sitemap"></i></span>
-								<span class="c-info-content">
-									<strong>150 Seats</strong>
-									<span class="i-text">Register and Confirm your Seat</span>
-								</span>
-							</li>
-							<li>
-								<span class="c-info-icon"><i class="fas fa-microphone"></i></span>
-								<span class="c-info-content">
-									<strong>20+ Speakers</strong>
-									<span class="i-text">Popular Speakers Attend Here</span>
-								</span>
-							</li>
-						</ul>
-					</div><!-- /.conference-info -->
-				</div><!-- /.conference-info-outer -->
-			</div><!-- /.col-md-4 -->
 		</div><!-- /.row -->
 	</div><!-- /.container -->
 </section>
