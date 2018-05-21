@@ -3,7 +3,7 @@ layout: default
 title: Agenda workshop 2018
 ---
 
-<!--  start cfp header   -->
+<!--  start header   -->
 <section id="header" class="become-sponsor">
     <div class="overlay"></div>
     <div class="container">
@@ -19,7 +19,102 @@ title: Agenda workshop 2018
         </div><!-- /.row -->
     </div><!-- /.container -->
 </section>
-<!--  start cfp header   -->
+<!--  start header   -->
+
+<!-- start national-conference section  -->
+<section id="about" class="national-conference">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8">
+				<div class="conference-main">
+					<div class="section-head">
+						<h2 class="header-title">Workshop information</h2>
+						<p class="header-desc">26th of September 2018</p>
+					</div>
+					<p>Separately from the conference, there will be a one day workshop this year too! It will take place on the 26th of September.
+				    </p>
+                    <p>Not sure yet which workshop you want to go to? <br> No worries, you can buy your ticket type now and decide a specific workshop later!</p>
+					<div class="button-group">
+						<a href="https://www.eventbrite.com/e/open-fsharp-2018-the-conference-to-connect-with-f-and-its-community-tickets-38246274637" class="custom-btn hvr-bounce-to-bottom">Buy Ticket</a>							
+					</div>
+				</div><!-- /.conference-main -->
+			</div><!-- /.col-md-8 -->
+            <div class="col-md-4">
+				<div class="conference-info-outer">
+					<div class="conference-info">
+						<ul>
+                        	<li>
+								<span class="c-info-icon"><i class="fas fa-map-marker-alt"></i></span>
+								<span class="c-info-content">
+									<strong>San Francisco, USA</strong>
+									<span class="i-text"><a href="#" target="_blank">TBA</a></span>
+								</span>
+							</li>
+							<li>
+								<span class="c-info-icon"><i class="far fa-calendar-alt"></i></span>
+								<span class="c-info-content">
+									<strong>26 September 2018</strong>
+									<span class="i-text">full or half a day workshop</span>
+								</span>
+							</li>
+							<li>
+								<span class="c-info-icon"><i class="fas fa-cogs"></i></span>
+								<span class="c-info-content">
+									<strong>Deep dive</strong>
+									<span class="i-text">8 hours of happiness</span>
+								</span>
+							</li>
+							<li>
+								<span class="c-info-icon"><i class="fas fa-battery-half"></i></span>
+								<span class="c-info-content">
+									<strong>Taster</strong>
+									<span class="i-text">4 hours of pure joy</span>
+								</span>
+							</li>
+						</ul>
+					</div><!-- /.conference-info -->
+				</div><!-- /.conference-info-outer -->
+			</div><!-- /.col-md-4 -->
+			<div class="col-md-4">
+				<div class="conference-info-outer">
+					<div class="conference-info">
+						<ul>
+							<li>
+								<span class="c-info-icon"><i class="fas fa-map-marker-alt"></i></span>
+								<span class="c-info-content">
+									<strong>San Francisco, USA</strong>
+									<span class="i-text"><a href="#" target="_blank">Broadway venue, SF</a></span>
+								</span>
+							</li>
+							<li>
+								<span class="c-info-icon"><i class="far fa-calendar-alt"></i></span>
+								<span class="c-info-content">
+									<strong>26-28 September 2018</strong>
+									<span class="i-text">1 day workshop and 2 day conference</span>
+								</span>
+							</li>
+							<li>
+								<span class="c-info-icon"><i class="fas fa-sitemap"></i></span>
+								<span class="c-info-content">
+									<strong>150 Seats</strong>
+									<span class="i-text">Register and Confirm your Seat</span>
+								</span>
+							</li>
+							<li>
+								<span class="c-info-icon"><i class="fas fa-microphone"></i></span>
+								<span class="c-info-content">
+									<strong>20+ Speakers</strong>
+									<span class="i-text">Popular Speakers Attend Here</span>
+								</span>
+							</li>
+						</ul>
+					</div><!-- /.conference-info -->
+				</div><!-- /.conference-info-outer -->
+			</div><!-- /.col-md-4 -->
+		</div><!-- /.row -->
+	</div><!-- /.container -->
+</section>
+<!-- end national-conference section  -->
 
 <!-- start event-schedule  -->
 <section class="event-schedule homepage2">
