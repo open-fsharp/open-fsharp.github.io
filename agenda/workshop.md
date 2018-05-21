@@ -33,7 +33,7 @@ title: Agenda workshop 2018
 					</div>
 					<p>Separately from the conference, there will be a one day workshop this year too! It will take place on the 26th of September.
 				    </p>
-                    <p>Not sure yet which workshop you want to go to? <br> No worries, you can buy your ticket type now and decide a specific workshop later!</p>
+                    <p>Not sure yet which workshop you want to go to? <br> No worries, you can buy your ticket type now and decide a specific workshop later.</p>
 					<div class="button-group">
 						<a href="https://www.eventbrite.com/e/open-fsharp-2018-the-conference-to-connect-with-f-and-its-community-tickets-38246274637" class="custom-btn hvr-bounce-to-bottom">Buy Ticket</a>							
 					</div>
