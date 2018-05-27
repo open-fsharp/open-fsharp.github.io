@@ -139,7 +139,7 @@ title: Agenda workshop 2018
                                             <span>F# Introduction</span>
                                         </div>
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
-                                    <div class="col-xs-4 col-sm-4 col-md-4">
+                                    <div class="col-xs-2 col-sm-2 col-md-2">
                                         <div class="item-inner event-session">
                                             <span>Deep Dive</span>
                                         </div>
@@ -162,7 +162,7 @@ title: Agenda workshop 2018
                                             <span>Computation Expressions</span>
                                         </div>
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
-                                    <div class="col-xs-4 col-sm-4 col-md-4">
+                                    <div class="col-xs-2 col-sm-2 col-md-2">
                                         <div class="item-inner event-session">
                                             <span>Deep Dive</span>
                                         </div>
@@ -185,7 +185,7 @@ title: Agenda workshop 2018
                                             <span>Introduction into Fable</span>
                                         </div>
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
-                                    <div class="col-xs-4 col-sm-4 col-md-4">
+                                    <div class="col-xs-2 col-sm-2 col-md-2">
                                         <div class="item-inner event-session">
                                             <span>Taster</span>
                                         </div>
@@ -208,7 +208,7 @@ title: Agenda workshop 2018
                                             <span>Machine Learning hands-on</span>
                                         </div>
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
-                                    <div class="col-xs-4 col-sm-4 col-md-4">
+                                    <div class="col-xs-2 col-sm-2 col-md-2">
                                         <div class="item-inner event-session">
                                             <span>Taster</span>
                                         </div>
@@ -231,7 +231,7 @@ title: Agenda workshop 2018
                                             <span>F# Full Stack with SAFE</span>
                                         </div>
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
-                                    <div class="col-xs-4 col-sm-4 col-md-4">
+                                    <div class="col-xs-2 col-sm-2 col-md-2">
                                         <div class="item-inner event-session">
                                             <span>Taster</span>
                                         </div>
@@ -254,7 +254,7 @@ title: Agenda workshop 2018
                                             <span>Reactive and async abstractions</span>
                                         </div>
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
-                                    <div class="col-xs-4 col-sm-4 col-md-4">
+                                    <div class="col-xs-2 col-sm-2 col-md-2">
                                         <div class="item-inner event-session">
                                             <span>Taster</span>
                                         </div>
