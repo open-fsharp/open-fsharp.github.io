@@ -93,16 +93,8 @@ title: Agenda workshop 2018
                     <!-- Nav tabs -->
                     <ul class="nav-tab" role="tablist">
                         <li role="presentation" class="active"><a href="#first-date1" aria-controls="first-date1" role="tab" data-toggle="tab">
-                            <strong>ALL DAY</strong>
+                            <strong>WORKSHOPS</strong>
                             <span class="date"> 26 September, 2018</span>
-                        </a></li>
-                        <li role="presentation"><a href="#second-date2" aria-controls="second-date2" role="tab" data-toggle="tab">
-                            <strong>MORNING</strong>
-                            <span class="date">26 September, 2018</span>
-                        </a></li>
-                        <li role="presentation"><a href="#third-date3" aria-controls="third-date3" role="tab" data-toggle="tab">
-                            <strong>AFTERNOON</strong>
-                            <span class="date">26 September, 2018</span>
                         </a></li>
                     </ul>
                     <!-- Tab panes -->
@@ -124,6 +116,12 @@ title: Agenda workshop 2018
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
                                     <div class="col-xs-2 col-sm-2 col-md-2">
                                         <div class="item-inner">
+                                            <span><i class="fas fa-chalkboard"></i></span>
+                                            <span>Type</span>
+                                        </div>
+                                    </div><!-- /.col-xs-2 col-sm-2 col-md-2 -->
+                                    <div class="col-xs-2 col-sm-2 col-md-2">
+                                        <div class="item-inner">
                                             <span><i class="fa fa-calendar"></i></span>
                                             <span>Time</span>
                                         </div>
@@ -139,6 +137,11 @@ title: Agenda workshop 2018
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-session">
                                             <span>F# Introduction</span>
+                                        </div>
+                                    </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
+                                    <div class="col-xs-2 col-sm-2 col-md-2">
+                                        <div class="item-inner event-session">
+                                            <span>Deep Dive</span>
                                         </div>
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
                                     <div class="col-xs-2 col-sm-2 col-md-2">
@@ -160,34 +163,15 @@ title: Agenda workshop 2018
                                         </div>
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
                                     <div class="col-xs-2 col-sm-2 col-md-2">
+                                        <div class="item-inner event-session">
+                                            <span>Deep Dive</span>
+                                        </div>
+                                    </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
+                                    <div class="col-xs-2 col-sm-2 col-md-2">
                                         <div class="item-inner event-time">
                                             <span>09:00 AM</span>
                                         </div>
                                     </div><!-- /.col-xs-2 col-sm-2 col-md-2 -->       
-                                </div><!-- /.schedule-item -->
-                            </div><!-- /.schedule-wrapper -->
-                        </div>
-                        <div role="tabpanel" class="tab-pane fade" id="second-date2">
-                            <div class="schedule-wrapper">
-                                <div class="schedule-item header">
-                                    <div class="col-xs-4 col-sm-4 col-md-4">
-                                        <div class="item-inner">
-                                            <span><i class="fa fa-microphone"></i></span>
-                                            <span>Speakers</span>
-                                        </div>
-                                    </div><!-- /.col-md-3 -->
-                                    <div class="col-xs-4 col-sm-4 col-md-4">
-                                        <div class="item-inner">
-                                            <span><i class="fa fa-list-alt"></i></span>
-                                            <span>Session</span>
-                                        </div>
-                                    </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
-                                    <div class="col-xs-2 col-sm-2 col-md-2">
-                                        <div class="item-inner">
-                                            <span><i class="fa fa-calendar"></i></span>
-                                            <span>Time</span>
-                                        </div>
-                                    </div><!-- /.col-xs-2 col-sm-2 col-md-2 -->
                                 </div><!-- /.schedule-item -->
                                 <div class="schedule-item">
                                     <div class="col-xs-4 col-sm-4 col-md-4">
@@ -199,6 +183,11 @@ title: Agenda workshop 2018
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-session">
                                             <span>Introduction into Fable</span>
+                                        </div>
+                                    </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
+                                    <div class="col-xs-2 col-sm-2 col-md-2">
+                                        <div class="item-inner event-session">
+                                            <span>Taster</span>
                                         </div>
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
                                     <div class="col-xs-2 col-sm-2 col-md-2">
@@ -220,32 +209,13 @@ title: Agenda workshop 2018
                                         </div>
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
                                     <div class="col-xs-2 col-sm-2 col-md-2">
-                                        <div class="item-inner event-time">
-                                            <span>09:00 AM</span>
-                                        </div>
-                                    </div><!-- /.col-xs-2 col-sm-2 col-md-2 -->
-                                </div><!-- /.schedule-item -->
-                            </div><!-- /.schedule-wrapper -->
-                        </div>
-                        <div role="tabpanel" class="tab-pane fade" id="third-date3">
-                            <div class="schedule-wrapper">
-                                <div class="schedule-item header">
-                                    <div class="col-xs-4 col-sm-4 col-md-4">
-                                        <div class="item-inner">
-                                            <span><i class="fa fa-microphone"></i></span>
-                                            <span>Speakers</span>
-                                        </div>
-                                    </div><!-- /.col-md-3 -->
-                                    <div class="col-xs-4 col-sm-4 col-md-4">
-                                        <div class="item-inner">
-                                            <span><i class="fa fa-list-alt"></i></span>
-                                            <span>Session</span>
+                                        <div class="item-inner event-session">
+                                            <span>Taster</span>
                                         </div>
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
                                     <div class="col-xs-2 col-sm-2 col-md-2">
-                                        <div class="item-inner">
-                                            <span><i class="fa fa-calendar"></i></span>
-                                            <span>Time</span>
+                                        <div class="item-inner event-time">
+                                            <span>09:00 AM</span>
                                         </div>
                                     </div><!-- /.col-xs-2 col-sm-2 col-md-2 -->
                                 </div><!-- /.schedule-item -->
@@ -259,6 +229,11 @@ title: Agenda workshop 2018
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-session">
                                             <span>F# Full Stack with SAFE</span>
+                                        </div>
+                                    </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
+                                    <div class="col-xs-2 col-sm-2 col-md-2">
+                                        <div class="item-inner event-session">
+                                            <span>Taster</span>
                                         </div>
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
                                     <div class="col-xs-2 col-sm-2 col-md-2">
@@ -277,6 +252,11 @@ title: Agenda workshop 2018
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-session">
                                             <span>Reactive and async abstractions</span>
+                                        </div>
+                                    </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
+                                    <div class="col-xs-2 col-sm-2 col-md-2">
+                                        <div class="item-inner event-session">
+                                            <span>Taster</span>
                                         </div>
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
                                     <div class="col-xs-2 col-sm-2 col-md-2">
