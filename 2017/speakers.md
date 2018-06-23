@@ -28,9 +28,9 @@ title: Speakers
 							<div class="speaker-social">
 								<ul class="social-media">
 									<!--<li><a href="#"><i class="fa fa-facebook"></i></a></li>-->
-									<li><a href="https://twitter.com/lenadroid"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="https://github.com/lenadroid"><i class="fa fa-github"></i></a></li>
-									<li><a href="https://lenadroid.github.io/posts.html"><i class="fa fa-rss"></i></a></li>	
+									<li><a href="https://twitter.com/lenadroid"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="https://github.com/lenadroid"><i class="fab fa-github-alt"></i></a></li>
+									<li><a href="https://lenadroid.github.io/posts.html"><i class="fas fa-rss"></i></a></li>	
 								</ul>
 							</div>
 						</div><!-- /.speaker-item -->
@@ -49,8 +49,8 @@ title: Speakers
 							<div class="speaker-social">
 								<ul class="social-media">
 									<!--<li><a href="#"><i class="fa fa-facebook"></i></a></li>-->
-									<li><a href="https://twitter.com/lefthandedgoat"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="https://github.com/lefthandedgoat"><i class="fa fa-github"></i></a></li>							
+									<li><a href="https://twitter.com/lefthandedgoat"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="https://github.com/lefthandedgoat"><i class="fab fa-github-alt"></i></a></li>							
 								</ul>
 							</div>
 						</div><!-- /.speaker-item -->
@@ -68,8 +68,8 @@ title: Speakers
 							</div>
 							<div class="speaker-social">
 								<ul class="social-media">
-									<li><a href="https://twitter.com/aChrisSmith"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="http://completely-unique.com/"><i class="fa fa-rss"></i></a></li>								
+									<li><a href="https://twitter.com/aChrisSmith"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="http://completely-unique.com/"><i class="fas fa-rss"></i></a></li>								
 								</ul>
 							</div>
 						</div><!-- /.speaker-item -->
@@ -87,8 +87,8 @@ title: Speakers
 							</div>
 							<div class="speaker-social">
 								<ul class="social-media">										
-									<li><a href="https://twitter.com/cgravill"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="https://github.com/cgravill"><i class="fa fa-github"></i></a></li>								
+									<li><a href="https://twitter.com/cgravill"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="https://github.com/cgravill"><i class="fab fa-github-alt"></i></a></li>								
 								</ul>
 							</div>
 						</div><!-- /.speaker-item -->
@@ -106,7 +106,7 @@ title: Speakers
 							</div>
 							<div class="speaker-social">
 								<ul class="social-media">										
-									<li><a href="https://twitter.com/dplattsf"><i class="fa fa-twitter"></i></a></li>											
+									<li><a href="https://twitter.com/dplattsf"><i class="fab fa-twitter"></i></a></li>											
 								</ul>
 							</div>
 						</div><!-- /.speaker-item -->
@@ -125,8 +125,8 @@ title: Speakers
 							</div>
 							<div class="speaker-social">
 								<ul class="social-media">										
-									<li><a href="https://twitter.com/i_no_see_pound"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="https://github.com/ninjarobot"><i class="fa fa-github"></i></a></li>											
+									<li><a href="https://twitter.com/i_no_see_pound"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="https://github.com/ninjarobot"><i class="fab fa-github-alt"></i></a></li>											
 								</ul>
 							</div>
 						</div><!-- /.speaker-item -->
@@ -147,8 +147,8 @@ title: Speakers
 							<div class="speaker-social">
 								<ul class="social-media">
 									<!--<li><a href="#"><i class="fa fa-facebook"></i></a></li>-->
-									<li><a href="https://twitter.com/EdgarSanchez"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="https://github.com/edgarsanchez"><i class="fa fa-github"></i></a></li>
+									<li><a href="https://twitter.com/EdgarSanchez"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="https://github.com/edgarsanchez"><i class="fab fa-github-alt"></i></a></li>
 								</ul>
 							</div>
 						</div><!-- /.speaker-item -->
@@ -168,8 +168,8 @@ title: Speakers
 							<div class="speaker-social">
 								<ul class="social-media">
 									<!--<li><a href="#"><i class="fa fa-facebook"></i></a></li>-->
-									<li><a href="https://twitter.com/enricosada"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="https://github.com/enricosada"><i class="fa fa-github"></i></a></li>
+									<li><a href="https://twitter.com/enricosada"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="https://github.com/enricosada"><i class="fab fa-github-alt"></i></a></li>
 									<li><a href="https://www.linkedin.com/in/enricosada"><i class="fa fa-linkedin"></i></a></li>
 								</ul>
 							</div>
@@ -207,8 +207,8 @@ title: Speakers
 							<div class="speaker-social">
 								<ul class="social-media">
 									<!--<li><a href="#"><i class="fa fa-facebook"></i></a></li>-->
-									<li><a href="https://twitter.com/deltapoint"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="https://www.deltapointsolutions.com/blog/"><i class="fa fa-rss"></i></a></li>
+									<li><a href="https://twitter.com/deltapoint"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="https://www.deltapointsolutions.com/blog/"><i class="fas fa-rss"></i></a></li>
 									<li><a href="https://www.linkedin.com/in/eric-lynn-deltapoint/"><i class="fa fa-linkedin"></i></a></li>
 								</ul>
 							</div>
@@ -229,9 +229,9 @@ title: Speakers
 							<div class="speaker-social">
 								<ul class="social-media">
 									<!--<li><a href="#"><i class="fa fa-facebook"></i></a></li>-->
-									<li><a href="https://twitter.com/jamie_dixon"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="https://github.com/jamessdixon"><i class="fa fa-github"></i></a></li>
-									<li><a href="https://jamessdixon.wordpress.com/"><i class="fa fa-rss"></i></a></li>								
+									<li><a href="https://twitter.com/jamie_dixon"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="https://github.com/jamessdixon"><i class="fab fa-github-alt"></i></a></li>
+									<li><a href="https://jamessdixon.wordpress.com/"><i class="fas fa-rss"></i></a></li>								
 								</ul>
 							</div>
 						</div><!-- /.speaker-item -->
@@ -250,9 +250,9 @@ title: Speakers
 							</div>
 							<div class="speaker-social">
 								<ul class="social-media">
-									<li><a href="https://twitter.com/mrjabbott"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="https://github.com/jeremyabbott"><i class="fa fa-github"></i></a></li>
-									<li><a href="http://jeremyabbott.github.io"><i class="fa fa-rss"></i></a></li>								
+									<li><a href="https://twitter.com/mrjabbott"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="https://github.com/jeremyabbott"><i class="fab fa-github-alt"></i></a></li>
+									<li><a href="http://jeremyabbott.github.io"><i class="fas fa-rss"></i></a></li>								
 								</ul>
 							</div>
 						</div><!-- /.speaker-item -->
@@ -271,9 +271,9 @@ title: Speakers
 							</div>
 							<div class="speaker-social">
 								<ul class="social-media">
-									<li><a href="https://twitter.com/jeremybellows"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="https://github.com/JeremyBellows"><i class="fa fa-github"></i></a></li>
-									<li><a href="http://jeremybellows.com/"><i class="fa fa-rss"></i></a></li>								
+									<li><a href="https://twitter.com/jeremybellows"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="https://github.com/JeremyBellows"><i class="fab fa-github-alt"></i></a></li>
+									<li><a href="http://jeremybellows.com/"><i class="fas fa-rss"></i></a></li>								
 								</ul>
 							</div>
 						</div><!-- /.speaker-item -->
@@ -293,9 +293,9 @@ title: Speakers
 							<div class="speaker-social">
 								<ul class="social-media">
 									<!--<li><a href="#"><i class="fa fa-facebook"></i></a></li>-->
-									<li><a href="https://twitter.com/LincolnAtkinson"><i class="fa fa-twitter"></i></a></li>
-									<li><a href=" https://github.com/latkin"><i class="fa fa-github"></i></a></li>
-									<li><a href="http://latkin.org/blog/"><i class="fa fa-rss"></i></a></li>								
+									<li><a href="https://twitter.com/LincolnAtkinson"><i class="fab fa-twitter"></i></a></li>
+									<li><a href=" https://github.com/latkin"><i class="fab fa-github-alt"></i></a></li>
+									<li><a href="http://latkin.org/blog/"><i class="fas fa-rss"></i></a></li>								
 								</ul>
 							</div>
 						</div><!-- /.speaker-item -->
@@ -314,9 +314,9 @@ title: Speakers
 							</div>
 							<div class="speaker-social">
 								<ul class="social-media">
-									<li><a href="https://twitter.com/neoeinstein"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="https://github.com/neoeinstein"><i class="fa fa-github"></i></a></li>
-									<li><a href="http://neoeinstein.github.io/"><i class="fa fa-rss"></i></a></li>								
+									<li><a href="https://twitter.com/neoeinstein"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="https://github.com/neoeinstein"><i class="fab fa-github-alt"></i></a></li>
+									<li><a href="http://neoeinstein.github.io/"><i class="fas fa-rss"></i></a></li>								
 								</ul>
 							</div>
 						</div><!-- /.speaker-item -->
@@ -335,8 +335,8 @@ title: Speakers
 							</div>
 							<div class="speaker-social">
 								<ul class="social-media">
-									<li><a href="https://twitter.com/_cartermp"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="https://github.com/cartermp"><i class="fa fa-github"></i></a></li>							
+									<li><a href="https://twitter.com/_cartermp"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="https://github.com/cartermp"><i class="fab fa-github-alt"></i></a></li>							
 								</ul>
 							</div>
 						</div><!-- /.speaker-item -->
@@ -356,9 +356,9 @@ title: Speakers
 							<div class="speaker-social">
 								<ul class="social-media">
 									<!--<li><a href="#"><i class="fa fa-facebook"></i></a></li>-->
-									<li><a href="https://twitter.com/rickasaurus"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="https://github.com/rickasaurus"><i class="fa fa-github"></i></a></li>
-									<li><a href="http://richardminerich.com/"><i class="fa fa-rss"></i></a></li>
+									<li><a href="https://twitter.com/rickasaurus"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="https://github.com/rickasaurus"><i class="fab fa-github-alt"></i></a></li>
+									<li><a href="http://richardminerich.com/"><i class="fas fa-rss"></i></a></li>
 								</ul>
 							</div>
 						</div><!-- /.speaker-item -->
@@ -378,8 +378,8 @@ title: Speakers
 							<div class="speaker-social">
 								<ul class="social-media">
 									<!--<li><a href="#"><i class="fa fa-facebook"></i></a></li>-->
-									<li><a href="https://twitter.com/c4fsharp"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="https://github.com/panesofglass"><i class="fa fa-github"></i></a></li>
+									<li><a href="https://twitter.com/c4fsharp"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="https://github.com/panesofglass"><i class="fab fa-github-alt"></i></a></li>
 								</ul>
 							</div>
 						</div><!-- /.speaker-item -->
@@ -399,9 +399,9 @@ title: Speakers
 							<div class="speaker-social">
 								<ul class="social-media">
 									<!--<li><a href="#"><i class="fa fa-facebook"></i></a></li>-->
-									<li><a href="https://twitter.com/ScottWlaschin"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="https://github.com/swlaschin"><i class="fa fa-github"></i></a></li>
-									<li><a href="http://fsharpforfunandprofit.com/"><i class="fa fa-rss"></i></a></li>		
+									<li><a href="https://twitter.com/ScottWlaschin"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="https://github.com/swlaschin"><i class="fab fa-github-alt"></i></a></li>
+									<li><a href="http://fsharpforfunandprofit.com/"><i class="fas fa-rss"></i></a></li>		
 								</ul>
 							</div>
 						</div><!-- /.speaker-item -->
@@ -437,8 +437,8 @@ title: Speakers
 							</div>
 							<div class="speaker-social">
 								<ul class="social-media">
-									<li><a href="https://twitter.com/TIHan"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="http://www.github.com/tihan/"><i class="fa fa-github"></i></a></li>		
+									<li><a href="https://twitter.com/TIHan"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="http://www.github.com/tihan/"><i class="fab fa-github-alt"></i></a></li>		
 								</ul>
 							</div>
 						</div><!-- /.speaker-item -->
