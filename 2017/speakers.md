@@ -36,7 +36,6 @@ title: Speakers
 						</div><!-- /.speaker-item -->
 					</div><!-- /.row -->
 				</div><!-- /.col-sm-6 col-md-3 -->
-
 				<div class="col-sm-6 col-md-3">
 					<div class="row">
 						<div class="speaker-item">
@@ -57,7 +56,6 @@ title: Speakers
 						</div><!-- /.speaker-item -->
 					</div><!-- /.row -->
 				</div><!-- /.col-sm-6 col-md-3 -->
-
 				<div class="col-sm-6 col-md-3">
 					<div class="row">
 						<div class="speaker-item">
@@ -77,7 +75,6 @@ title: Speakers
 						</div><!-- /.speaker-item -->
 					</div><!-- /.row -->
 				</div><!-- /.col-sm-6 col-md-3 -->
-
 				<div class="col-sm-6 col-md-3">
 					<div class="row">
 						<div class="speaker-item">
@@ -97,7 +94,6 @@ title: Speakers
 						</div><!-- /.speaker-item -->
 					</div><!-- /.row -->
 				</div><!-- /.col-sm-6 col-md-3 -->
-
 				<div class="col-sm-6 col-md-3">
 					<div class="row">
 						<div class="speaker-item">
