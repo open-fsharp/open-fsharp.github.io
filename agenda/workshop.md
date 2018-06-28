@@ -81,7 +81,7 @@ title: Agenda workshop 2018
 <!-- end national-conference section  -->
 
 <!-- start event-schedule  -->
-<section class="event-schedule homepage2">
+<section class="event-schedule homepage2" id="workshops">
     <div class="container">
         <div class="row">
             <div class="section-head">
