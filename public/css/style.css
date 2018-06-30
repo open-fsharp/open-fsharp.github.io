@@ -2130,31 +2130,6 @@ input {
 	border: 1px solid #ebebeb;
 	color: #363636;
 }
-.faq-page .panel-heading .panel-title a.collapsed:before {
-    content: "\f0dd";
-    font-weight: 700;
-    background-color: #c9c9c9;
-    color: #fff;
-    line-height: 24px;
-    -webkit-transition: all 0.25s ease-in-out;
-}
-.faq-page .panel-heading .panel-title a:before {
-    position: absolute;
-    content: "\f0de";
-    font: normal normal normal 16px/1 "Font Awesome 5 Free";
-    right: 12px;
-    top: 50%;
-    margin-top: -12px;
-    color: #363636;
-    text-align: center;
-    width: 24px;
-    height: 24px;
-    line-height: 22px;
-    border-radius: 100%;
-    background-color: #fff;
-    -webkit-transition: all 0.25s ease-in-out;
-    padding-left: 1px;
-}
 .faq-page .second-faq-wrapper .panel-heading .panel-title a {
 	background-color: #ff6f50;
 } 
