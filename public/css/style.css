@@ -2109,6 +2109,11 @@ input {
 	border: 1px solid #ebebeb;
 	border-radius: 3px;
 	color: #363636;
+	padding: 35px;
+}
+.faq-page ol {
+	list-style: upper-roman;
+	padding: 10px;
 }
 .faq-page .panel-default {
 	border: none;
