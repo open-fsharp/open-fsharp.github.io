@@ -2141,7 +2141,7 @@ input {
 .faq-page .panel-heading .panel-title a:before {
     position: absolute;
     content: "\f0de";
-    font: normal normal normal 16px/1 FontAwesome;
+    font: normal normal normal 16px/1 "Font Awesome 5 Free";
     right: 12px;
     top: 50%;
     margin-top: -12px;
