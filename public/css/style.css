@@ -2108,6 +2108,7 @@ input {
 	margin-top: 6px;
 	border: 1px solid #ebebeb;
 	border-radius: 3px;
+	color: #363636;
 }
 .faq-page .panel-default {
 	border: none;
@@ -2129,12 +2130,6 @@ input {
 	background-color: #fff;
 	border: 1px solid #ebebeb;
 	color: #363636;
-}
-.faq-page .second-faq-wrapper .panel-heading .panel-title a {
-	background-color: #ff6f50;
-} 
-.faq-page .second-faq-wrapper .panel-heading .panel-title a.collapsed {
-	background-color: #fff;
 }
 .faq-wrapper {
 	margin-bottom:120px;
