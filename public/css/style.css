@@ -2099,3 +2099,79 @@ input {
 	width: 100%;
 	text-align: left;
 }
+
+/*=======================================
+	25 faq page
+=========================================*/
+.faq-page .panel-body {
+	background-color: #fff;
+	margin-top: 6px;
+	border: 1px solid #ebebeb;
+	border-radius: 3px;
+}
+.faq-page .panel-default {
+	border: none;
+	background-color: #fafafa;
+}
+.faq-page .panel-heading {
+	padding: 0;
+}
+.faq-page .panel-heading .panel-title a {
+    position: relative;
+    display: block;
+    padding: 20px 60px 20px 30px;
+    background-color: #363636;
+    color: #fff;
+    border-radius: 3px;
+    font-size: 20px;
+}
+.faq-page .panel-heading .panel-title a.collapsed {
+	background-color: #fff;
+	border: 1px solid #ebebeb;
+	color: #363636;
+}
+.faq-page .panel-heading .panel-title a.collapsed:before {
+    content: "\f0d7";
+    font-weight: 700;
+    background-color: #c9c9c9;
+    color: #fff;
+    line-height: 24px;
+    -webkit-transition: all 0.25s ease-in-out;
+}
+.faq-page .panel-heading .panel-title a:before {
+    position: absolute;
+    content: "\f0d8";
+    font: normal normal normal 16px/1 FontAwesome;
+    right: 12px;
+    top: 50%;
+    margin-top: -12px;
+    color: #363636;
+    text-align: center;
+    width: 24px;
+    height: 24px;
+    line-height: 22px;
+    border-radius: 100%;
+    background-color: #fff;
+    -webkit-transition: all 0.25s ease-in-out;
+    padding-left: 1px;
+}
+.faq-page .second-faq-wrapper .panel-heading .panel-title a {
+	background-color: #ff6f50;
+} 
+.faq-page .second-faq-wrapper .panel-heading .panel-title a.collapsed {
+	background-color: #fff;
+}
+.faq-wrapper {
+	margin-bottom:120px;
+}
+.faq-wrapper .panel-group {
+	background-color: #fafafa;
+	padding: 6px;
+}
+.faq-wrapper h2 {
+	font-size: 30px;
+	font-weight: 700;
+	color: #363636;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
