@@ -43,10 +43,10 @@ category: Creator of Fable
                 </p>					
             </div>
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-2">
                     <img src="{{ site.baseurl }}public/assets/speakers/2018/alfonso-garcia-caro.jpg" alt="Alfonso Garcia Caro" />
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-10">
                     A linguist by heart and a programmer by choice, Alfonso has brought his passion for natural languages to the computing world. He is the creator of Fable, a popular F# to JS compiler, and coauthor of the book "Mastering F#". He currently works as a freelancer specialized in Azure-based cloud and web applications using F# and Fable for high productive and reliable software development.
                 </div>
             </div>       
