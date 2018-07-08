@@ -9,7 +9,7 @@ category: Creator of Fable
         <div class="speaker-talk">
             <div class="section-head">
                 <h2 class="header-title">Let’s build a PWA with Fable! Because you just need another acronym in your toolbox</h2>
-                    <p class="header-desc">Workshop: Wed 26th - 09:00 AM</p>
+                    <p class="header-desc">Wed 26th - 09:00 AM (Workshop)</p>
             </div>
             <div>
                 <p>
@@ -22,7 +22,7 @@ category: Creator of Fable
         <div class="speaker-talk">    				
             <div class="section-head">
                 <h2 class="header-title">Fable got a new major release and you won’t believe what happened next</h2>
-                <p class="header-desc">Talk: TBA</p>						
+                <p class="header-desc">Fri 28th - TBA (Talk)</p>						
             </div>
             <div>
                 <p>

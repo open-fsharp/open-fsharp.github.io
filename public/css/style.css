@@ -821,13 +821,10 @@ li.menu-item-has-children>a::before {
 	margin-top: 50px;
 }
 
-.speaker-talk {
-
-}
-
 .speaker-talk .header-title {
 	font-size: 20px;
 	text-align: left;
+	color: #8f398d;
 }
 
 .speaker-talk .section-head {
@@ -839,6 +836,7 @@ li.menu-item-has-children>a::before {
 	text-transform: uppercase;
 	font-size: 1em;
 	text-align: left;
+	color: #91bf36;
 }
 
 .speaker-talk p {
