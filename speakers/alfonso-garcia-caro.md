@@ -36,7 +36,13 @@ category: Creator of Fable
     <div class="col-md-12">
         <div class="speaker-about">
             <div class="section-head">
-                <h2 class="header-title">About {{ page.title }}</h2>							
+                <h2 class="header-title">About {{ page.title }}</h2>
+                <p class="header-desc">
+                    <ul class="social-media">
+                        <li><a href="https://twitter.com/alfonsogcnunez"><i class="fab fa-twitter"></i></a></li>
+                        <li><a href="https://github.com/alfonsogarciacaro"><i class="fab fa-github-alt"></i></a></li>							
+                    </ul>
+                </p>					
             </div>
             <div>
                 <p>
