@@ -813,6 +813,34 @@ li.menu-item-has-children>a::before {
 	margin-bottom: 15px;
 }
 
+.speaker-about {
+
+}
+
+.speaker-talk {
+
+}
+
+.speaker-talk .header-title {
+	font-size: 20px;
+	text-align: left;
+}
+
+.speaker-talk .section-head {
+	margin: 25px 5px;
+	border: none;
+}
+
+.speaker-talk .header-desc {
+	text-transform: uppercase;
+	font-size: 1em;
+	text-align: left;
+}
+
+.speaker-talk p {
+	margin-bottom: 15px;
+}
+
 /*-------------------------------------
 	9  	 speaker section  
 ---------------------------------------*/
