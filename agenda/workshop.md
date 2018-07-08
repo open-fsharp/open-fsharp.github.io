@@ -205,7 +205,7 @@ title: Agenda workshop 2018
                                     </div><!-- /.col-md-3 -->
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-session">
-                                            <span>Introduction into Fable</span>
+                                            <span>Let’s build a PWA with Fable! Because you just need another acronym in your toolbox</span>
                                         </div>
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
                                     <div class="col-xs-2 col-sm-2 col-md-2">
