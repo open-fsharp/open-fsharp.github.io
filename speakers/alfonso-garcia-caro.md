@@ -1,6 +1,6 @@
 ---
 layout: speaker
-title: Alfonso Garcia Caro
+title: Alfonso Garcia-Caro
 category: Creator of Fable
 ---
 
@@ -38,10 +38,8 @@ category: Creator of Fable
             <div class="section-head">
                 <h2 class="header-title">About {{ page.title }}</h2>
                 <p class="header-desc">
-                    <ul class="social-media">
-                        <li><a href="https://twitter.com/alfonsogcnunez"><i class="fab fa-twitter"></i></a></li>
-                        <li><a href="https://github.com/alfonsogarciacaro"><i class="fab fa-github-alt"></i></a></li>							
-                    </ul>
+                    <a href="https://twitter.com/alfonsogcnunez" target="_blank"><i class="fab fa-twitter"></i></a>
+                    <a href="https://github.com/alfonsogarciacaro" target="_blank"><i class="fab fa-github-alt"></i></a>
                 </p>					
             </div>
             <div>
