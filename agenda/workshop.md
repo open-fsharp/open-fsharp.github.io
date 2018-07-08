@@ -200,7 +200,7 @@ title: Agenda workshop 2018
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-schedule-speaker">
                                             <img src="{{ site.baseurl }}public/assets/speakers/2018/alfonso-garcia-caro.jpg" alt="Alfonso Garcia-Caro" />
-                                            <a href="{{ site.baseurl }}speakers/alfonso-garcia-caro/" target="_blank">Alfonso Garcia-Caro</a>
+                                            <a href="{{ site.baseurl }}speakers/alfonso-garcia-caro/">Alfonso Garcia-Caro</a>
                                         </div>
                                     </div><!-- /.col-md-3 -->
                                     <div class="col-xs-4 col-sm-4 col-md-4">
