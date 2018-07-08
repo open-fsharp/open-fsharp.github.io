@@ -813,6 +813,10 @@ li.menu-item-has-children>a::before {
 	margin-bottom: 15px;
 }
 
+.speaker {
+	color: #363636;
+}
+
 .speaker-about {
 
 }
