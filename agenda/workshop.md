@@ -200,12 +200,12 @@ title: Agenda workshop 2018
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-schedule-speaker">
                                             <img src="{{ site.baseurl }}public/assets/speakers/2018/alfonso-garcia-caro.jpg" alt="Alfonso Garcia-Caro" />
-                                            <a href="https://twitter.com/alfonsogcnunez" target="_blank">Alfonso Garcia-Caro</a>
+                                            <a href="{{ site.baseurl }}speakers/alfonso-garcia-caro/" target="_blank">Alfonso Garcia-Caro</a>
                                         </div>
                                     </div><!-- /.col-md-3 -->
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-session">
-                                            <span>Let’s build a PWA with Fable! Because you just need another acronym in your toolbox</span>
+                                            <a href="{{ site.baseurl }}speakers/alfonso-garcia-caro/">Let’s build a PWA with Fable! Because you just need another acronym in your toolbox</a>
                                         </div>
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
                                     <div class="col-xs-2 col-sm-2 col-md-2">
