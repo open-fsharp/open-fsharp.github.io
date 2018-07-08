@@ -818,7 +818,7 @@ li.menu-item-has-children>a::before {
 }
 
 .speaker-about {
-
+	margin-top: 50px;
 }
 
 .speaker-talk {
