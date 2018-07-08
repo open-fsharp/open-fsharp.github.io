@@ -40,7 +40,7 @@ category: Creator of Fable
             </div>
             <div>
                 <p>
-                    TBA
+                    A linguist by heart and a programmer by choice, Alfonso has brought his passion for natural languages to the computing world. He is the creator of Fable, a popular F# to JS compiler, and coauthor of the book "Mastering F#". He currently works as a freelancer specialized in Azure-based cloud and web applications using F# and Fable for high productive and reliable software development.
                 </p>
             </div>       
         </div>
