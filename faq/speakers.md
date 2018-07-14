@@ -110,16 +110,11 @@ title: Speakers Information
 						</div>
 						<div id="collapseFour" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingFour">
 							<div class="panel-body">
-								<p><a href="http://www.swhotel.com" target="_blank">Sam Wong Hotel: $180/night</a> - <a href="https://www.tripadvisor.com/Hotel_Review-g60713-d224951-Reviews-SW_Hotel-San_Francisco_California.html#REVIEWS" target="_blank">REVIEWS</a>
-									
-																		
+								<p><a href="http://www.swhotel.com" target="_blank">Sam Wong Hotel: $180 / night</a> - <a href="https://www.tripadvisor.com/Hotel_Review-g60713-d224951-Reviews-SW_Hotel-San_Francisco_California.html#REVIEWS" target="_blank">REVIEWS</a>																		
 								</p>
-								<p> Green Tortoise: $138
-									https://www.greentortoisesf.com/private-rooms
-									https://www.yelp.com/biz/green-tortoise-hostel-san-francisco
+								<p><a href="https://www.greentortoisesf.com/private-rooms" target="_blank">Green Tortoise: $138</a> - <a href="https://www.yelp.com/biz/green-tortoise-hostel-san-francisco" target="_blank">REVIEWS</a>	
 								</p>
-								<p> Airbnb
-									https://www.airbnb.com/
+								<p><a href="https://www.airbnb.com/" target="_blank">Airbnb</a>
 								</p>
 							</div>
 						</div>
