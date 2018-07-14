@@ -30,7 +30,7 @@ category: Engineering life
             </div>
             <div class="row">
                 <div class="col-md-2">
-                    <img src="{{ site.baseurl }}public/assets/speakers/2018/darren-platt.jpg" alt="Darren Platt" />
+                    <img src="{{ site.baseurl }}public/assets/speakers/2018/darren-platt.png" alt="Darren Platt" />
                 </div>
                 <div class="col-md-10">
                     Computational Biologist, Geneticist, like hacking DNA and functional code.
