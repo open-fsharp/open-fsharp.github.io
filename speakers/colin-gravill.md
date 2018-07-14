@@ -1,7 +1,7 @@
 ---
 layout: speaker
 title: Colin Gravill
-category: F# Compiler Contributor
+category: Codes with DNA
 ---
 
 <div class="row">
