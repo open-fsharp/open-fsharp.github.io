@@ -1,6 +1,6 @@
 ---
 layout: speaker
-title: Dome Syme
+title: Don Syme
 category: Microsoft Research
 ---
 
