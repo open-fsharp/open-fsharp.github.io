@@ -84,7 +84,7 @@ title: Schedule
                                                     <div class="tags">
                                                         <span>TBA</span>
                                                         <div class="talk-level">
-                                                            <img src="{{ site.baseurl }}public/assets/images/animals/bear.png" alt="Bear level" />
+                                                            <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="Bear level" />
                                                         </div>
                                                     </div>
                                                 </div>													
@@ -107,7 +107,7 @@ title: Schedule
                                                         <span>Design</span>															
                                                         <span>DDD</span>
                                                         <div class="talk-level">
-                                                            <img src="{{ site.baseurl }}public/assets/images/animals/bunny.png" alt="Bunny level" />
+                                                            <img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="Bunny level" />
                                                         </div>														
                                                     </div>
                                                 </div>													
@@ -122,7 +122,7 @@ title: Schedule
                                                     <div class="tags">
                                                         <span>TBA</span>
                                                         <div class="talk-level">
-                                                            <img src="{{ site.baseurl }}public/assets/images/animals/tiger.png" alt="Tiger level" />
+                                                            <img src="{{ site.baseurl }}public/assets/animals/tiger.png" alt="Tiger level" />
                                                         </div>	
                                                     </div>
                                                 </div>													
@@ -145,7 +145,7 @@ title: Schedule
                                                     <div class="tags">
                                                         <span>Testing</span>
                                                         <div class="talk-level">
-                                                            <img src="{{ site.baseurl }}public/assets/images/animals/bunny.png" alt="Bunny level" />
+                                                            <img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="Bunny level" />
                                                         </div>
                                                     </div>
                                                 </div>													
@@ -161,7 +161,7 @@ title: Schedule
                                                         <span>Machine learning</span>
                                                         <span>Algorithms</span>
                                                         <div class="talk-level">
-                                                            <img src="assets/images/animals/tiger.png" alt="Tiger level" />
+                                                            <img src="assets/animals/tiger.png" alt="Tiger level" />
                                                         </div>
                                                     </div>
                                                 </div>													
@@ -191,7 +191,7 @@ title: Schedule
                                                         <span>Parallel Processing</span>
                                                         <span>Multi-Threading</span>
                                                         <div class="talk-level">
-                                                            <img src="assets/images/animals/bunny.png" alt="Bunny level" />
+                                                            <img src="assets/animals/bunny.png" alt="Bunny level" />
                                                         </div>
                                                     </div>
                                                 </div>														
@@ -206,7 +206,7 @@ title: Schedule
                                                     <div class="tags">
                                                         <span>Freya</span>
                                                         <div class="talk-level">
-                                                            <img src="{{ site.baseurl }}public/assets/images/animals/tiger.png" alt="Tiger level" />
+                                                            <img src="{{ site.baseurl }}public/assets/animals/tiger.png" alt="Tiger level" />
                                                         </div>
                                                     </div>
                                                 </div>													
@@ -229,7 +229,7 @@ title: Schedule
                                                         <span>Suave</span>
                                                         <span>Fable</span>
                                                         <div class="talk-level">
-                                                            <img src="{{ site.baseurl }}public/assets/images/animals/bunny.png" alt="Bunny level" />
+                                                            <img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="Bunny level" />
                                                         </div>
                                                     </div>
                                                 </div>												
@@ -248,7 +248,7 @@ title: Schedule
                                                         <span>Synbio</span>
                                                         <span>Metabolic engineering</span>
                                                         <div class="talk-level">
-                                                            <img src="{{ site.baseurl }}public/assets/images/animals/tiger.png" alt="Tiger level" />
+                                                            <img src="{{ site.baseurl }}public/assets/animals/tiger.png" alt="Tiger level" />
                                                         </div>
                                                     </div>
                                                 </div>													
@@ -273,7 +273,7 @@ title: Schedule
                                                         <span>Xamarin</span>
                                                         <span>UITest</span>
                                                         <div class="talk-level">
-                                                            <img src="{{ site.baseurl }}public/assets/images/animals/bear.png" alt="Bear level" />
+                                                            <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="Bear level" />
                                                         </div>
                                                     </div>
                                                 </div>
@@ -288,7 +288,7 @@ title: Schedule
                                                         <span>Type providers</span>
                                                         <span>Suave</span>
                                                         <div class="talk-level">
-                                                            <img src="{{ site.baseurl }}public/assets/images/animals/bear.png" alt="Bear level" />
+                                                            <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="Bear level" />
                                                         </div>
                                                     </div>
                                                 </div>
@@ -301,7 +301,7 @@ title: Schedule
                                                     <div class="tags">
                                                         <span>.NET Core</span>
                                                         <div class="talk-level">
-                                                            <img src="{{ site.baseurl }}public/assets/images/animals/bear.png" alt="Bear level" />
+                                                            <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="Bear level" />
                                                         </div>
                                                     </div>
                                                 </div>
@@ -321,7 +321,7 @@ title: Schedule
                                                     <span>drinks</span>
                                                     <span>bites</span>
                                                     <div class="talk-level">
-                                                        <img src="{{ site.baseurl }}public/assets/images/animals/bear.png" alt="Bear level" />
+                                                        <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="Bear level" />
                                                     </div>
                                                 </div>
                                             </td>
@@ -370,7 +370,7 @@ title: Schedule
                                                     <div class="tags">
                                                         <span>TBA</span>
                                                         <div class="talk-level">
-                                                            <img src="{{ site.baseurl }}public/assets/images/animals/bear.png" alt="Bear level" />
+                                                            <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="Bear level" />
                                                         </div>
                                                     </div>
                                                 </div>                                               
@@ -386,7 +386,7 @@ title: Schedule
                                                     <div class="tags">
                                                         <span>DDD</span>
                                                         <div class="talk-level">
-                                                            <img src="{{ site.baseurl }}public/assets/images/animals/bunny.png" alt="Bunny level" />
+                                                            <img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="Bunny level" />
                                                         </div>
                                                     </div>
                                                 </div>																							
@@ -406,7 +406,7 @@ title: Schedule
                                                         <span>dotnet cli</span>
                                                         <span>from zero</span>
                                                         <div class="talk-level">
-                                                            <img src="{{ site.baseurl }}public/assets/images/animals/tiger.png" alt="Tiger level" />
+                                                            <img src="{{ site.baseurl }}public/assets/animals/tiger.png" alt="Tiger level" />
                                                         </div>
                                                     </div>
                                                 </div>																							
@@ -434,7 +434,7 @@ title: Schedule
                                                         <span>Organization</span>
                                                         <span>Lessons learned</span>
                                                         <div class="talk-level">
-                                                            <img src="{{ site.baseurl }}public/assets/images/animals/bear.png" alt="Bear level" />
+                                                            <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="Bear level" />
                                                         </div>
                                                     </div>
                                                 </div>																									
@@ -465,7 +465,7 @@ title: Schedule
                                                         <span>Comments</span>
                                                         <span>DIY</span>
                                                         <div class="talk-level">
-                                                            <img src="{{ site.baseurl }}public/assets/images/animals/bunny.png" alt="Bunny level" />
+                                                            <img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="Bunny level" />
                                                         </div>
                                                     </div>
                                                 </div>	
@@ -481,7 +481,7 @@ title: Schedule
                                                     <div class="tags">
                                                         <span>fsx</span>
                                                         <div class="talk-level">
-                                                            <img src="{{ site.baseurl }}public/assets/images/animals/bunny.png" alt="Bunny level" />
+                                                            <img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="Bunny level" />
                                                         </div>															
                                                     </div>
                                                 </div>	
@@ -499,7 +499,7 @@ title: Schedule
                                                     <div class="tags">
                                                         <span>Machine learning</span>
                                                         <div class="talk-level">
-                                                            <img src="{{ site.baseurl }}public/assets/images/animals/bear.png" alt="Bear level" />
+                                                            <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="Bear level" />
                                                         </div>
                                                     </div>
                                                 </div>														
@@ -524,7 +524,7 @@ title: Schedule
                                                         <span>mono</span>
                                                         <span>cluster scheduler</span>
                                                         <div class="talk-level">
-                                                            <img src="{{ site.baseurl }}public/assets/images/animals/bear.png" alt="Bear level" />
+                                                            <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="Bear level" />
                                                         </div>
                                                     </div>
                                                 </div>
@@ -550,7 +550,7 @@ title: Schedule
                                                         <span>Data</span>
                                                         <span>Formal methods</span>
                                                         <div class="talk-level">
-                                                            <img src="{{ site.baseurl }}public/assets/images/animals/bear.png" alt="Bear level" />
+                                                            <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="Bear level" />
                                                         </div>
                                                     </div>
                                                 </div>
@@ -569,7 +569,7 @@ title: Schedule
                                                         <span>Natural Language</span>
                                                         <span>C# Interop</span>
                                                         <div class="talk-level">
-                                                            <img src="{{ site.baseurl }}public/assets/images/animals/bear.png" alt="Bear level" />
+                                                            <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="Bear level" />
                                                         </div>
                                                     </div>
                                                 </div>
@@ -594,7 +594,7 @@ title: Schedule
                                                     <div class="tags">
                                                         <span>TBA</span>
                                                         <div class="talk-level">
-                                                            <img src="{{ site.baseurl }}public/assets/images/animals/bear.png" alt="Bear level" />
+                                                            <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="Bear level" />
                                                         </div>
                                                     </div>
                                                 </div>
