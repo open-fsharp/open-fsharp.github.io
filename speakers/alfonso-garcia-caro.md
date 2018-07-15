@@ -31,8 +31,8 @@ category: Creator of Fable
             </div>
             <div class="tags">
                 <ul class="tag">
-                    <li><a href="#">Fable</a</li>
-                    <li><a href="#">F#</a</li>
+                    <li><a href="#">Fable</a></li>
+                    <li><a href="#">F#</a></li>
                 </ul>
                 <div class="talk-level">
                     <img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="This talk is Bunny level" />
