@@ -752,7 +752,7 @@ li.menu-item-has-children>a::before {
 	font-size: 1.3em;
 }
 
-.event-schedule-speaker .tags {
+.tags {
 	margin:20px;
 	text-align: left;
 	border-top: 1px solid #2d3c11;
@@ -769,7 +769,8 @@ li.menu-item-has-children>a::before {
 .talk-level img {
 	width:90% !important;
 }
-.event-schedule-speaker .tags span {
+
+.tags span {
 	display: inline-block;
 	background-color: #91bf36;
 	color: #2d3c11;
