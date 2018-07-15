@@ -156,12 +156,14 @@ title: Agenda workshop 2018
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-schedule-speaker">
                                             <img src="{{ site.baseurl }}public/assets/speakers/2018/ryan-riley.jpg" alt="Ryan Riley" />
-                                            <a href="https://twitter.com/panesofglass" target="_blank">Ryan Riley</a>
+                                            <a href="{{ site.baseurl }}speakers/ryan-riley/" target="_blank">Ryan Riley</a>
                                         </div>
                                     </div><!-- /.col-md-3 -->
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-session">
-                                            <span>Computation Expressions</span>
+                                            <a href="{{ site.baseurl }}speakers/ryan-riley/">
+                                                <span>Computation Expressions</span>
+                                            </a>
                                         </div>
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
                                     <div class="col-xs-2 col-sm-2 col-md-2">
