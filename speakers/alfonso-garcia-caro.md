@@ -33,7 +33,7 @@ category: Creator of Fable
                 <span>Fable</span>															
                 <span>F#</span>
                 <div class="talk-level">
-                    <img src="{{ site.baseurl }}public/assets/images/animals/bunny.png" alt="This talk is Bunny level" />
+                    <img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="This talk is Bunny level" />
                 </div>														
             </div>
         </div>
