@@ -8,7 +8,7 @@ category: OSS CONTRIBUTOR
     <div class="col-md-6">
         <div class="speaker-talk">
             <div class="section-head">
-                <h2 class="header-title">TBA</h2>
+                <h2 class="header-title">F# Full Stack with SAFE</h2>
                     <p class="header-desc">Wed 26th - 02:00 PM (Workshop)</p>
             </div>
             <div>
@@ -22,7 +22,7 @@ category: OSS CONTRIBUTOR
         <div class="speaker-talk">
             <div class="section-head">
                 <h2 class="header-title">TBA</h2>
-                    <p class="header-desc">Fri 28th - 15:00 PM (Talk)</p>
+                    <p class="header-desc">Fri 28th - 03:00 PM (Talk)</p>
             </div>
             <div>
                 <p>
