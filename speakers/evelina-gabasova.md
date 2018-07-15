@@ -32,7 +32,7 @@ category: Interested in all things machine learning
             </div>
             <div class="row">
                 <div class="col-md-2">
-                    <img src="{{ site.baseurl }}public/assets/speakers/2018/evelina-gabasova.jpeg" alt="Evelina Gabasova" />
+                    <img src="{{ site.baseurl }}public/assets/speakers/2018/evelina-gabasova.jpg" alt="Evelina Gabasova" />
                 </div>
                 <div class="col-md-10">
                     <p>
