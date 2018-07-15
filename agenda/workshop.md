@@ -181,12 +181,14 @@ title: Agenda workshop 2018
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-schedule-speaker">
                                             <img src="{{ site.baseurl }}public/assets/speakers/2018/jeremie-chassaing.jpg" alt="Jeremie Chassaing" />
-                                            <a href="https://twitter.com/thinkb4coding" target="_blank">Jérémie Chassaing</a>
+                                            <a href="{{ site.baseurl }}speakers/jeremie-chassaing/" target="_blank">Jérémie Chassaing</a>
                                         </div>
                                     </div><!-- /.col-md-3 -->
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-session">
-                                            <span>Functional Event Sourcing</span>
+                                            <a href="{{ site.baseurl }}speakers/jeremie-chassaing/">
+                                                <span>Functional Event Sourcing</span>
+                                            </a>
                                         </div>
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
                                     <div class="col-xs-2 col-sm-2 col-md-2">
@@ -227,12 +229,14 @@ title: Agenda workshop 2018
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-schedule-speaker">
                                             <img src="{{ site.baseurl }}public/assets/speakers/2018/evelina-gabasova.jpg" alt="Evelina Gabasova" />
-                                            <a href="https://twitter.com/evelgab" target="_blank">Evelina Gabasova</a>
+                                            <a href="{{ site.baseurl }}speakers/evelina-gabasova/" target="_blank">Evelina Gabasova</a>
                                         </div>
                                     </div><!-- /.col-md-3 -->
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-session">
-                                            <span>Machine Learning hands-on</span>
+                                            <a href="{{ site.baseurl }}speakers/evelina-gabasova/">
+                                                <span>Machine Learning hands-on</span>
+                                            </a>
                                         </div>
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
                                     <div class="col-xs-2 col-sm-2 col-md-2">
@@ -250,12 +254,14 @@ title: Agenda workshop 2018
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-schedule-speaker">
                                             <img src="{{ site.baseurl }}public/assets/speakers/2018/krzysztof-cieslak.jpg" alt="Krzysztof Cieslak" />
-                                            <a href="https://twitter.com/k_cieslak" target="_blank">Krzysztof Cieslak</a>
+                                            <a href="{{ site.baseurl }}speakers/krzysztof-cieslak/" target="_blank">Krzysztof Cieslak</a>
                                         </div>
                                     </div><!-- /.col-md-3 -->
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-session">
-                                            <span>F# Full Stack with SAFE</span>
+                                            <a href="{{ site.baseurl }}speakers/krzysztof-cieslak/">
+                                                <span>F# Full Stack with SAFE</span>
+                                            </a>
                                         </div>
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
                                     <div class="col-xs-2 col-sm-2 col-md-2">
@@ -273,12 +279,14 @@ title: Agenda workshop 2018
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-schedule-speaker">
                                             <img src="{{ site.baseurl }}public/assets/speakers/2018/tomas-petricek.jpg" alt="Tomas Petricek">
-                                            <a href="https://twitter.com/tomaspetricek" target="_blank">Tomas Petricek</a>
+                                            <a href="{{ site.baseurl }}speakers/tomas-petricek/" target="_blank">Tomas Petricek</a>
                                         </div>
                                     </div><!-- /.col-md-3 -->
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-session">
-                                            <span>Reactive and async abstractions</span>
+                                            <a href="{{ site.baseurl }}speakers/tomas-petricek/">
+                                                <span>Reactive and async abstractions</span>
+                                            </a>
                                         </div>
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
                                     <div class="col-xs-2 col-sm-2 col-md-2">
