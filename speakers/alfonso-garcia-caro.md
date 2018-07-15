@@ -29,11 +29,13 @@ category: Creator of Fable
                     Fable 2 is coming and I want to talk to you about it: what benefits if brings to Fable projects, the performance improvements and how it can be used to better interact with JS tooling and libraries. I will also share with you the process of rewriting the code for this new major version, how it is to work with so many wonderful contributors and the lessons learned that hopefully can be applied to other projects as well. And we’ll end listing some productivity tricks to put your Fable projects in production in shorter time and with fewer bugs.
                 </p>
             </div>
-            <div class="tags">
-                <ul class="tag">
-                    <li><a href="#">Fable</a></li>
-                    <li><a href="#">F#</a></li>
-                </ul>
+            <div>
+                <div>
+                    <ul class="tag">
+                        <li><a href="#">Fable</a></li>
+                        <li><a href="#">F#</a></li>
+                    </ul>
+                </div>
                 <div class="talk-level">
                     <img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="This talk is Bunny level" />
                 </div>														
