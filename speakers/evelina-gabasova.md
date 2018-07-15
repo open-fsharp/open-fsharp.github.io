@@ -8,7 +8,7 @@ category: Interested in all things machine learning
     <div class="col-md-6">
         <div class="speaker-talk">
             <div class="section-head">
-                <h2 class="header-title">TBA</h2>
+                <h2 class="header-title">Machine Learning hands-on</h2>
                     <p class="header-desc">Wed 26th - 09:00 AM (Workshop)</p>
             </div>
             <div>
