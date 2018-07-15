@@ -131,12 +131,14 @@ title: Agenda workshop 2018
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-schedule-speaker">
                                             <img src="{{ site.baseurl }}public/assets/speakers/2018/jorge-fioranelli.jpg" alt="speaker" />
-                                            <a href="https://twitter.com/jorgefioranelli" target="_blank">Jorge Fioranelli</a>
+                                            <a href="{{ site.baseurl }}speakers/jorge-fioranelli/" target="_blank">Jorge Fioranelli</a>
                                         </div>
                                     </div><!-- /.col-md-3 -->
                                     <div class="col-xs-4 col-sm-4 col-md-4">
                                         <div class="item-inner event-session">
-                                            <span>F# Introduction</span>
+                                            <a href="{{ site.baseurl }}speakers/jorge-fioranelli/">
+                                                <span>F# Introduction</span>
+                                            </a>                                          
                                         </div>
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
                                     <div class="col-xs-2 col-sm-2 col-md-2">
