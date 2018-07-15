@@ -30,7 +30,7 @@ category: Creator of Fable
                 </p>
             </div>
             <div>
-                <div>
+                <div class="speaker-tag">
                     <ul class="tag">
                         <li><a href="#">Fable</a></li>
                         <li><a href="#">F#</a></li>
