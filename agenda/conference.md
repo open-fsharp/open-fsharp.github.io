@@ -11,8 +11,8 @@ title: Agenda conference 2018
             <div class="col-md-9">
                 <div class="row">
                     <div class="become-sponsor-item">
-                        <h2>Conference 2018</h2>
-                        <p>A conference to learn, create and connect with F# and its Community.</p> 
+                        <h2>Conference schedule 2018</h2>
+                        <p>The schedule is still subject to change.</p> 
                     </div>
                 </div><!-- /.row -->
             </div><!-- /.col-md-10 -->
@@ -704,7 +704,13 @@ title: Agenda conference 2018
 													</div>
                                                 </div>													
                                             </td>									
-                                        </tr>                                        
+                                        </tr>
+                                        <tr class="schedule-item">
+                                            <td class="item-inner event-time"><span>16:50</span></td>
+                                            <td colspan="3" class="item-inner event-schedule-speaker">
+                                                Closing Open Fsharp 2018
+                                            </td>
+                                        </tr>                                     
                                     </tbody>
                                 </table>
                             </div>
@@ -716,51 +722,34 @@ title: Agenda conference 2018
 	</div>
 </section>
 
-<!-- start national-conference section  -->
-<section id="about" class="national-conference">
+<section id="coc" class="national-conference">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8">
 				<div class="conference-main">
 					<div class="section-head">
-						<h2 class="header-title">Schedule information</h2>
-						<p class="header-desc">27th and 28th of September 2018</p>
+						<h2 class="header-title">Code of conduct</h2>
+						<p class="header-desc">Be respectful, be open, and be considerate.</p>
 					</div>
-					<p>Coming soon.</p>
+					<p>Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity 
+						and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not 
+						tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, 
+						including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned 
+						or expelled from the conference without a refund at the discretion of the conference organisers.</p>
+					<div class="button-group">
+						<a href="http://confcodeofconduct.com/" class="custom-btn hvr-bounce-to-bottom" target="_blank">Read More</a>
+					</div>
 				</div><!-- /.conference-main -->
 			</div><!-- /.col-md-8 -->
-            <div class="col-md-4">
+			<div class="col-md-4">
 				<div class="conference-info-outer">
 					<div class="conference-info">
-						<ul>
-							<li>
-								<span class="c-info-icon"><i class="fas fa-comment-alt"></i></span>
-								<span class="c-info-content">
-									<strong>Talks</strong>
-									<span class="i-text">50 minutes as a Bunny, Tiger or Bear!</span>
-								</span>
-							</li>
-							<li>
-								<span class="c-info-icon"><i class="fas fa-hand-spock"></i></span>
-								<span class="c-info-content">
-									<strong>Hands-on session</strong>
-									<span class="i-text">110 minutes of getting your hands dirty</span>
-								</span>
-							</li>
-							<li>
-								<span class="c-info-icon"><i class="fas fa-bolt"></i></span>
-								<span class="c-info-content">
-									<strong>Lighting talks</strong>
-									<span class="i-text">15 minutes of pure delight</span>
-								</span>
-							</li>
-						</ul>
+						<a href="http://diversitycharter.org/" target="_blank">
+							<img src="{{ site.baseurl }}public/assets/sharelogo_medium.png" alt="Diversity charter">
+						</a>
 					</div><!-- /.conference-info -->
 				</div><!-- /.conference-info-outer -->
 			</div><!-- /.col-md-4 -->
 		</div><!-- /.row -->
 	</div><!-- /.container -->
 </section>
-<!-- end national-conference section  -->
-
->
