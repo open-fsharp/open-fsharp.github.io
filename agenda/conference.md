@@ -102,7 +102,7 @@ title: Agenda conference 2018
                                                     <a href="{{ site.baseurl }}speakers/jeremie-chassaing/">		
                                                         <img src="{{ site.baseurl }}public/assets/speakers/2018/jeremie-chassaing.jpg" alt="Jeremie Chaissing" />													
                                                         <div class="title">Ukulele Tabs in F#</div>
-                                                        <div>Jeremie Chaissing</div>									
+                                                        <div>Jérémie Chassaing</div>									
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
@@ -139,6 +139,50 @@ title: Agenda conference 2018
                                             </td>
                                             <td rowspan="5" class="item-inner event-schedule-speaker">Open space</td>                 
 										</tr>
+                                        <tr>
+                                            <td class="item-inner event-time"><span>11:00</span></td>
+                                            <td colspan="2" class="item-inner special event-schedule-break">Coffee break</td>  
+                                        </tr>
+                                        <tr>
+                                            <td class="item-inner event-time"><span>11:20</span></td>
+                                            <td class="item-inner event-schedule-speaker">
+                                                <div>
+                                                    <a href="#">		
+                                                        <div class="title">tba</div>
+                                                        <div>tba</div>									
+                                                    </a>
+													<div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">tba</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="This talk is Bunny level" />
+														</div>	
+													</div>
+                                                </div>													
+                                            </td>
+                                            <td class="item-inner event-schedule-speaker">
+                                                <div>
+                                                    <a href="{{ site.baseurl }}speakers/ryan-riley/">											
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/ryan-riley.jpg" alt="Ryan Riley" />													
+                                                        <div class="title">Blazing new trails with Web Assembly</div>
+                                                        <div>Ryan Riley</div>									
+                                                    </a>
+													<div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">tba</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/tiger.png" alt="This talk is Tiger level" />
+														</div>	
+													</div>
+                                                </div>													
+                                            </td>                                            
+                                        </tr>
 									</tbody>
 								</table>
 							</div>
