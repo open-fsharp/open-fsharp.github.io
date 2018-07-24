@@ -636,11 +636,11 @@ title: Agenda conference 2018
 													</div>
                                                 </div>													
                                             </td>
-                                            <td rowspan="5" class="item-inner event-schedule-speaker">Open space</td>    
+                                            <td rowspan="3" class="item-inner event-schedule-speaker">Open space</td>    
                                         </tr>
                                         <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>15:00</span></td>
-                                            <td colspan="3" class="item-inner special event-schedule-break">Break</td>
+                                            <td colspan="2" class="item-inner special event-schedule-break">Break</td>
                                         </tr>
                                         <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>15:10</span></td>
