@@ -364,21 +364,60 @@ title: Agenda conference 2018
                                                         <div class="title">AFTER PARTY</div>										
                                                         <div>Broadway venue, SF</div>
                                                     </a>
-                                                </div>
-                                                <div class="tags">
-                                                    <span>drinks</span>
-                                                    <span>bites</span>
-                                                    <div class="talk-level">
-                                                        <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="Bear level" />
-                                                    </div>
+                                                    <div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">drinks</a></li>
+																<li><a href="#">bites</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
+														</div>	
+													</div>
                                                 </div>
                                             </td>
                                         </tr>
 									</tbody>
 								</table>
 							</div>
-						</div>
-					</div> <!-- tab pane 1 end -->
+						</div> <!-- tab pane 1 end -->
+                        <div role="tabpanel" class="tab-pane fade" id="second-date">
+                            <div class="schedule-wrapper">
+                                <table>
+                                    <thead class="schedule-item header">
+                                        <tr>
+                                            <th class="item-inner">
+                                                <span><i class="fa fa-calendar"></i></span>
+                                                <span>Time</span>
+                                            </th>
+                                            <th class="item-inner">
+                                                <span><i class="fa fa-list-alt"></i></span>
+                                                <span>Auditorium</span>
+                                            </th>
+                                            <th class="item-inner">
+                                                <span><i class="fa fa-microphone"></i></span>
+                                                <span>Audrey Lorde</span>
+                                            </th>
+                                            <th class="item-inner">
+                                                <span><i class="fa fa-map-marker"></i></span>
+                                                <span>Room A</span>
+                                            </th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr class="schedule-item"> 
+                                            <td class="item-inner event-time"><span>08:30</span></td>
+                                            <td colspan="3" class="item-inner special event-schedule-break">Breakfast</td>									
+                                        </tr>
+                                        <tr class="schedule-item"> 
+                                            <td class="item-inner event-time"><span>09:00</span></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>  <!-- tab pane 2 end -->
+					</div>
 				</div>
 			</div>
 		</div>
