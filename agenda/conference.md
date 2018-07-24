@@ -21,6 +21,94 @@ title: Agenda conference 2018
 </section>
 <!--  start header   -->
 
+<!-- start event-schedule  -->
+<section class="event-schedule">
+    <div class="container">
+        <div class="row">
+            <div class="event-schedule-inner">
+                <div class="event-schedule-inner-fixed">
+                    <!-- Nav tabs -->
+                    <ul id="myTab" class="nav-tab" role="tablist">
+                        <li role="presentation" class="active"><a href="#first-date" aria-controls="first-date" role="tab" data-toggle="tab">
+                            <strong>27</strong>
+                            <span class="date">Thursday<br>September, 2017</span>
+                        </a></li>
+                        <li role="presentation"><a href="#second-date" aria-controls="second-date" role="tab" data-toggle="tab">
+                            <strong>28</strong>
+                            <span class="date">Friday<br>September, 2017</span>
+                        </a></li>
+                    </ul>
+                    <!-- Tab panes -->
+                    <div class="tab-content">
+                        <div role="tabpanel" class="tab-pane fade in active" id="first-date">
+                            <div class="schedule-wrapper">
+                                <table>
+                                    <thead class="schedule-item header">
+                                        <tr>
+                                            <th class="item-inner">
+                                                <span><i class="fa fa-calendar"></i></span>
+                                                <span>Time</span>
+                                            </th>
+                                            <th class="item-inner">
+                                                <span><i class="fa fa-list-alt"></i></span>
+                                                <span>Room A</span>
+                                            </th>
+                                            <th class="item-inner">
+                                                <span><i class="fa fa-microphone"></i></span>
+                                                <span>Room B</span>
+                                            </th>
+                                            <th class="item-inner">
+                                                <span><i class="fa fa-map-marker"></i></span>
+                                                <span>Room C</span>
+                                            </th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr class="schedule-item"> 
+                                            <td class="item-inner event-time"><span>08:30</span></td>
+                                            <td colspan="3" class="item-inner special event-schedule-break">Breakfast / Registration</td>	
+                                        </tr>
+										<tr class="schedule-item"> 
+                                            <td class="item-inner event-time"><span>09:00</span></td>
+                                            <td colspan="3" class="item-inner special event-schedule-speaker">Welcome to Open F# 2017!</td>									
+                                        </tr>
+                                        <tr class="schedule-item"> 
+                                            <td class="item-inner event-time"><span>09:10</span></td>
+                                            <td colspan="3" class="item-inner event-schedule-speaker">	
+                                                <div>		
+ 													<div class="title">Keynote</div>
+                                                    <div>TBA</div>
+													<div>
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">tba</a></li>
+																<li><a href="#">tba</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
+														</div>	
+													</div>
+                                                </div>													
+                                            </td>									
+                                        </tr>
+										<tr class="schedule-item">
+                                            <td class="item-inner event-time"><span>10:00</span></td>
+                                            <td colspan="3" class="item-inner special event-schedule-break">Break</td>
+                                        </tr>
+										<tr>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+						</div>
+					</div> <!-- tab pane 1 end -->
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
 <!-- start national-conference section  -->
 <section id="about" class="national-conference">
 	<div class="container">
