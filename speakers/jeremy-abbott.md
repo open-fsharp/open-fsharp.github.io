@@ -8,12 +8,12 @@ category: Functional programming enthusiast
     <div class="col-md-6">
         <div class="speaker-talk">
             <div class="section-head">
-                <h2 class="header-title">TBA</h2>
+                <h2 class="header-title">“The Curious Case of Task vs. Async.”</h2>
                     <p class="header-desc">Thu 27th - 14:00 PM (Talk)</p>
             </div>
             <div>
                 <p>
-                    TBA
+                    In this talk we will explore the nuances of writing components in F# that are used in F# as well as other .NET languages. Specifically we'll look at how asynchronous operations are implemented in .NET in general via TPL or async/await, compared to F# asynchronous workflows. We'll then look at how to expose Task<'a> instances from Async<'a> instances, and when it might be better to favor a Task<'a> implementation in F#. In the cases where using Task is more appropriate we'll look at strategies for doing this while still taking advantage of F#'s expressive syntax.
                 </p>
             </div>
         </div>

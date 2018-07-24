@@ -230,6 +230,150 @@ title: Agenda conference 2018
                                                 </div>													
                                             </td>                                              
                                         </tr>
+                                        <tr class="schedule-item">
+                                            <td class="item-inner event-time"><span>13:10</span></td>
+                                            <td colspan="3" class="item-inner special event-schedule-break">Lunch</td>
+                                        </tr>
+                                        <tr class="schedule-item">
+                                            <td class="item-inner event-time"><span>14:00</span></td>
+                                            <td class="item-inner event-schedule-speaker">
+                                                <div>
+                                                    <a href="{{ site.baseurl }}speakers/jeremy-abbott/">
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/jeremy-abbott.jpg" alt="Jeremy Abbott" />		
+                                                        <div class="title">“The Curious Case of Task vs. Async.”</div>
+                                                        <div>Jeremy Abbott</div>									
+                                                    </a>
+													<div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">tba</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="This talk is Bunny level" />
+														</div>	
+													</div>
+                                                </div>													
+                                            </td>
+                                            <td class="item-inner event-schedule-speaker">
+                                                <div>
+                                                    <a href="{{ site.baseurl }}speakers/jeremie-chassaing/">											
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/jeremie-chassaing.jpg" alt="Jérémie Chassaing" />													
+                                                        <div class="title">Classes for the Maniacs: Demystifying SRTP</div>
+                                                        <div>Jérémie Chassaing</div>									
+                                                    </a>
+													<div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">tba</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/tiger.png" alt="This talk is Tiger level" />
+														</div>	
+													</div>
+                                                </div>													
+                                            </td>
+                                            <td rowspan="2" class="item-inner event-schedule-speaker">Open space</td>
+                                        </tr>
+                                        <tr class="schedule-item">
+                                            <td class="item-inner event-time"><span>14:50</span></td>
+                                            <td colspan="2" class="item-inner special event-schedule-break">Coffee break</td>
+                                        </tr>
+                                        <tr class="schedule-item">
+                                            <td class="item-inner event-time"><span>15:00</span></td>
+                                            <td colspan="3" class="item-inner special event-schedule-speaker event-schedule-lightning">
+                                                <div class="title">Lightning talks</div>
+                                                <div>
+                                                    <a href="{{ site.baseurl }}speakers/norm-johanson/">	
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/norm-johanson.jpg" alt="Norm Johanson" />													
+                                                        <div class="title">F# and AWS Lambda</div>
+                                                        <div>Norm Johanson</div>										
+                                                    </a>
+													<div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">aws</a></li>
+																<li><a href="#">serverless</a></li>
+																<li><a href="#">cloud</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
+														</div>	
+													</div>
+                                                </div>
+                                                <div>
+                                                    <a href="#">													
+                                                        <div class="title">tba</div>
+                                                        <div>tba</div>										
+                                                    </a>
+													<div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">tba</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
+														</div>	
+													</div>
+                                                </div>
+                                                <div>
+                                                    <a href="{{ site.baseurl }}speakers/matthew-crews/">	
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/matthew-crews.jpg" alt="Matthew Crews" />													
+                                                        <div class="title">Creating a Domain for Optimization</div>
+                                                        <div>Matthew Crews</div>										
+                                                    </a>
+													<div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">Domain Modeling</a></li>
+																<li><a href="#">Optimization</a></li>
+																<li><a href="#">DSL</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
+														</div>	
+													</div>
+                                                </div>
+                                                <div>
+                                                    <a href="#">													
+                                                        <div class="title">tba</div>
+                                                        <div>tba</div>										
+                                                    </a>
+													<div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">tba</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
+														</div>	
+													</div>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        <tr class="schedule-item">
+                                            <td class="item-inner event-time"><span>16:00</span></td>
+                                            <td colspan="3" class="item-inner event-schedule-speaker">
+                                                <div>
+                                                    <a href="https://broadwaystudios.com/" target="_blank">		
+                                                        <div class="title">AFTER PARTY</div>										
+                                                        <div>Broadway venue, SF</div>
+                                                    </a>
+                                                </div>
+                                                <div class="tags">
+                                                    <span>drinks</span>
+                                                    <span>bites</span>
+                                                    <div class="talk-level">
+                                                        <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="Bear level" />
+                                                    </div>
+                                                </div>
+                                            </td>
+                                        </tr>
 									</tbody>
 								</table>
 							</div>
