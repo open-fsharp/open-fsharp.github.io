@@ -31,11 +31,11 @@ title: Agenda conference 2018
                     <ul id="myTab" class="nav-tab" role="tablist">
                         <li role="presentation" class="active"><a href="#first-date" aria-controls="first-date" role="tab" data-toggle="tab">
                             <strong>27</strong>
-                            <span class="date">Thursday<br>September, 2017</span>
+                            <span class="date">Thursday<br>September, 2018</span>
                         </a></li>
                         <li role="presentation"><a href="#second-date" aria-controls="second-date" role="tab" data-toggle="tab">
                             <strong>28</strong>
-                            <span class="date">Friday<br>September, 2017</span>
+                            <span class="date">Friday<br>September, 2018</span>
                         </a></li>
                     </ul>
                     <!-- Tab panes -->
@@ -393,15 +393,15 @@ title: Agenda conference 2018
                                             </th>
                                             <th class="item-inner">
                                                 <span><i class="fa fa-list-alt"></i></span>
-                                                <span>Auditorium</span>
+                                                <span>Room A</span>
                                             </th>
                                             <th class="item-inner">
                                                 <span><i class="fa fa-microphone"></i></span>
-                                                <span>Audrey Lorde</span>
+                                                <span>Room B</span>
                                             </th>
                                             <th class="item-inner">
                                                 <span><i class="fa fa-map-marker"></i></span>
-                                                <span>Room A</span>
+                                                <span>Room C</span>
                                             </th>
                                         </tr>
                                     </thead>
