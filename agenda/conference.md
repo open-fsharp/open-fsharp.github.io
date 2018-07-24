@@ -95,7 +95,7 @@ title: Agenda conference 2018
                                             <td class="item-inner event-time"><span>10:00</span></td>
                                             <td colspan="3" class="item-inner special event-schedule-break">Break</td>
                                         </tr>
-										<tr>
+										<tr class="schedule-item">
                                             <td class="item-inner event-time"><span>10:10</span></td>
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
@@ -139,11 +139,11 @@ title: Agenda conference 2018
                                             </td>
                                             <td rowspan="5" class="item-inner event-schedule-speaker">Open space</td>                 
 										</tr>
-                                        <tr>
+                                        <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>11:00</span></td>
                                             <td colspan="2" class="item-inner special event-schedule-break">Coffee break</td>  
                                         </tr>
-                                        <tr>
+                                        <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>11:20</span></td>
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
@@ -182,6 +182,53 @@ title: Agenda conference 2018
 													</div>
                                                 </div>													
                                             </td>                                            
+                                        </tr>
+                                        <tr class="schedule-item">
+                                            <td class="item-inner event-time"><span>12:10</span></td>
+                                            <td colspan="2" class="item-inner special event-schedule-break">Break</td>
+                                        </tr>
+                                        <tr class="schedule-item">
+                                            <td class="item-inner event-time"><span>12:20</span></td>
+                                            <td class="item-inner event-schedule-speaker">
+                                                <div>
+                                                    <a href="#">		
+                                                        <div class="title">tba</div>
+                                                        <div>tba</div>									
+                                                    </a>
+													<div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">tba</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="This talk is Bunny level" />
+														</div>	
+													</div>
+                                                </div>													
+                                            </td>
+                                            <td class="item-inner event-schedule-speaker">
+                                                <div>
+                                                    <a href="{{ site.baseurl }}speakers/mark-laws/">											
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/mark-laws.png" alt="Mark Laws" />													
+                                                        <div class="title">Classes for the Maniacs: Demystifying SRTP</div>
+                                                        <div>Mark Laws</div>									
+                                                    </a>
+													<div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">srtp</a></li>
+																<li><a href="#">types</a></li>
+																<li><a href="#">type safety</a></li>
+																<li><a href="#">magic</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/tiger.png" alt="This talk is Tiger level" />
+														</div>	
+													</div>
+                                                </div>													
+                                            </td>                                              
                                         </tr>
 									</tbody>
 								</table>
