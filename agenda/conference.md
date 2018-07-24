@@ -431,12 +431,12 @@ title: Agenda conference 2018
 													</div>
                                                 </div>                                               
                                             </td>
-                                            <td rowspan="4" class="item-inner event-schedule-speaker">
+                                            <td rowspan="9" class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="{{ site.baseurl }}speakers/avi-avni/">												
                                                         <img src="{{ site.baseurl }}public/assets/speakers/2018/avi-avni.jpg" alt="Avi Avni" />													
-                                                        <div class="title">WORKSHOP</div>										
-                                                        <div class="title">A journey in contributing to the F# compiler I</div>										
+                                                        <div class="title">HANDS-ON</div>										
+                                                        <div class="title">A journey in contributing to the F# compiler</div>										
                                                         <div>Avi Avni</div>
                                                     </a>	
                                                     <div class="schedule-speaker-tag">
@@ -456,7 +456,7 @@ title: Agenda conference 2018
                                                 <div>
                                                     <a href="{{ site.baseurl }}speakers/stachu-korick/">												
                                                         <img src="{{ site.baseurl }}public/assets/speakers/2018/stachu-korick.jpg" alt="Stachu Korick" />													
-                                                        <div class="title">WORKSHOP</div>										
+                                                        <div class="title">HANDS-ON</div>										
                                                         <div class="title">Solving Puzzles, Functionally</div>										
                                                         <div>Stachu Korick</div>
                                                     </a>	
@@ -515,6 +515,79 @@ title: Agenda conference 2018
                                         <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>11:00</span></td>
                                             <td colspan="2" class="item-inner special event-schedule-break">Coffee break</td>
+                                        </tr>
+                                        <tr class="schedule-item">
+                                            <td class="item-inner event-time"><span>11:10</span></td>
+                                            <td rowspan="4" class="item-inner event-schedule-speaker">
+                                                <div>
+                                                    <a href="{{ site.baseurl }}speakers/colin-gravill/">											
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/colin-gravill.jpg" alt="Colin Gravill" />		
+                                                        <div class="title">HANDS-ON</div>	
+                                                        <div class="title">Interactive computing with F# Jupyter</div>				
+                                                        <div>Colin Gravill</div>
+                                                    </a>
+                                                    <div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">tba</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="This hands-on session is Bunny level" />
+														</div>	
+													</div>
+                                                </div>                                                
+                                            </td>
+                                        </tr>
+                                        <tr class="schedule-item">
+                                            <td class="item-inner event-time"><span>11:20</span></td>
+                                            <td class="item-inner event-schedule-speaker">
+                                                <div>
+                                                    <a href="#">											
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/phillip-carter.jpg" alt="Phillip Carter" />													
+                                                        <div class="title">The challenge and rewards of F# growth</div>					
+                                                        <div>Phillip Carter</div>
+                                                    </a>
+                                                    <div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">tba</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
+														</div>	
+													</div>
+                                                </div>														
+                                            </td>
+                                        </tr>
+                                        <tr class="schedule-item">
+                                            <td class="item-inner event-time"><span>12:10</span></td>
+                                            <td class="item-inner special event-schedule-break">Break</td>
+                                        </tr>
+                                        <tr class="schedule-item">
+                                            <td class="item-inner event-time"><span>12:20</span></td>
+                                            <td class="item-inner event-schedule-speaker">
+                                                <div>
+                                                    <a href="{{ site.baseurl }}speakers/eugene-tolmachev/">											
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/eugene-tolmachev.png" alt="Eugene Tolmachev" />													
+                                                        <div class="title">Building highly available systems with Apache Storm</div>					
+                                                        <div>Eugene Tolmachev</div>
+                                                    </a>
+                                                    <div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">CEP</a></li>
+																<li><a href="#">availability</a></li>
+																<li><a href="#">fault-tolerance</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
+														</div>	
+													</div>
+                                                </div>														
+                                            </td>
                                         </tr>
                                     </tbody>
                                 </table>
