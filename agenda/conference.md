@@ -82,7 +82,6 @@ title: Agenda conference 2018
 														<div class="speaker-tag">
 															<ul class="tag">
 																<li><a href="#">tba</a></li>
-																<li><a href="#">tba</a></li>
 															</ul>
 														</div>
 														<div class="talk-level">
@@ -97,6 +96,48 @@ title: Agenda conference 2018
                                             <td colspan="3" class="item-inner special event-schedule-break">Break</td>
                                         </tr>
 										<tr>
+                                            <td class="item-inner event-time"><span>10:10</span></td>
+                                            <td class="item-inner event-schedule-speaker">
+                                                <div>
+                                                    <a href="{{ site.baseurl }}speakers/jeremie-chassaing/">		
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/jeremie-chassaing.jpg" alt="Jeremie Chaissing" />													
+                                                        <div class="title">Ukulele Tabs in F#</div>
+                                                        <div>Jeremie Chaissing</div>									
+                                                    </a>
+													<div>
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">tba</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="This talk is Bunny level" />
+														</div>	
+													</div>
+                                                </div>													
+                                            </td>
+                                            <td class="item-inner event-schedule-speaker">
+                                                <div>
+                                                    <a href="{{ site.baseurl }}speakers/dave-curylo/">											
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/dave-curylo.JPG" alt="Dave Curylo" />													
+                                                        <div class="title">You Got Logic in my Functional Programming</div>
+                                                        <div>Dave Curylo</div>									
+                                                    </a>
+													<div>
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">Logic programming</a></li>
+																<li><a href="#">prolog</a></li>
+																<li><a href="#">fsharp</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/tiger.png" alt="This talk is Tiger level" />
+														</div>	
+													</div>
+                                                </div>													
+                                            </td>
+                                            <td rowspan="5" class="item-inner event-schedule-speaker">Open space</td>                 
 										</tr>
 									</tbody>
 								</table>
