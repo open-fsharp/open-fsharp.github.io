@@ -589,6 +589,122 @@ title: Agenda conference 2018
                                                 </div>														
                                             </td>
                                         </tr>
+                                        <tr class="schedule-item">
+                                            <td class="item-inner event-time"><span>13:10</span></td>
+                                            <td colspan="3" class="item-inner special event-schedule-break">Lunch</td>
+                                        </tr>
+                                        <tr class="schedule-item">
+                                            <td class="item-inner event-time"><span>14:00</span></td>
+                                            <td class="item-inner event-schedule-speaker">
+                                                <div>
+                                                    <a href="{{ site.baseurl }}speakers/john-azariah/">		
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/john-azariah.jpg" alt="John Azariah" />													
+                                                        <div class="title">A tale of two languages: F# and Q#</div>
+                                                        <div>John Azariah</div>									
+                                                    </a>
+													<div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">language design</a></li>
+																<li><a href="#">quantum computing</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
+														</div>	
+													</div>
+                                                </div>													
+                                            </td>
+                                            <td class="item-inner event-schedule-speaker">
+                                                <div>
+                                                    <a href="{{ site.baseurl }}speakers/darren-platt/">											
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/darren-platt.png" alt="Darren Platt" />													
+                                                        <div class="title">A year in paradise. Full stack F# for Synthetic Biology</div>
+                                                        <div>Darren Platt</div>									
+                                                    </a>
+													<div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">fable</a></li>
+																<li><a href="#">giraffe</a></li>
+																<li><a href="#">synthetic biology</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
+														</div>	
+													</div>
+                                                </div>													
+                                            </td>
+                                            <td rowspan="5" class="item-inner event-schedule-speaker">Open space</td>    
+                                        </tr>
+                                        <tr class="schedule-item">
+                                            <td class="item-inner event-time"><span>15:00</span></td>
+                                            <td colspan="3" class="item-inner special event-schedule-break">Break</td>
+                                        </tr>
+                                        <tr class="schedule-item">
+                                            <td class="item-inner event-time"><span>15:10</span></td>
+                                            <td class="item-inner event-schedule-speaker">
+                                                <div>
+                                                    <a href="{{ site.baseurl }}speakers/krzysztof-cieslak/">		
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/krzysztof-cieslak.jpg" alt="Krzysztof Cieslak" />													
+                                                        <div class="title">TBA</div>
+                                                        <div>Krzysztof Cieslak</div>									
+                                                    </a>
+													<div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">tba</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
+														</div>	
+													</div>
+                                                </div>													
+                                            </td>
+                                            <td class="item-inner event-schedule-speaker">
+                                                <div>
+                                                    <a href="">									
+                                                        <div class="title">TBA</div>
+                                                        <div>tba</div>									
+                                                    </a>
+													<div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">tba</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
+														</div>	
+													</div>
+                                                </div>													
+                                            </td>
+                                        </tr>
+                                        <tr class="schedule-item">
+                                            <td class="item-inner event-time"><span>16:00</span></td>
+                                            <td colspan="3" class="item-inner special event-schedule-break">Break</td>
+                                        </tr>
+                                        <tr class="schedule-item"> 
+                                            <td class="item-inner event-time"><span>16:10</span></td>
+                                            <td colspan="3" class="item-inner event-schedule-speaker">	
+                                                <div class="schedule-speaker-tag">		
+ 													<div class="title">Closing Keynote</div>
+                                                    <div>TBA</div>
+													<div>
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">tba</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
+														</div>	
+													</div>
+                                                </div>													
+                                            </td>									
+                                        </tr>                                        
                                     </tbody>
                                 </table>
                             </div>
