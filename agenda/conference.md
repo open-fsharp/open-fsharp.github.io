@@ -75,7 +75,7 @@ title: Agenda conference 2018
                                         <tr class="schedule-item"> 
                                             <td class="item-inner event-time"><span>09:10</span></td>
                                             <td colspan="3" class="item-inner event-schedule-speaker">	
-                                                <div>		
+                                                <div class="schedule-speaker-tag">		
  													<div class="title">Keynote</div>
                                                     <div>TBA</div>
 													<div>
@@ -104,7 +104,7 @@ title: Agenda conference 2018
                                                         <div class="title">Ukulele Tabs in F#</div>
                                                         <div>Jeremie Chaissing</div>									
                                                     </a>
-													<div>
+													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
 															<ul class="tag">
 																<li><a href="#">tba</a></li>
@@ -123,7 +123,7 @@ title: Agenda conference 2018
                                                         <div class="title">You Got Logic in my Functional Programming</div>
                                                         <div>Dave Curylo</div>									
                                                     </a>
-													<div>
+													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
 															<ul class="tag">
 																<li><a href="#">Logic programming</a></li>

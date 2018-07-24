@@ -759,6 +759,10 @@ li.menu-item-has-children>a::before {
 	font-style: italic;
 }
 
+.schedule-speaker-tag .speaker-tag {
+	padding: 0.2em;
+}
+
 .speaker-tag {
 	float: left;
 }
