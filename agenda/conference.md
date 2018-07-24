@@ -412,6 +412,109 @@ title: Agenda conference 2018
                                         </tr>
                                         <tr class="schedule-item"> 
                                             <td class="item-inner event-time"><span>09:00</span></td>
+                                            <td class="item-inner event-schedule-speaker">
+                                                <div>
+                                                    <a href="{{ site.baseurl }}speakers/tomas-petricek/">											
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/tomas-petricek.jpg" alt="Tomas Petricek" />													
+                                                        <div class="title">TBA</div>										
+                                                        <div>Tomas Petricek</div>
+                                                    </a>	
+                                                    <div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">tba</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
+														</div>	
+													</div>
+                                                </div>                                               
+                                            </td>
+                                            <td rowspan="4" class="item-inner event-schedule-speaker">
+                                                <div>
+                                                    <a href="{{ site.baseurl }}speakers/avi-avni/">												
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/avi-avni.jpg" alt="Avi Avni" />													
+                                                        <div class="title">WORKSHOP</div>										
+                                                        <div class="title">A journey in contributing to the F# compiler I</div>										
+                                                        <div>Avi Avni</div>
+                                                    </a>	
+                                                    <div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">compiler</a></li>
+																<li><a href="#">OSS</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/tiger.png" alt="This talk is Tiger level" />
+														</div>	
+													</div>
+                                                </div>																							
+                                            </td>
+                                            <td rowspan="4" class="item-inner event-schedule-speaker">
+                                                <div>
+                                                    <a href="{{ site.baseurl }}speakers/stachu-korick/">												
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/stachu-korick.jpg" alt="Stachu Korick" />													
+                                                        <div class="title">WORKSHOP</div>										
+                                                        <div class="title">Solving Puzzles, Functionally</div>										
+                                                        <div>Stachu Korick</div>
+                                                    </a>	
+                                                    <div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">domain-modeling</a></li>
+																<li><a href="#">puzzle</a></li>
+																<li><a href="#">fable</a></li>
+																<li><a href="#">elmish</a></li>
+																<li><a href="#">architecture</a></li>
+																<li><a href="#">web</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="This talk is Bunny level" />
+														</div>	
+													</div>
+                                                </div>																							
+                                            </td>	
+                                        </tr>
+                                        <tr class="schedule-item"> 
+                                            <td class="item-inner event-time"><span>09:50</span></td>
+                                            <td class="item-inner event-schedule-break">Break</td>									
+                                        </tr>
+                                        <tr class="schedule-item">
+                                            <td class="item-inner event-time"><span>10:00</span></td>
+                                            <td class="item-inner event-schedule-speaker">
+                                                <div>
+                                                    <a href="{{ site.baseurl }}speakers/eirik-tsarpalis/">											
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/eirik-tsarpalis.jpg" alt="Eirik Tsarpalis" />										
+                                                        <div class="title">A Saga of Migration: porting existing F# systems to .NET Core</div>				
+                                                        <div>Eirik Tsarpalis</div>
+                                                    </a>
+                                                    <div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">dotnetcore</a></li>
+																<li><a href="#">brownfield</a></li>
+																<li><a href="#">migration</a></li>
+																<li><a href="#">docker</a></li>
+																<li><a href="#">devops</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
+														</div>	
+													</div>
+                                                </div>																									
+                                            </td>
+                                        </tr>
+                                        <tr class="schedule-item">
+                                            <td class="item-inner event-time"><span>10:50</span></td>
+                                            <td rowspan="3" class="item-inner special event-schedule-break">Coffee break</td>
+                                        </tr>
+                                        <tr class="schedule-item">
+                                            <td class="item-inner event-time"><span>11:00</span></td>
+                                            <td colspan="2" class="item-inner special event-schedule-break">Coffee break</td>
                                         </tr>
                                     </tbody>
                                 </table>

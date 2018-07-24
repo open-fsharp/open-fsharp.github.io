@@ -21,12 +21,13 @@ category: Not just a computer scientist
     <div class="col-md-6">
         <div class="speaker-talk">
             <div class="section-head">
-                <h2 class="header-title">Build your own Excel 365 in an hour with F#</h2>
+                <!--<h2 class="header-title">Build your own Excel 365 in an hour with F#</h2>-->
+                <h2 class="header-title">TBA</h2>
                     <p class="header-desc">Fri 28th - 09:00 AM (Talk)</p>
             </div>
             <div>
-                <p>
-                    There are many interesting things happening in a spreadsheet. It needs an interactive user interface where users can edit data and formulas in cells, it needs to parse formulas that users write, it needs to evaluate formulas and show results on the fly and it also needs to handle errors such as division by zero and circular references. In this live coding session, Tomas will attempt to implement all of these features live on stage!
+                <p> TBA
+                    <!--There are many interesting things happening in a spreadsheet. It needs an interactive user interface where users can edit data and formulas in cells, it needs to parse formulas that users write, it needs to evaluate formulas and show results on the fly and it also needs to handle errors such as division by zero and circular references. In this live coding session, Tomas will attempt to implement all of these features live on stage!-->
                 </p>
             </div>
         </div>
