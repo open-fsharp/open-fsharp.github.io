@@ -259,7 +259,7 @@ title: Agenda conference 2018
                                                 <div>
                                                     <a href="{{ site.baseurl }}speakers/jeremie-chassaing/">											
                                                         <img src="{{ site.baseurl }}public/assets/speakers/2018/jeremie-chassaing.jpg" alt="Jérémie Chassaing" />													
-                                                        <div class="title">Classes for the Maniacs: Demystifying SRTP</div>
+                                                        <div class="title">Applicatives IRL</div>
                                                         <div>Jérémie Chassaing</div>									
                                                     </a>
 													<div class="schedule-speaker-tag">
