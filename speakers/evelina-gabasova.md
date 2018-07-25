@@ -22,7 +22,7 @@ category: Interested in all things machine learning
         <div class="speaker-talk">
             <div class="section-head">
                 <h2 class="header-title">TBA</h2>
-                    <p class="header-desc">Thu 27th - 09:00 AM (Keynote)</p>
+                    <p class="header-desc">TBA</p>
             </div>
             <div>
                 <p>
