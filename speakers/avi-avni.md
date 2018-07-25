@@ -16,6 +16,17 @@ category: F# Compiler Contributor
                     TBA
                 </p>
             </div>
+            <div>
+                <div class="speaker-tag">
+                    <ul class="tag">
+                        <li><a href="#">Compiler</a></li>
+                        <li><a href="#">OSS</a></li>
+                    </ul>
+                </div>
+                <div class="talk-level">
+                    <img src="{{ site.baseurl }}public/assets/animals/tiger.png" alt="This talk is Tiger level" />
+                </div>														
+            </div>
         </div>
     </div>
 </div><!-- /.row -->
