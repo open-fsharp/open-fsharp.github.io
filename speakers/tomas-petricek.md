@@ -35,6 +35,18 @@ category: Not just a computer scientist
                     Along the way, you will learn about the Fable compiler which makes it easy to compile correct, functional-first code to JavaScript and run it in a browser. You will also learn about a number of powerful functional programming techniques. We will use the Elm architecture to create an interactive web application in a functional way and we will use parser combinators to easily create parser for formulas. Finally, we will look at the tips and tricks for handling errors and creating computations that update on-the-fly when data change.
                 </p>
             </div>
+            <div>
+                <div class="speaker-tag">
+                    <ul class="tag">
+                        <li><a href="#">Fable</a></li>
+                        <li><a href="#">Elmish</a></li>
+                        <li><a href="#">Live coding</a></li>
+                    </ul>
+                </div>
+                <div class="talk-level">
+                    <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
+                </div>														
+            </div>
         </div>
     </div>
 </div><!-- /.row -->

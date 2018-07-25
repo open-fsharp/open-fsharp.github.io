@@ -422,7 +422,9 @@ title: Agenda conference 2018
                                                     <div class="schedule-speaker-tag">
 														<div class="speaker-tag">
 															<ul class="tag">
-																<li><a href="#">tba</a></li>
+																<li><a href="#">Fable</a></li>
+																<li><a href="#">Elmish</a></li>
+																<li><a href="#">Live coding</a></li>
 															</ul>
 														</div>
 														<div class="talk-level">
