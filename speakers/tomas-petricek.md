@@ -13,7 +13,10 @@ category: Not just a computer scientist
             </div>
             <div>
                 <p>
-                    TBA
+                    F# added support for asynchronous workflows over 10 years ago, so you would think that the problem of asynchronous programming should have been fixed by now. Yet, if you try to make sense of the different abstractions for asynchronous programming, it is easy to get lost! What is the difference between IObservable, IEvent, Async, Task and AsyncSeq? When should you use which of those and does it really matter?
+                </p>
+                <p>
+                    In this hands-on workshop, we're going to look under the cover of F# abstractions for asynchronous and reactive programming. We'll implement some of them from scratch to understand how they actually work. As is often the case in F#, looking at the type definition is the best way to understand what is going on!
                 </p>
             </div>
         </div>
@@ -21,13 +24,15 @@ category: Not just a computer scientist
     <div class="col-md-6">
         <div class="speaker-talk">
             <div class="section-head">
-                <!--<h2 class="header-title">Build your own Excel 365 in an hour with F#</h2>-->
-                <h2 class="header-title">TBA</h2>
-                    <p class="header-desc">Fri 28th - 09:00 AM (Talk)</p>
+                <h2 class="header-title">Build your own Excel 365 in an hour with F#</h2>
+                <p class="header-desc">Fri 28th - 09:00 AM (Talk)</p>
             </div>
             <div>
-                <p> TBA
-                    <!--There are many interesting things happening in a spreadsheet. It needs an interactive user interface where users can edit data and formulas in cells, it needs to parse formulas that users write, it needs to evaluate formulas and show results on the fly and it also needs to handle errors such as division by zero and circular references. In this live coding session, Tomas will attempt to implement all of these features live on stage!-->
+                <p>
+                    There are many interesting things happening in a spreadsheet. It needs an interactive user interface where users can edit data and formulas in cells, it needs to parse formulas that users write, it needs to evaluate formulas and show results on the fly and it also needs to handle errors such as division by zero and circular references. In this live coding session, Tomas will attempt to implement all of these features live on stage. The talk will show a number of techniques and principles that are useful even if you do not plan to create a competition to Excel 365 and Google Sheets! 
+                </p>
+                <p>
+                    Along the way, you will learn about the Fable compiler which makes it easy to compile correct, functional-first code to JavaScript and run it in a browser. You will also learn about a number of powerful functional programming techniques. We will use the Elm architecture to create an interactive web application in a functional way and we will use parser combinators to easily create parser for formulas. Finally, we will look at the tips and tricks for handling errors and creating computations that update on-the-fly when data change.
                 </p>
             </div>
         </div>
