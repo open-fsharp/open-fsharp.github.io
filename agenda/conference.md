@@ -416,7 +416,7 @@ title: Agenda conference 2018
                                                 <div>
                                                     <a href="{{ site.baseurl }}speakers/tomas-petricek/">											
                                                         <img src="{{ site.baseurl }}public/assets/speakers/2018/tomas-petricek.jpg" alt="Tomas Petricek" />													
-                                                        <div class="title">TBA</div>										
+                                                        <div class="title">Build your own Excel 365 in an hour with F#</div>										
                                                         <div>Tomas Petricek</div>
                                                     </a>	
                                                     <div class="schedule-speaker-tag">
