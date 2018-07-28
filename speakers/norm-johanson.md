@@ -42,7 +42,7 @@ category: Combiner of AWS & .NET
             </div>
             <div class="row">
                 <div class="col-md-2">
-                    <img src="{{ site.baseurl }}public/assets/speakers/2018/norm-johansen.jpg" alt="Norm Johansen" />
+                    <img src="{{ site.baseurl }}public/assets/speakers/2018/norm-johanson.jpg" alt="Norm Johanson" />
                 </div>
                 <div class="col-md-10">
                     <p>
