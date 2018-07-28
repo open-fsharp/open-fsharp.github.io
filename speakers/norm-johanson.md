@@ -1,6 +1,6 @@
 ---
 layout: speaker
-title: Norm Johansen
+title: Norm Johanson
 category: Combiner of AWS & .NET
 ---
 
