@@ -9,7 +9,7 @@ category: Functional programming enthusiast
         <div class="speaker-talk">
             <div class="section-head">
                 <h2 class="header-title">“The Curious Case of Task vs. Async.”</h2>
-                    <p class="header-desc">Thu 27th - 14:00 PM (Talk)</p>
+                    <p class="header-desc">Thu 27th - 02:00 PM (Talk)</p>
             </div>
             <div>
                 <p>

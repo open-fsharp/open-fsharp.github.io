@@ -48,7 +48,7 @@ category: F# and DDD Enthusiast
         <div class="speaker-talk">
             <div class="section-head">
                 <h2 class="header-title">Applicatives IRL</h2>
-                    <p class="header-desc">Thu 27th - 14:00 PM (Talk)</p>
+                    <p class="header-desc">Thu 27th - 02:00 PM (Talk)</p>
             </div>
             <div>
                 <p>

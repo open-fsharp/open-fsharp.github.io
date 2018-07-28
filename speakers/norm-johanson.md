@@ -9,7 +9,7 @@ category: Combiner of AWS & .NET
         <div class="speaker-talk">
             <div class="section-head">
                 <h2 class="header-title">F# and AWS Lambda</h2>
-                    <p class="header-desc">Thu 27th - 15:00 PM (Talk)</p>
+                    <p class="header-desc">Thu 27th - 03:00 PM (Talk)</p>
             </div>
             <div>
                 <p>

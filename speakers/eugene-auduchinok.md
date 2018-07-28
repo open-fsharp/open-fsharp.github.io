@@ -9,7 +9,7 @@ category: JetBrains
         <div class="speaker-talk">
             <div class="section-head">
                 <h2 class="header-title">State of F# support in JetBrains Rider</h2>
-                    <p class="header-desc">Thu 27th - 15:00 AM (Talk)</p>
+                    <p class="header-desc">Thu 27th - 03:00 PM (Talk)</p>
             </div>
             <div>
                 <p>

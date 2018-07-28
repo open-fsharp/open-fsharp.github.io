@@ -9,7 +9,7 @@ category: Purveyor of all things F# at Microsoft
         <div class="speaker-talk">
             <div class="section-head">
                 <h2 class="header-title">The challenge and rewards of F# growth</h2>
-                    <p class="header-desc">Fri 28th - 16:30 PM (Keynote)</p>
+                    <p class="header-desc">Fri 28th - 04:30 PM (Keynote)</p>
             </div>
             <div>
                 <p>

@@ -9,7 +9,7 @@ category: Microsoft Research
         <div class="speaker-talk">
             <div class="section-head">
                 <h2 class="header-title">F# Code I Love</h2>
-                    <p class="header-desc">Thu 27th - 15:45 PM (Keynote)</p>
+                    <p class="header-desc">Thu 27th - 03:45 PM (Keynote)</p>
             </div>
             <div>
                 <p>

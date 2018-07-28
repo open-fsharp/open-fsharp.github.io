@@ -9,7 +9,7 @@ category: Engineering life
         <div class="speaker-talk">
             <div class="section-head">
                 <h2 class="header-title">A year in paradise. Full stack F# for Synthetic Biology</h2>
-                    <p class="header-desc">Thu 27th - 14:00 AM (Talk)</p>
+                    <p class="header-desc">Thu 27th - 12:20 PM (Talk)</p>
             </div>
             <div>
                 <p>

@@ -22,7 +22,7 @@ category: Creator of Fable
         <div class="speaker-talk">    				
             <div class="section-head">
                 <h2 class="header-title">Fable got a new major release and you won’t believe what happened next</h2>
-                <p class="header-desc">Fri 28th - 15:00 PM (Talk)</p>						
+                <p class="header-desc">TBA (Talk)</p>						
             </div>
             <div>
                 <p>

@@ -9,7 +9,7 @@ category: Microsoft Research
         <div class="speaker-talk">
             <div class="section-head">
                 <h2 class="header-title">MSRD: A Microsoft online service built entirely with F#</h2>
-                    <p class="header-desc">Thu 27th - 11:20 AM (Talk)</p>
+                    <p class="header-desc">Fri 28th - 04:00 PM (Talk)</p>
             </div>
             <div>
                 <p>

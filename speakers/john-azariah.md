@@ -9,7 +9,7 @@ category: Microsoft Q# lead
         <div class="speaker-talk">
             <div class="section-head">
                 <h2 class="header-title">A tale of two languages: F# and Q#</h2>
-                    <p class="header-desc">Fri 28th - 14:00 PM (Talk)</p>
+                    <p class="header-desc">Fri 28th - 02:00 PM (Talk)</p>
             </div>
             <div>
                 <p>
