@@ -505,11 +505,11 @@ title: Agenda conference 2018
                                         </tr>
                                         <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>10:50</span></td>
-                                            <td rowspan="3" class="item-inner special event-schedule-break">Coffee break</td>
+                                            <td rowspan="3" class="item-inner special event-schedule-break">Break</td>
                                         </tr>
                                         <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>11:00</span></td>
-                                            <td colspan="2" class="item-inner special event-schedule-break">Coffee break</td>
+                                            <td class="item-inner special event-schedule-break">Break</td>
                                         </tr>
                                         <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>11:10</span></td>
