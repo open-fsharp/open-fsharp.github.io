@@ -13,7 +13,10 @@ category: OSS CONTRIBUTOR
             </div>
             <div>
                 <p>
-                    TBA
+                    F# excels at building efficient, scalable and robust web solutions. Web programming is based around receiving a single HTTP request and replying with a result, which maps very well to a stateless, functional approach. Advantages to using F# for web programming include using high level, declarative, composable code, interop with rich .Net ecosystem, and using battle-tested solutions like Kestrel and ASP.NET Core. The introduction of the <a href="https://safe-stack.github.io/" target="_blank">SAFE stack</a> presents significant productivity gains for .NET developers to build full stack web applications in F# which run on both the server and in the user’s web browser, whilst taking advantage of F#'s functional-first feature set and capabilities, including reduce bug rates and quicker time to market.
+                </p>
+                <p>
+                    In this workshop you'll learn how to write end-to-end applications that run on the server (across Mac, Windows or Linux) and browser using F# for the entire system, effectively use the SAFE stack toolchain including .Net CLI, Fable, and Saturn tooling, and using cutting-edge technologies such as Saturn, Fable and Elmish.
                 </p>
             </div>
         </div>
@@ -22,7 +25,7 @@ category: OSS CONTRIBUTOR
         <div class="speaker-talk">
             <div class="section-head">
                 <h2 class="header-title">TBA</h2>
-                    <p class="header-desc">Fri 28th - 03:00 PM (Talk)</p>
+                    <p class="header-desc">Fri 28th - 02:00 PM (Talk)</p>
             </div>
             <div>
                 <p>
