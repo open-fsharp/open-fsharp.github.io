@@ -426,27 +426,6 @@ title: Agenda conference 2018
 													</div>
                                                 </div>                                               
                                             </td>
-                                            <td rowspan="9" class="item-inner event-schedule-speaker">
-                                                <div>
-                                                    <a href="{{ site.baseurl }}speakers/avi-avni/">												
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/avi-avni.jpg" alt="Avi Avni" />													
-                                                        <div class="title">HANDS-ON</div>										
-                                                        <div class="title">A journey in contributing to the F# compiler</div>										
-                                                        <div>Avi Avni</div>
-                                                    </a>	
-                                                    <div class="schedule-speaker-tag">
-														<div class="speaker-tag">
-															<ul class="tag">
-																<li><a href="#">compiler</a></li>
-																<li><a href="#">OSS</a></li>
-															</ul>
-														</div>
-														<div class="talk-level">
-															<img src="{{ site.baseurl }}public/assets/animals/tiger.png" alt="This talk is Tiger level" />
-														</div>	
-													</div>
-                                                </div>																							
-                                            </td>
                                             <td rowspan="4" class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="{{ site.baseurl }}speakers/stachu-korick/">												
@@ -471,7 +450,28 @@ title: Agenda conference 2018
 														</div>	
 													</div>
                                                 </div>																							
-                                            </td>	
+                                            </td>
+                                            <td rowspan="9" class="item-inner event-schedule-speaker">
+                                                <div>
+                                                    <a href="{{ site.baseurl }}speakers/avi-avni/">												
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/avi-avni.jpg" alt="Avi Avni" />													
+                                                        <div class="title">HANDS-ON</div>										
+                                                        <div class="title">A journey in contributing to the F# compiler</div>										
+                                                        <div>Avi Avni</div>
+                                                    </a>	
+                                                    <div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">compiler</a></li>
+																<li><a href="#">OSS</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/tiger.png" alt="This talk is Tiger level" />
+														</div>	
+													</div>
+                                                </div>																							
+                                            </td>
                                         </tr>
                                         <tr class="schedule-item"> 
                                             <td class="item-inner event-time"><span>09:50</span></td>
