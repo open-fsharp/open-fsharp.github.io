@@ -16,6 +16,20 @@ category: Mathematician by training, Developer by trade
                     In this talk expect to share the experiences, insights and mistakes made during our ongoing effort to migrate large F# codebases to .NET, Core and linux at Jet.com and Walmart.
                 </p>
             </div>
+            <div>
+                <div class="speaker-tag">
+                    <ul class="tag">
+                        <li><a href="#">dotnetcore</a></li>
+						<li><a href="#">brownfield</a></li>
+						<li><a href="#">migration</a></li>
+						<li><a href="#">docker</a></li>
+						<li><a href="#">devops</a></li>
+                    </ul>
+                </div>
+                <div class="talk-level">
+                    <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This hands-on session is Bear level" />
+                </div>	
+            </div>
         </div>
     </div>
 </div><!-- /.row -->

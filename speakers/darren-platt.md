@@ -16,6 +16,16 @@ category: Engineering life
                     We are now about one year into implementing a largely F# environment for designing, building and analyzing engineered microorganisms. This is cloud deployed full stack F# (Fable, React, Elmish, Giraffe, Postgres) with algorithms for designing DNA, and web based systems for controlling robots and managing a lab. I will talk about what has worked well and where there are rough spots. I will touch on some areas of biology but it will be mostly about implementing a system for managing a complex manufacturing environment that is widely applicable to many industries.
                 </p>
             </div>
+            <div>
+                <div class="speaker-tag">
+                    <ul class="tag">
+                        <li><a href="#">tba</a></li>
+                    </ul>
+                </div>
+                <div class="talk-level">
+                    <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This hands-on session is Bear level" />
+                </div>	
+            </div>
         </div>
     </div>
 </div><!-- /.row -->

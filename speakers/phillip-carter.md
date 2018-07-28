@@ -16,6 +16,16 @@ category: Purveyor of all things F# at Microsoft
                     Over the past two years, Microsoft has focused more efforts on growing F# and investing in its tooling and platform support. Doing this while also making sure not to take over the independent spirit of F# has been challenging but rewarding. In this talk, Phillip will talk about how decisions by Microsoft are made, and the challenges encountered in balancing the independent spirit of F# with a desire to grow it alongside Microsoft platforms.
                 </p>
             </div>
+            <div>
+                <div class="speaker-tag">
+                    <ul class="tag">
+                        <li><a href="#">tba</a></li>
+                    </ul>
+                </div>
+                <div class="talk-level">
+                    <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This hands-on session is Bear level" />
+                </div>	
+            </div>
         </div>
     </div>
 </div><!-- /.row -->

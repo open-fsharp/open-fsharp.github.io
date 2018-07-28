@@ -16,6 +16,18 @@ category: Endofunctor tourist
                     What does it mean to have an available system? The challenges, the solutions and a way to implement event-driven systems with F# and Apache Storm: commands, queries and everything in between.
                 </p>
             </div>
+            <div>
+                <div class="speaker-tag">
+                    <ul class="tag">
+                        <li><a href="#">CEP</a></li>
+						<li><a href="#">availability</a></li>
+						<li><a href="#">fault-tolerance</a></li>
+                    </ul>
+                </div>
+                <div class="talk-level">
+                    <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This hands-on session is Bear level" />
+                </div>	
+            </div>
         </div>
     </div>
 </div><!-- /.row -->

@@ -19,6 +19,16 @@ category: Microsoft Q# lead
                     In this talk, I’ll introduce some of the language features influenced by F#, and talk about the F# tools and concepts used, and finish with some personal notes of how my playing around with F# helped in my contributions to designing the language.
                 </p>
             </div>
+            <div>
+                <div class="speaker-tag">
+                    <ul class="tag">
+                        <li><a href="#">tba</a></li>
+                    </ul>
+                </div>
+                <div class="talk-level">
+                    <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This hands-on session is Bear level" />
+                </div>	
+            </div>
         </div>
     </div>
 </div><!-- /.row -->

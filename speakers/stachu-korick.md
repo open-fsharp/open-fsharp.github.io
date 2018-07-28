@@ -25,6 +25,21 @@ category: .NET Hipster
                     This is a hands-on lab, and a laptop with F# and your IDE of choice will be instrumental in following along!
                 </p>
             </div>
+            <div>
+                <div class="speaker-tag">
+                    <ul class="tag">
+                        <li><a href="#">domain-modeling</a></li>
+						<li><a href="#">puzzle</a></li>
+						<li><a href="#">fable</a></li>
+						<li><a href="#">elmish</a></li>
+						<li><a href="#">architecture</a></li>
+						<li><a href="#">web</a></li>
+                    </ul>
+                </div>
+                <div class="talk-level">
+                    <img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="This hands-on session is Bunny level" />
+                </div>	
+            </div>
         </div>
     </div>
 </div><!-- /.row -->

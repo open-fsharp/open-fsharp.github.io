@@ -9,12 +9,24 @@ category: F# + OPTIMIZATION
         <div class="speaker-talk">
             <div class="section-head">
                 <h2 class="header-title">Creating a Domain for Optimization</h2>
-                    <p class="header-desc">Thu 27th - 15:00 PM (Talk)</p>
+                    <p class="header-desc">Fri 28th - 04:00 PM (Talk)</p>
             </div>
             <div>
                 <p>
                     F# is a powerful tool for Domain Modeling and I was recently challenged to express Optimization Models with the succinctness of Python. In this talk I show how F# makes it simple to define a Domain for Optimization Models in only a few lines of code. This new domain makes it simple to express mathematical models with F#. I walk through how I broke down the Python code and recreated the feature in F#.
                 </p>
+            </div>
+            <div>
+                <div class="speaker-tag">
+                    <ul class="tag">
+                        <li><a href="#">Domain Modeling</a></li>
+						<li><a href="#">Optimization</a></li>
+						<li><a href="#">DSL</a></li>
+                    </ul>
+                </div>
+                <div class="talk-level">
+                    <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This hands-on session is Bear level" />
+                </div>	
             </div>
         </div>
     </div>

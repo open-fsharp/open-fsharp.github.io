@@ -16,6 +16,16 @@ category: Functional programming enthusiast
                     In this talk we will explore the nuances of writing components in F# that are used in F# as well as other .NET languages. Specifically we'll look at how asynchronous operations are implemented in .NET in general via TPL or async/await, compared to F# asynchronous workflows. We'll then look at how to expose Task<'a> instances from Async<'a> instances, and when it might be better to favor a Task<'a> implementation in F#. In the cases where using Task is more appropriate we'll look at strategies for doing this while still taking advantage of F#'s expressive syntax.
                 </p>
             </div>
+            <div>
+                <div class="speaker-tag">
+                    <ul class="tag">
+                        <li><a href="#">tba</a></li>
+                    </ul>
+                </div>
+                <div class="talk-level">
+                    <img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="This hands-on session is Bunny level" />
+                </div>	
+            </div>
         </div>
     </div>
 </div><!-- /.row -->

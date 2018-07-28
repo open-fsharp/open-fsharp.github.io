@@ -29,6 +29,16 @@ category: Community for F#
                     Web Assembly has been a more of a mythical creature for the last few years, but with the preview release of ASP.NET Blazor, F# developers can begin writing code to run directly in the browser! We’ll look at the various approaches you can use F# with Blazor, including the Elmish-styled Flatware library and a Fable-React-styled DSL.
                 </p>
             </div>
+            <div>
+                <div class="speaker-tag">
+                    <ul class="tag">
+                        <li><a href="#">tba</a></li>
+                    </ul>
+                </div>
+                <div class="talk-level">
+                    <img src="{{ site.baseurl }}public/assets/animals/tiger.png" alt="This hands-on session is Tiger level" />
+                </div>	
+            </div>
         </div>
     </div>
 </div><!-- /.row -->

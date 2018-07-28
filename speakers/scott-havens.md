@@ -16,6 +16,16 @@ category: JET.COM
                     Technologies like F#, microservices and event sourcing can build fast and efficient cloud platforms for data intensive applications. Hear from Scott Havens, Director of Engineering for Jet.com and Walmart Labs, on why they chose this approach to build their ecommerce platform and how after being acquired by Walmart, the same approaches are transforming internal systems for the world’s largest retailer.
                 </p>
             </div>
+            <div>
+                <div class="speaker-tag">
+                    <ul class="tag">
+                        <li><a href="#">tba</a></li>
+                    </ul>
+                </div>
+                <div class="talk-level">
+                    <img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="This hands-on session is Bunny level" />
+                </div>	
+            </div>
         </div>
     </div>
 </div><!-- /.row -->

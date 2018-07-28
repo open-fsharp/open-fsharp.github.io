@@ -16,6 +16,18 @@ category: Combiner of AWS & .NET
                     AWS Lambda is AWS's serverless compute platform. Lambda supports the .NET Core runtime with a very simple programming model that is .NET language agnostic. This lighting talk will show how to build and deploy F# serverless applications.
                 </p>
             </div>
+            <div>
+                <div class="speaker-tag">
+                    <ul class="tag">
+                        <li><a href="#">aws</a></li>
+						<li><a href="#">serverless</a></li>
+						<li><a href="#">cloud</a></li>
+                    </ul>
+                </div>
+                <div class="talk-level">
+                    <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This hands-on session is Bear level" />
+                </div>	
+            </div>
         </div>
     </div>
 </div><!-- /.row -->

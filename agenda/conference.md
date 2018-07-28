@@ -324,7 +324,7 @@ title: Agenda conference 2018
                                             </td>
                                         </tr>
                                         <tr class="schedule-item">
-                                            <td class="item-inner event-time"><span>16:30</span></td>
+                                            <td class="item-inner event-time"><span>15:30</span></td>
                                             <td colspan="3" class="item-inner special event-schedule-break">Break</td>
                                         </tr>
                                         <tr class="schedule-item">

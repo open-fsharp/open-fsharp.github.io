@@ -16,6 +16,19 @@ category: MDL likes curry rice
                     Statically Resolved Type Parameters, aka SRTP, is perhaps F#'s most misunderstood feature, yet at the core of some of its most ergonomic and powerful functionality. We will give hands-on examples showing that behind the abstruse syntax and seemingly daunting behaviors of SRTP lies a simple overloading mechanism, enabling everyday conveniences from boilerplate reduction to greater levels of type safety all the way to techniques that are often either thought impossible to encode in F# or unsatisfactorily simulated via other means, including type classes, higher-kinded types, and other topics of Haskell envy! Regardless of whether you've never used the "inline" keyword or if you're the sort that can't live without FsControl/FSharpPlus, there will be something for everyone.
                 </p>
             </div>
+            <div>
+                <div class="speaker-tag">
+                    <ul class="tag">
+                        <li><a href="#">srtp</a></li>
+						<li><a href="#">types</a></li>
+						<li><a href="#">type safety</a></li>
+						<li><a href="#">magic</a></li>
+                    </ul>
+                </div>
+                <div class="talk-level">
+                    <img src="{{ site.baseurl }}public/assets/animals/tiger.png" alt="This hands-on session is Tiger level" />
+                </div>	
+            </div>
         </div>
     </div>
 </div><!-- /.row -->

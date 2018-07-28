@@ -16,6 +16,16 @@ category: Microsoft Research
                     I will talk about some F# code that I love and why. Along the way, I'll share how it relates to the features of F# and the “sweet spots” for using F# both as an individual and in teams.
                 </p>
             </div>
+            <div>
+                <div class="speaker-tag">
+                    <ul class="tag">
+                        <li><a href="#">tba</a></li>
+                    </ul>
+                </div>
+                <div class="talk-level">
+                    <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This hands-on session is Bear level" />
+                </div>	
+            </div>
         </div>
     </div>
 </div><!-- /.row -->

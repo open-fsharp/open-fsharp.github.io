@@ -29,8 +29,18 @@ category: F# and DDD Enthusiast
             </div>
             <div>
                 <p>
-                    A Fun(ctional) music DSL - Domain Specific Languages - to compute Ukulele tabs from chords: Share the chords with Jérémie and he will show you where to place your fingers ! With IRL ukulele songs.
+                    A Fun(ctional) music DSL - Domain Specific Languages - to compute Ukulele tabs from chords: Share the chords with Jérémie and he will show you where to place your fingers! With IRL ukulele songs.
                 </p>
+            </div>
+            <div>
+                <div class="speaker-tag">
+                    <ul class="tag">
+                        <li><a href="#">DSL</a></li>
+                    </ul>
+                </div>
+                <div class="talk-level">
+                    <img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="This hands-on session is Bunny level" />
+                </div>	
             </div>
         </div>
     </div>
@@ -44,6 +54,16 @@ category: F# and DDD Enthusiast
                 <p>
                     Monads are all the rage in FP land, but Applicatives, despite lack of love can help and save In Real Life situation. We'll learn to recognize them and use them, then with two example will see how far Applicatives can help.
                 </p>
+            </div>
+            <div>
+                <div class="speaker-tag">
+                    <ul class="tag">
+                        <li><a href="#">tba</a></li>
+                    </ul>
+                </div>
+                <div class="talk-level">
+                    <img src="{{ site.baseurl }}public/assets/animals/tiger.png" alt="This hands-on session is Tiger level" />
+                </div>	
             </div>
         </div>
     </div>

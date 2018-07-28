@@ -16,6 +16,18 @@ category: Cloud native typist
                     Integrating a logic programming platform into F# applications to leverage both of their strengths. This will illustrate domain modeling of the interoperability between F# and Prolog, show how to run the Prolog service for development, and then showcase some unique problem solving techniques that are possible when combining logic and functional paradigms.
                 </p>
             </div>
+            <div>
+                <div class="speaker-tag">
+                    <ul class="tag">
+                        <li><a href="#">Logic programming</a></li>
+                        <li><a href="#">prolog</a></li>
+                        <li><a href="#">fsharp</a></li>
+                    </ul>
+                </div>
+                <div class="talk-level">
+                    <img src="{{ site.baseurl }}public/assets/animals/tiger.png" alt="This hands-on session is Tiger level" />
+                </div>	
+            </div>
         </div>
     </div>
 </div><!-- /.row -->

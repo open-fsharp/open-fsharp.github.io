@@ -16,6 +16,16 @@ category: Codes with DNA
                     Notebooks let you blend code, data, and graphical visualisations to explore and share explanations. I’ll show how you can use F# in Jupyter to investigate data, train machine learning models, visualise results, and even deploy tools.
                 </p>
             </div>
+            <div>
+                <div class="speaker-tag">
+                    <ul class="tag">
+                        <li><a href="#">tba</a></li>
+                    </ul>
+                </div>
+                <div class="talk-level">
+                    <img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="This hands-on session is Bunny level" />
+                </div>	
+            </div>
         </div>
     </div>
 </div><!-- /.row -->
