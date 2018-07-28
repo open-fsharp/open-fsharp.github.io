@@ -141,7 +141,7 @@ title: Agenda conference 2018
 										</tr>
                                         <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>11:00</span></td>
-                                            <td colspan="2" class="item-inner special event-schedule-break">Coffee break</td>  
+                                            <td colspan="2" class="item-inner special event-schedule-break">Break</td>  
                                         </tr>
                                         <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>11:20</span></td>
@@ -280,7 +280,7 @@ title: Agenda conference 2018
                                         </tr>
                                         <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>14:50</span></td>
-                                            <td colspan="2" class="item-inner special event-schedule-break">Coffee break</td>
+                                            <td colspan="2" class="item-inner special event-schedule-break">Break</td>
                                         </tr>
                                         <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>15:00</span></td>
@@ -322,6 +322,10 @@ title: Agenda conference 2018
 													</div>
                                                 </div>
                                             </td>
+                                        </tr>
+                                        <tr class="schedule-item">
+                                            <td class="item-inner event-time"><span>16:30</span></td>
+                                            <td colspan="2" class="item-inner special event-schedule-break">Break</td>
                                         </tr>
                                         <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>15:45</span></td>
