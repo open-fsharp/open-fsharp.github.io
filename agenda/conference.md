@@ -707,9 +707,11 @@ title: Agenda conference 2018
                                             <td class="item-inner event-time"><span>16:30</span></td>
                                             <td colspan="3" class="item-inner event-schedule-speaker">	
                                                 <div class="schedule-speaker-tag">
-                                                    <img src="{{ site.baseurl }}public/assets/speakers/2018/phillip-carter.jpg" alt="Phillip Carter" />	
- 													<div class="title">Keynote: The challenge and rewards of F# growth</div>
-                                                    <div>Phillip Carter</div>
+                                                    <a href="{{ site.baseurl }}speakers/phillip-carter/">	
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/phillip-carter.jpg" alt="Phillip Carter" />	
+                                                        <div class="title">Keynote: The challenge and rewards of F# growth</div>
+                                                        <div>Phillip Carter</div>
+                                                    </a>
 													<div>
 														<div class="speaker-tag">
 															<ul class="tag">
