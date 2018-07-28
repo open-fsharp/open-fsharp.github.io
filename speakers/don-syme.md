@@ -8,12 +8,12 @@ category: Microsoft Research
     <div class="col-md-6">
         <div class="speaker-talk">
             <div class="section-head">
-                <h2 class="header-title">TBA</h2>
-                    <p class="header-desc">Fri 28th - 16:00 AM (Keynote)</p>
+                <h2 class="header-title">F# Code I Love</h2>
+                    <p class="header-desc">Thu 27th - 15:45 PM (Keynote)</p>
             </div>
             <div>
                 <p>
-                    TBA
+                    I will talk about some F# code that I love and why. Along the way, I'll share how it relates to the features of F# and the “sweet spots” for using F# both as an individual and in teams.
                 </p>
             </div>
         </div>

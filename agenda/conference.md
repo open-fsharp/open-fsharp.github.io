@@ -359,7 +359,29 @@ title: Agenda conference 2018
                                             </td>
                                         </tr>
                                         <tr class="schedule-item">
-                                            <td class="item-inner event-time"><span>16:00</span></td>
+                                            <td class="item-inner event-time"><span>15:45</span></td>
+                                            <td colspan="3" class="item-inner event-schedule-speaker">
+                                                <div>
+                                                    <a href="{{ site.baseurl }}speakers/don-syme/">
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/don-syme.jpeg" alt="Don Syme" />	
+                                                        <div class="title">Keynote: F# Code I Love</div>
+                                                        <div>Don Syme</div>									
+                                                    </a>
+													<div class="schedule-speaker-tag">
+														<div class="speaker-tag">
+															<ul class="tag">
+																<li><a href="#">F#</a></li>
+															</ul>
+														</div>
+														<div class="talk-level">
+															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
+														</div>	
+													</div>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        <tr class="schedule-item">
+                                            <td class="item-inner event-time"><span>16:45</span></td>
                                             <td colspan="3" class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="https://broadwaystudios.com/" target="_blank">		
