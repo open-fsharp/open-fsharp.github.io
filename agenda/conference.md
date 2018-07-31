@@ -686,14 +686,19 @@ title: Agenda conference 2018
 													</div>
                                                 </div>
                                                 <div>
-                                                    <a href="#">													
-                                                        <div class="title">tba</div>
-                                                        <div>tba</div>										
+                                                    <a href="{{ site.baseurl }}speakers/william-blum/">	
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/william-blum.jpg" alt="William Blum" />													
+                                                        <div class="title">MSRD: A Microsoft online service built entirely with F#</div>
+                                                        <div>William Blum</div>										
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
 															<ul class="tag">
-																<li><a href="#">tba</a></li>
+																<li><a href="#">microsoft</a></li>
+                                                                <li><a href="#">azure</a></li>
+                                                                <li><a href="#">services</a></li>
+                                                                <li><a href="#">security</a></li>
+                                                                <li><a href="#">testing</a></li>
 															</ul>
 														</div>
 														<div class="talk-level">
