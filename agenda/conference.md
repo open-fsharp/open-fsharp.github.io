@@ -667,17 +667,14 @@ title: Agenda conference 2018
                                             <td colspan="3" class="item-inner special event-schedule-speaker event-schedule-lightning">
                                                 <div class="title">Lightning talks</div>
                                                 <div>
-                                                    <a href="{{ site.baseurl }}speakers/matthew-crews/">	
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/matthew-crews.jpg" alt="Matthew Crews" />													
-                                                        <div class="title">Creating a Domain for Optimization</div>
-                                                        <div>Matthew Crews</div>										
+                                                    <a href="#">														
+                                                        <div class="title">tba</div>
+                                                        <div>tba</div>										
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
 															<ul class="tag">
-																<li><a href="#">Domain Modeling</a></li>
-																<li><a href="#">Optimization</a></li>
-																<li><a href="#">DSL</a></li>
+																<li><a href="#">tba</a></li>
 															</ul>
 														</div>
 														<div class="talk-level">
