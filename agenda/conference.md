@@ -194,7 +194,7 @@ title: Agenda conference 2018
                                                     <a href="{{ site.baseurl }}speakers/erik-novales/">
                                                         <img src="{{ site.baseurl }}public/assets/speakers/2018/erik-novales.jpg" alt="Erik Novales" />	
                                                         <div class="title">Functions as Interfaces: Extend Everything!</div>
-                                                        <div>Erik Novales</div>									
+                                                        <div>Erik Novales</div>	
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
@@ -306,14 +306,14 @@ title: Agenda conference 2018
 													</div>
                                                 </div>
                                                 <div>
-                                                    <a href="#">													
-                                                        <div class="title">tba</div>
-                                                        <div>tba</div>										
+                                                    <a href="{{ site.baseurl }}speakers/krzysztof-cieslak/">							    <img src="{{ site.baseurl }}public/assets/speakers/2018/krzysztof-cieslak.jpg" alt="Krzysztof Cieslak" />	
+                                                        <div class="title">Challenges of post-OSS world.</div>
+                                                        <div>Krzysztof Cieslak</div>				
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
 															<ul class="tag">
-																<li><a href="#">tba</a></li>
+																<li><a href="#">OSS</a></li>
 															</ul>
 														</div>
 														<div class="talk-level">
@@ -616,13 +616,15 @@ title: Agenda conference 2018
                                                 <div>
                                                     <a href="{{ site.baseurl }}speakers/krzysztof-cieslak/">		
                                                         <img src="{{ site.baseurl }}public/assets/speakers/2018/krzysztof-cieslak.jpg" alt="Krzysztof Cieslak" />													
-                                                        <div class="title">TBA</div>
-                                                        <div>Krzysztof Cieslak</div>									
+                                                        <div class="title">Reinventing MVC pattern for web programming with F#</div>
+                                                        <div>Krzysztof Cieslak</div>			
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
 															<ul class="tag">
-																<li><a href="#">tba</a></li>
+																<li><a href="#">Saturn</a></li>
+																<li><a href="#">web</a></li>
+																<li><a href="#">MVC</a></li>
 															</ul>
 														</div>
 														<div class="talk-level">
