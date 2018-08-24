@@ -149,7 +149,7 @@ title: Agenda conference 2018
                                                 <div>
                                                     <a href="{{ site.baseurl }}speakers/scott-havens/">
                                                         <img src="{{ site.baseurl }}public/assets/speakers/2018/scott-havens.jpg" alt="Scott Havens" />	
-                                                        <div class="title">From startups to big-business: Using functional programming techniques to transform line of business applications</div>
+                                                        <div class="title">From startups to big-business: Using fp techniques to transform line of business applications</div>
                                                         <div>Scott Havens</div>									
                                                     </a>
 													<div class="schedule-speaker-tag">
