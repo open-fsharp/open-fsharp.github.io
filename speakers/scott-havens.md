@@ -19,7 +19,11 @@ category: JET.COM & WALMART LABS ENGINEERING
             <div>
                 <div class="speaker-tag">
                     <ul class="tag">
-                        <li><a href="#">tba</a></li>
+                        <li><a href="#">F#</a></li>
+                        <li><a href="#">DDD</a></li>
+                        <li><a href="#">Microservices</a></li>
+                        <li><a href="#">Event Sourcing</a></li>
+                        <li><a href="#">Cloud</a></li>
                     </ul>
                 </div>
                 <div class="talk-level">
