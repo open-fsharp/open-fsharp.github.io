@@ -147,14 +147,19 @@ title: Agenda conference 2018
                                             <td class="item-inner event-time"><span>11:20</span></td>
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
-                                                    <a href="#">		
-                                                        <div class="title">tba</div>
-                                                        <div>tba</div>									
+                                                    <a href="{{ site.baseurl }}speakers/scott-havens/">
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/scott-havens.jpg" alt="Scott Havens" />	
+                                                        <div class="title">From startups to big-business: Using functional programming techniques to transform line of business applications</div>
+                                                        <div>Scott Havens</div>									
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
 															<ul class="tag">
-																<li><a href="#">tba</a></li>
+																<li><a href="#">F#</a></li>
+																<li><a href="#">DDD</a></li>
+																<li><a href="#">Microservices</a></li>
+																<li><a href="#">Event Sourcing</a></li>
+																<li><a href="#">Cloud</a></li>
 															</ul>
 														</div>
 														<div class="talk-level">
