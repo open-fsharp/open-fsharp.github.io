@@ -96,7 +96,25 @@ title: Speakers Information
 						<div id="collapseThree" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingThree">
 							<div class="panel-body">
 								<p>Speakers dinner will be held on the Wed 26th of September, the day before the conference.</p>
-								<p>Place will be announced later, RSVP's are not open yet.</p>
+								<p>Place will be announced later, but RSVP's are already <a href="https://goo.gl/forms/xMgVuABOnsGUit0E2" target="_blank">open</a>.</p>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="headingEight">
+							<div class="panel-title">
+								<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+									<span>Discount codes</span>							
+								</a>
+							</div>
+						</div>
+						<div id="collapseEight" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingEight">
+							<div class="panel-body">
+								<p>
+									We made three discount tickets available for each speaker to hand out to friends and colleagues.
+									We mailed you a code that gives a 10% discount on the workshop + conference ticket. 
+									If you did not receive them yet or you would need more than three, please don't hesitate to get in touch with us!
+								</p>
 							</div>
 						</div>
 					</div>
@@ -115,6 +133,9 @@ title: Speakers Information
 								<p><a href="https://www.greentortoisesf.com/private-rooms" target="_blank">Green Tortoise: $138</a> - <a href="https://www.yelp.com/biz/green-tortoise-hostel-san-francisco" target="_blank">REVIEWS</a>	
 								</p>
 								<p><a href="https://www.airbnb.com/" target="_blank">Airbnb</a>
+								</p>
+								<p>
+									Staying outside of San Francisco: as an alternative to staying in downtown San Francisco, which tends to be expensive, an option is to find an hotel or AirBnB near a BART station, the Bay Area public transportation system, which works fairly well. The conference venue is 10 minutes away by foot from the Montgomery BART station in downtown SF. Not all stations are equally nice, it is worth checking what the internet has to say first. Areas near 19th Street/Oakland or Downtown Berkeley stations in the East Bay should be decent.
 								</p>
 							</div>
 						</div>

@@ -24,22 +24,53 @@ category: OSS CONTRIBUTOR
     <div class="col-md-6">
         <div class="speaker-talk">
             <div class="section-head">
-                <h2 class="header-title">TBA</h2>
+                <h2 class="header-title">Reinventing MVC pattern for web programming with F#</h2>
                     <p class="header-desc">Fri 28th - 02:00 PM (Talk)</p>
             </div>
             <div>
                 <p>
-                    TBA
+                    The MVC pattern has been one of the most important architectural patterns for server-side web development - it has been implemented and popularized by frameworks like Ruby On Rail or ASP.NET MVC. However, this pattern was traditionally coupled with object-oriented programming. In the talk, I will show how to reinvent MVC pattern, and structure your web application in a functional language - F#.
+                </p>
+                <p>
+                    The talk will cover some brief introduction to F# - modern functional programming language running on .Net platform, show how to model MVC layers using functional composition, and at the end show some examples of applying MVC pattern with Saturn - opinionated, web development framework for F# which implements the server-side, functional MVC pattern.               
                 </p>
             </div>
             <div>
                 <div class="speaker-tag">
                     <ul class="tag">
-                        <li><a href="#">tba</a></li>
+                        <li><a href="#">saturn</a></li>
+                        <li><a href="#">web</a></li>
+                        <li><a href="#">MVC</a></li>
                     </ul>
                 </div>
                 <div class="talk-level">
-                    <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This hands-on session is Bear level" />
+                    <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
+                </div>	
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="speaker-talk">
+            <div class="section-head">
+                <h2 class="header-title">Challenges of post-OSS world.</h2>
+                    <p class="header-desc">Thu 27th - 03:00 PM (Talk)</p>
+            </div>
+            <div>
+                <p>
+                    OSS has won. After years of convincing people to use open source software, fighting with false dichotomy between OSS and industrial, commercial software, and defending against negative biases, position of OSS is no longer disputed – it's been used by vast majority of companies around the world, it has become default choice when choosing technologies, it powers the internet, our PCs, mobile phones and most devices we use every day, it's been accepted by huge, conservative companies that were against whole concept few years ago.
+                </p>
+                <p>
+                    But were we ready for that? Have we built enough foundations for this new world, or are we just building castle on the sand and another disaster like Heartblead is going to happen? Are assumptions on which we’ve built our mental model about OSS still correct in 2018? And what's the future of OSS ecosystem?
+                </p>
+            </div>
+            <div>
+                <div class="speaker-tag">
+                    <ul class="tag">
+                        <li><a href="#">OSS</a></li>
+                    </ul>
+                </div>
+                <div class="talk-level">
+                    <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
                 </div>	
             </div>
         </div>
