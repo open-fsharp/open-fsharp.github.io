@@ -1,7 +1,7 @@
 ---
 layout: speaker
 title: Scott Havens
-category: JET.COM
+category: JET.COM & WALMART LABS ENGINEERING
 ---
 
 <div class="row">
