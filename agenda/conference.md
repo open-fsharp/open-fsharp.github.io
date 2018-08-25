@@ -597,27 +597,7 @@ title: Agenda conference 2018
                                         </tr>
                                         <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>14:00</span></td>
-                                            <td class="item-inner event-schedule-speaker">
-                                                <div>
-                                                    <a href="{{ site.baseurl }}speakers/john-azariah/">		
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/john-azariah.jpg" alt="John Azariah" />													
-                                                        <div class="title">A tale of two languages: F# and Q#</div>
-                                                        <div>John Azariah</div>									
-                                                    </a>
-													<div class="schedule-speaker-tag">
-														<div class="speaker-tag">
-															<ul class="tag">
-																<li><a href="#">language design</a></li>
-																<li><a href="#">quantum computing</a></li>
-															</ul>
-														</div>
-														<div class="talk-level">
-															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
-														</div>	
-													</div>
-                                                </div>													
-                                            </td>
-                                            <td class="item-inner event-schedule-speaker">
+                                            <td colspan="2" class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="{{ site.baseurl }}speakers/krzysztof-cieslak/">		
                                                         <img src="{{ site.baseurl }}public/assets/speakers/2018/krzysztof-cieslak.jpg" alt="Krzysztof Cieslak" />													
