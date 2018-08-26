@@ -30,18 +30,18 @@ title: Sponsors
 					<h3 class="sponsor-title">Platinum Sponsors</h3>
 					<div class="supporters">
 						<div class="row">
-							<div class="col-sm-3 col-md-3">
+							<div class="col-sm-4 col-md-4">
 								<div class="platinum-item-inner">			
 								</div>
 							</div>
-							<div class="col-sm-3 col-md-3">
+							<div class="col-sm-4 col-md-4">
 								<div class="platinum-item-inner">
 									<a href="http://www.fsharp.org/" target="_blank">
 										<img class="platinum-item" src="{{ site.baseurl }}public/assets/sponsors/2017/fsharp.png" alt="F# Software Foundation">
 									</a>	
 								</div>
 							</div>	
-							<div class="col-sm-3 col-md-3">
+							<div class="col-sm-4 col-md-4">
 								<div class="platinum-item-inner">									
 								</div>
 							</div>
@@ -83,7 +83,7 @@ title: Sponsors
 							<div class="col-sm-3 col-md-3 gold-item">
 								<div class="gold-smaller-inner">
 									<a href="http://www.safe-banking.com/" target="_blank">
-										<img class="smaller-image" src="{{ site.baseurl }}public/assets/sponsors/2017/sbs.jpeg" alt="Safe Banking System">
+										<img src="{{ site.baseurl }}public/assets/sponsors/2017/sbs.jpeg" alt="Safe Banking System">
 									</a>	
 								</div>
 							</div>														
@@ -125,21 +125,21 @@ title: Sponsors
 							<div class="col-sm-4 col-md-4">
 								<div class="silver-item-inner">
 									<a href="https://www.microsoft.com/" target="_blank">
-										<img src="{{ site.baseurl }}public/assets/sponsors/2017/microsoft.png" alt="Microsoft">
+										<img class="silver-item" src="{{ site.baseurl }}public/assets/sponsors/2017/microsoft.png" alt="Microsoft">
 									</a>										
 								</div>
 							</div>
 							<div class="col-sm-4 col-md-4">
 								<div class="silver-item-inner">
 									<a href="https://cloud.google.com/" target="_blank">
-										<img src="{{ site.baseurl }}public/assets/sponsors/2017/google_cloud_platform.png" alt="Google Cloud">
+										<img class="silver-item" src="{{ site.baseurl }}public/assets/sponsors/2017/google_cloud_platform.png" alt="Google Cloud">
 									</a>									
 								</div>
 							</div>
 							<div class="col-sm-4 col-md-4">
 								<div class="silver-item-inner">
 									<a href="https://www.genetec.com/" target="_blank">
-										<img src="{{ site.baseurl }}public/assets/sponsors/2017/genetec.png" alt="Genetec">
+										<img class="silver-item" src="{{ site.baseurl }}public/assets/sponsors/2017/genetec.png" alt="Genetec">
 									</a>								
 								</div>
 							</div>
