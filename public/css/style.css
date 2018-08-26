@@ -1068,7 +1068,7 @@ li.menu-item-has-children>a::before {
 	width: 50%;
 }
 
-.gold-item .gold-item-inner {
+.gold-item-inner {
 	margin-left: 15px;
 	margin-right: 15px;
 	/* https://stackoverflow.com/a/14382618/114519 */
