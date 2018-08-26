@@ -59,14 +59,14 @@ title: Sponsors
 							<div class="col-sm-3 col-md-3">
 								<div class="gold-item-inner">
 									<a href="https://jet.com/" target="_blank">
-										<img class="gold-item" src="{{ site.baseurl }}public/assets/sponsors/2017/jet.png" alt="Jet.com">
+										<img class="gold-item-large" src="{{ site.baseurl }}public/assets/sponsors/2017/jet.png" alt="Jet.com">
 									</a>									
 								</div>
 							</div>
 							<div class="col-sm-3 col-md-3">
 								<div class="gold-item-inner">
 									<a href="http://www.tachyus.com/" target="_blank">
-										<img class="gold-item" src="{{ site.baseurl }}public/assets/sponsors/2017/tachyus.svg" alt="Tachyus">
+										<img class="gold-item-large" src="{{ site.baseurl }}public/assets/sponsors/2017/tachyus.svg" alt="Tachyus">
 									</a>	
 								</div>
 							</div>

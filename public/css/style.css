@@ -1060,8 +1060,12 @@ li.menu-item-has-children>a::before {
 	margin-right: 15px;
 }
 
-.gold-item {
+.gold-item-large {
 	width: 100%;
+}
+
+.gold-item {
+	width: 60%;
 }
 
 .gold-item-inner {
