@@ -1061,7 +1061,7 @@ li.menu-item-has-children>a::before {
 }
 
 .gold-item {
-	width: 50%;
+	width: 100%;
 }
 
 .gold-item-inner {
