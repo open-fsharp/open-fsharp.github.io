@@ -52,42 +52,42 @@ title: Sponsors
 					<h3 class="sponsor-title">Gold Sponsors</h3>
 					<div class="supporters">
 						<div class="row">
-							<div class="col-sm-4 col-md-4 gold-item">
+							<div class="col-sm-4 col-md-4">
 								<div class="gold-item-inner">									
 								</div>
 							</div>														
-							<div class="col-sm-4 col-md-4 gold-item">
+							<div class="col-sm-4 col-md-4">
 								<div class="gold-item-inner">
 									<a href="https://jet.com/" target="_blank">
-										<img src="{{ site.baseurl }}public/assets/sponsors/2017/jet.png" alt="Jet.com">
+										<img class="gold-item" src="{{ site.baseurl }}public/assets/sponsors/2017/jet.png" alt="Jet.com">
 									</a>									
 								</div>
 							</div>
-							<div class="col-sm-4 col-md-4 gold-item">
+							<div class="col-sm-4 col-md-4">
 								<div class="gold-item-inner">
 									<a href="http://www.tachyus.com/" target="_blank">
-										<img src="{{ site.baseurl }}public/assets/sponsors/2017/tachyus.svg" alt="Tachyus">
+										<img class="gold-item" src="{{ site.baseurl }}public/assets/sponsors/2017/tachyus.svg" alt="Tachyus">
 									</a>	
 								</div>
 							</div>
-							<div class="col-sm-4 col-md-4 gold-item">
+							<div class="col-sm-4 col-md-4">
 								<div class="gold-item-inner">									
 								</div>
 							</div>							
 						</div>
 						<div class="row">
-							<div class="col-sm-3 col-md-3 gold-item">
+							<div class="col-sm-3 col-md-3">
 								<div class="gold-item-inner">									
 								</div>
 							</div>
-							<div class="col-sm-3 col-md-3 gold-item">
+							<div class="col-sm-3 col-md-3">
 								<div class="gold-smaller-inner">
 									<a href="http://www.safe-banking.com/" target="_blank">
-										<img src="{{ site.baseurl }}public/assets/sponsors/2017/sbs.jpeg" alt="Safe Banking System">
+										<img class="gold-item" src="{{ site.baseurl }}public/assets/sponsors/2017/sbs.jpeg" alt="Safe Banking System">
 									</a>	
 								</div>
 							</div>														
-							<div class="col-sm-3 col-md-3 gold-item">
+							<div class="col-sm-3 col-md-3">
 								<div class="gold-item-inner">	
 								</div>
 							</div>							
