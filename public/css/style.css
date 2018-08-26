@@ -1100,7 +1100,7 @@ li.menu-item-has-children>a::before {
 }
 
 .silver-item-large {
-	width: 120%;
+	width: 90%;
 }
 
 .silver-item-inner {
@@ -1108,11 +1108,6 @@ li.menu-item-has-children>a::before {
 	margin-right: 15px;
 	line-height: 100px;
 	text-align: center;
-}
-
-.silver-item-inner img {
-	width: 100%;
-	vertical-align: middle;
 }
 
 .silver-row {
