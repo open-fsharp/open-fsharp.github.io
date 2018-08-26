@@ -1048,7 +1048,7 @@ li.menu-item-has-children>a::before {
 }
 
 .platinum-item {
-	width: 75%;
+	width: 50%;
 }
 
 .platinum-row-end {
@@ -1066,7 +1066,6 @@ li.menu-item-has-children>a::before {
 
 .gold-item {
 	width: 25%;
-	float: left;
 }
 
 .gold-item .gold-item-inner {
@@ -1097,8 +1096,7 @@ li.menu-item-has-children>a::before {
 }
 
 .silver-item {
-	width: 20%;
-	float: left;
+	width: 75%;
 }
 
 .silver-item-large {
