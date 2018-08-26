@@ -1055,13 +1055,9 @@ li.menu-item-has-children>a::before {
 	margin-top: 3rem;
 }
 
-.platinum-item .platinum-item-inner {
+.platinum-item-inner {
 	margin-left: 15px;
 	margin-right: 15px;
-}
-
-.platinum-item .platinum-item-inner img {
-	width: 100%;
 }
 
 .gold-item {
@@ -1075,24 +1071,6 @@ li.menu-item-has-children>a::before {
 	height: 100px;
 	line-height: 100px;
 	text-align: center;
-}
-
-.gold-item .gold-item-inner img {
-	width: 100%;
-	vertical-align: middle;
-}
-
-.gold-item .gold-smaller-inner {
-	margin-left: 15px;
-	margin-right: 15px;
-	height: 80px;
-	line-height: 100px;
-	text-align: center;
-}
-
-.gold-item .gold-smaller-inner img {
-	width: 75%;
-	vertical-align: middle;
 }
 
 .silver-item {
