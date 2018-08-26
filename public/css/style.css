@@ -1077,6 +1077,10 @@ li.menu-item-has-children>a::before {
 	text-align: center;
 }
 
+.gold-row-end {
+	margin-top: 3rem;
+}
+
 .silver-item {
 	width: 65%;
 }
@@ -1092,8 +1096,8 @@ li.menu-item-has-children>a::before {
 	text-align: center;
 }
 
-.silver-row {
-	margin-top:50px;
+.silver-row-end {
+	margin-top:3rem;
 }
 
 

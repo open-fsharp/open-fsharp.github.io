@@ -75,7 +75,7 @@ title: Sponsors
 								</div>
 							</div>							
 						</div>
-						<div class="row">
+						<div class="row gold-row-end">
 							<div class="col-sm-4 col-md-4">
 								<div class="gold-item-inner">									
 								</div>
@@ -121,7 +121,7 @@ title: Sponsors
 								</div>
 							</div>
 						</div>
-						<div class="row silver-row">
+						<div class="row silver-row-end">
 							<div class="col-sm-4 col-md-4">
 								<div class="silver-item-inner">
 									<a href="https://www.microsoft.com/" target="_blank">
