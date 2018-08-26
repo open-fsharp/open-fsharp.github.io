@@ -1048,8 +1048,11 @@ li.menu-item-has-children>a::before {
 }
 
 .platinum-item {
-	width: 20%;
-	float: left;
+	width: 75%;
+}
+
+.platinum-row-end {
+	margin-top: 3rem;
 }
 
 .platinum-item .platinum-item-inner {
