@@ -21,8 +21,8 @@ category: Interested in all things machine learning
     <div class="col-md-6">
         <div class="speaker-talk">
             <div class="section-head">
-                <h2 class="header-title">TBA</h2>
-                    <p class="header-desc">TBA (Talk)</p>
+                <h2 class="header-title">Enabling data science research with F#</h2>
+                    <p class="header-desc">Thu 27th - 09:10 AM (Talk)</p>
             </div>
             <div>
                 <p>

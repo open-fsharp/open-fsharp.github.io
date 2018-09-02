@@ -75,9 +75,12 @@ title: Agenda conference 2018
                                         <tr class="schedule-item"> 
                                             <td class="item-inner event-time"><span>09:10</span></td>
                                             <td colspan="3" class="item-inner event-schedule-speaker">	
-                                                <div class="schedule-speaker-tag">		
- 													<div class="title">Keynote</div>
-                                                    <div>TBA</div>
+                                                <div class="schedule-speaker-tag">
+                                                    <a href="{{ site.baseurl }}speakers/evelina-gabasova/">		
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/evelina-gabasova.jpg" alt="Evelina Gabasova" />													
+                                                        <div class="title">Enabling data science research with F#</div>
+                                                        <div>Evelina Gabasova</div>		
+                                                    </a>
 													<div>
 														<div class="speaker-tag">
 															<ul class="tag">
