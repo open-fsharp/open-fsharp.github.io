@@ -631,14 +631,16 @@ title: Agenda conference 2018
                                             <td class="item-inner event-time"><span>15:00</span></td>
                                             <td colspan="3" class="item-inner event-schedule-speaker">
                                                 <div>
-                                                    <a href="">									
-                                                        <div class="title">TBA</div>
-                                                        <div>tba</div>									
+                                                    <a href="{{ site.baseurl }}speakers/alfonso-garcia-caro/">		
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/alfonso-garcia-caro.jpg" alt="Alfonso Garcia Caro" />													
+                                                        <div class="title">Fable got a new major release and you won’t believe what happened next</div>
+                                                        <div>ALFONSO GARCIA-CARO</div>			
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
 															<ul class="tag">
-																<li><a href="#">tba</a></li>
+																<li><a href="#">Fable</a></li>
+                                                                <li><a href="#">F#</a></li>
 															</ul>
 														</div>
 														<div class="talk-level">
