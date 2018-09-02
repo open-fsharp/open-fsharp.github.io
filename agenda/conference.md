@@ -634,7 +634,7 @@ title: Agenda conference 2018
                                                     <a href="{{ site.baseurl }}speakers/alfonso-garcia-caro/">		
                                                         <img src="{{ site.baseurl }}public/assets/speakers/2018/alfonso-garcia-caro.jpg" alt="Alfonso Garcia Caro" />													
                                                         <div class="title">Fable got a new major release and you won’t believe what happened next</div>
-                                                        <div>ALFONSO GARCIA-CARO</div>			
+                                                        <div>Alfonso Garcia-Caro</div>			
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
