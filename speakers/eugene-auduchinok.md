@@ -9,7 +9,7 @@ category: JetBrains
         <div class="speaker-talk">
             <div class="section-head">
                 <h2 class="header-title">State of F# support in JetBrains Rider</h2>
-                    <p class="header-desc">Thu 27th - 03:00 PM (Talk)</p>
+                    <p class="header-desc">Fr 28th - 04:00 PM (Talk)</p>
             </div>
             <div>
                 <p>
@@ -19,7 +19,8 @@ category: JetBrains
             <div>
                 <div class="speaker-tag">
                     <ul class="tag">
-                        <li><a href="#">tba</a></li>
+                        <li><a href="#">tooling</a></li>
+                        <li><a href="#">rider</a></li>
                     </ul>
                 </div>
                 <div class="talk-level">
@@ -39,6 +40,7 @@ category: JetBrains
             </div>
             <div class="row">
                 <div class="col-md-2">
+                    <img src="{{ site.baseurl }}public/assets/speakers/2018/eugene-auduchinok.jpg" alt="Eugene Auduchinok" />
                 </div>
                 <div class="col-md-10">
                     <p>

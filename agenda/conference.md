@@ -659,14 +659,15 @@ title: Agenda conference 2018
                                             <td colspan="3" class="item-inner special event-schedule-speaker event-schedule-lightning">
                                                 <div class="title">Lightning talks</div>
                                                 <div>
-                                                    <a href="#">														
-                                                        <div class="title">tba</div>
-                                                        <div>tba</div>										
+                                                    <a href="{{ site.baseurl }}speakers/eugene-auduchinok/">													<img src="{{ site.baseurl }}public/assets/speakers/2018/eugene-auduchinok.jpg" alt="Eugene Auduchinok" />
+                                                        <div class="title">State of F# support in JetBrains Rider</div>
+                                                        <div>Eugene Auduchinok</div>										
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
 															<ul class="tag">
-																<li><a href="#">tba</a></li>
+																<li><a href="#">tooling</a></li>
+																<li><a href="#">rider</a></li>
 															</ul>
 														</div>
 														<div class="talk-level">
