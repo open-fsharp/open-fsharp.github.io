@@ -84,7 +84,8 @@ title: Agenda conference 2018
 													<div>
 														<div class="speaker-tag">
 															<ul class="tag">
-																<li><a href="#">tba</a></li>
+																<li><a href="#">machine learning</a></li>
+																<li><a href="#">keynote</a></li>
 															</ul>
 														</div>
 														<div class="talk-level">
