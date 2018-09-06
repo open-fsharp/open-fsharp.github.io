@@ -39,6 +39,8 @@ category: JET.COM & WALMART LABS ENGINEERING
             <div class="section-head">
                 <h2 class="header-title">About {{ page.title }}</h2>
                 <p class="header-desc">
+                    <a href="https://twitter.com/ScottHavens"><i class="fab fa-twitter"></i></a>
+					<a href="https://www.linkedin.com/in/scott-havens-a946713/"><i class="fab fa-linkedin-in"></i></a>
                 </p>					
             </div>
             <div class="row">

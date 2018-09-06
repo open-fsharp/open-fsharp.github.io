@@ -36,6 +36,8 @@ category: JetBrains
             <div class="section-head">
                 <h2 class="header-title">About {{ page.title }}</h2>
                 <p class="header-desc">
+                    <a href="https://twitter.com/auduchinok"><i class="fab fa-twitter"></i></a>
+					<a href="https://github.com/auduchinok"><i class="fab fa-github-alt"></i></a>
                 </p>					
             </div>
             <div class="row">
