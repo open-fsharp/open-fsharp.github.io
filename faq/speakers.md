@@ -82,6 +82,7 @@ title: Speakers Information
 							<div class="panel-body">
 								<p>Workshop (Wed 26th of September): MicroTek, 655 Montgomery Street, Suite 400, San Francisco CA 94111</p>
 								<p>Conference (Thu 27th and Fri 28th of September): Broadway venue, 435 Broadway Street, SF, California 94133</p>
+								<p>Speakers dinner (Wed 26th of September): Regalito rosticeria, 3481 18th St San Francisco, CA, 94110</p>
 							</div>
 						</div>
 					</div>
@@ -96,7 +97,8 @@ title: Speakers Information
 						<div id="collapseThree" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingThree">
 							<div class="panel-body">
 								<p>Speakers dinner will be held on the Wed 26th of September, the day before the conference.</p>
-								<p>Place will be announced later, but RSVP's are already <a href="https://goo.gl/forms/xMgVuABOnsGUit0E2" target="_blank">open</a>.</p>
+								<p><a href="http://www.sfregalito.com/">Regalito rosticeria<a/>, 3481 18th St San Francisco, CA, 94110</p>
+								<p>RSVP's are <a href="https://goo.gl/forms/xMgVuABOnsGUit0E2" target="_blank">open</a>.</p>
 							</div>
 						</div>
 					</div>
