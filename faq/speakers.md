@@ -97,7 +97,7 @@ title: Speakers Information
 						<div id="collapseThree" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingThree">
 							<div class="panel-body">
 								<p>Speakers dinner will be held on the Wed 26th of September, the day before the conference.</p>
-								<p><a href="http://www.sfregalito.com/">Regalito rosticeria</a>, 3481 18th St San Francisco, CA, 94110</p>
+								<p>Address is <a href="http://www.sfregalito.com/">Regalito rosticeria</a>, 3481 18th St San Francisco, CA, 94110</p>
 								<p>RSVP's are <a href="https://goo.gl/forms/xMgVuABOnsGUit0E2" target="_blank">open</a>.</p>
 							</div>
 						</div>
