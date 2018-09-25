@@ -47,7 +47,7 @@ title: Agenda workshop 2018
 								<span class="c-info-icon"><i class="fas fa-map-marker-alt"></i></span>
 								<span class="c-info-content">
 									<strong>San Francisco, USA</strong>
-									<span class="i-text"><a href="#" target="_blank">TBA</a></span>
+									<span class="i-text"><a href="#" target="_blank">MicroTek, 655 Montgomery Street, Suite 400, San Francisco CA 94111</a></span>
 								</span>
 							</li>
 							<li>
