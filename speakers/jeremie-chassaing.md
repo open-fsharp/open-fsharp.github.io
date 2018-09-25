@@ -25,7 +25,7 @@ category: F# and DDD Enthusiast
         <div class="speaker-talk">
             <div class="section-head">
                 <h2 class="header-title">Ukulele Tabs in F#</h2>
-                    <p class="header-desc">Thu 27th - 10:00 AM (Talk)</p>
+                    <p class="header-desc">Thu 27th - 10:10 AM (Talk)</p>
             </div>
             <div>
                 <p>
