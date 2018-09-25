@@ -9,7 +9,7 @@ category: Endofunctor tourist
         <div class="speaker-talk">
             <div class="section-head">
                 <h2 class="header-title">Building highly available systems with Apache Storm</h2>
-                    <p class="header-desc">Fri 28th - 12:20 PM (Talk)</p>
+                    <p class="header-desc">Fri 28th - 11:20 AM (Talk)</p>
             </div>
             <div>
                 <p>
