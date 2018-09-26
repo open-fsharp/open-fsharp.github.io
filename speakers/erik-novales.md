@@ -9,7 +9,7 @@ category: F# hobbyist
         <div class="speaker-talk">
             <div class="section-head">
                 <h2 class="header-title">Functions as Interfaces: Extend Everything!</h2>
-                    <p class="header-desc">Thu 27th - 12:20 PM (Talk)</p>
+                    <p class="header-desc">Thu 27th - 11:20 PM (Talk)</p>
             </div>
             <div>
                 <p>

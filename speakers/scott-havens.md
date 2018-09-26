@@ -9,7 +9,7 @@ category: JET.COM & WALMART LABS ENGINEERING
         <div class="speaker-talk">
             <div class="section-head">
                 <h2 class="header-title">From startups to big-business: Using functional programming techniques to transform line of business applications</h2>
-                    <p class="header-desc">Thu 27th - 11:20 AM (Talk)</p>
+                    <p class="header-desc">Thu 27th - 12:20 AM (Talk)</p>
             </div>
             <div>
                 <p>

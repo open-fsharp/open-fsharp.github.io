@@ -151,19 +151,16 @@ title: Agenda conference 2018
                                             <td class="item-inner event-time"><span>11:20</span></td>
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
-                                                    <a href="{{ site.baseurl }}speakers/scott-havens/">
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/scott-havens.jpg" alt="Scott Havens" />	
-                                                        <div class="title">From startups to big-business: Using fp techniques to transform line of business applications</div>
-                                                        <div>Scott Havens</div>									
+                                                    <a href="{{ site.baseurl }}speakers/erik-novales/">
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/erik-novales.jpg" alt="Erik Novales" />	
+                                                        <div class="title">Functions as Interfaces: Extend Everything!</div>
+                                                        <div>Erik Novales</div>	
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
 															<ul class="tag">
-																<li><a href="#">F#</a></li>
-																<li><a href="#">DDD</a></li>
-																<li><a href="#">Microservices</a></li>
-																<li><a href="#">Event Sourcing</a></li>
-																<li><a href="#">Cloud</a></li>
+																<li><a href="#">composability</a></li>
+																<li><a href="#">resiliency</a></li>
 															</ul>
 														</div>
 														<div class="talk-level">
@@ -200,16 +197,19 @@ title: Agenda conference 2018
                                             <td class="item-inner event-time"><span>12:20</span></td>
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
-                                                    <a href="{{ site.baseurl }}speakers/erik-novales/">
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/erik-novales.jpg" alt="Erik Novales" />	
-                                                        <div class="title">Functions as Interfaces: Extend Everything!</div>
-                                                        <div>Erik Novales</div>	
+                                                    <a href="{{ site.baseurl }}speakers/scott-havens/">
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/scott-havens.jpg" alt="Scott Havens" />	
+                                                        <div class="title">From startups to big-business: Using fp techniques to transform line of business applications</div>
+                                                        <div>Scott Havens</div>									
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
 															<ul class="tag">
-																<li><a href="#">composability</a></li>
-																<li><a href="#">resiliency</a></li>
+																<li><a href="#">F#</a></li>
+																<li><a href="#">DDD</a></li>
+																<li><a href="#">Microservices</a></li>
+																<li><a href="#">Event Sourcing</a></li>
+																<li><a href="#">Cloud</a></li>
 															</ul>
 														</div>
 														<div class="talk-level">
