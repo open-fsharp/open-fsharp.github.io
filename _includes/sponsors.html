@@ -1,0 +1,94 @@
+<section id="sponsors" class="sponsor">
+    <div class="container">
+        <div class="row">
+            <div class="sponsor-wrapper">
+                <div class="ccr-sponsor">
+                    <h3 class="sponsor-title">Platinum Sponsors</h3>
+                    <div class="supporters">
+                        {% for sponsor in site.data.sponsors[page.year].platinumSponsors %}
+
+                        {% if forloop.first == true %}
+                        <div class="row">
+                        {% else %}
+                        <div class="row platinum-row-end">
+                        {% endif %}
+
+                            <div class="col-sm-4 col-md-4">
+                                <div class="platinum-item-inner">
+                                </div>
+                            </div>
+                            <div class="col-sm-4 col-md-4">
+                                <div class="platinum-item-inner">
+                                    <a href="{{sponsor.siteUrl}}" target="_blank">
+                                        <img class="platinum-item" src="{{ site.baseurl }}{{sponsor.imagePath}}" alt="{{altText}}">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-sm-4 col-md-4">
+                                <div class="platinum-item-inner">
+                                </div>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div><!-- /.platinum-sponsor -->
+                <div class="ccr-sponsor">
+                    <h3 class="sponsor-title">Gold Sponsors</h3>
+                    <div class="supporters">
+
+                        {% assign goldSponsors = site.data.sponsors[page.year].goldSponsors%}
+                        {% for sponsor in goldSponsors %}
+                        {% assign indexOffset = forloop.index | modulo: 2 %}
+                        {% if indexOffset == 1 %}
+                        <div class="row">
+                                <div class="col-sm-3 col-md-3">
+                                        <div class="gold-item-inner">
+                                        </div>
+                                    </div>
+                        {% endif %}
+                        <div class="col-sm-3 col-md-3">
+                                <div class="gold-item-inner">
+                                        <a href="{{sponsor.siteUrl}}" target="_blank">
+                                            <img class="gold-item-large" src="{{ site.baseurl }}{{sponsor.imagePath}}" alt="{{altText}}">
+                                        </a>
+                                    </div>
+                            </div>
+
+                        {% if indexOffset == 0 %}
+                        </div>
+                        {% endif %}
+                        {% endfor %}
+
+                    </div>
+                </div><!-- /.gold-sponsor -->
+                <div class="ccr-sponsor">
+                    <h3 class="sponsor-title">Silver Sponsors</h3>
+                    <div class="supporters">
+                            {% assign silverSponsors = site.data.sponsors[page.year].silverSponsors %}
+                            {% for sponsor in silverSponsors %}
+                            {% assign indexOffset = forloop.index | modulo: 2 %}
+                            {% if indexOffset == 1 %}
+                            <div class="row">
+                                    <div class="col-sm-3 col-md-3">
+                                            <div class="silver-item-inner">
+                                            </div>
+                                        </div>
+                            {% endif %}
+                            <div class="col-sm-3 col-md-3">
+                                    <div class="silver-item-inner">
+                                            <a href="{{sponsor.siteUrl}}" target="_blank">
+                                                <img class="silver-item" src="{{ site.baseurl }}{{sponsor.imagePath}}" alt="{{altText}}">
+                                            </a>
+                                        </div>
+                                </div>
+
+                            {% if indexOffset == 0 %}
+                            </div>
+                            {% endif %}
+                            {% endfor %}
+                        </div>
+                </div><!-- /.silver-sponsor -->
+            </div><!-- /.sponsor-wrapper -->
+        </div><!-- /.row -->
+    </div><!-- /.container -->
+</section>

@@ -1,0 +1,51 @@
+<section id="speakers" class="event-speaker">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="section-head">
+                <h2 class="header-title">Speakers {{page.year}}</h2>
+                <p class="header-desc">Meet our speakers of {{page.year}}!</p>
+            </div>
+            <div class="speak-wrapper">
+                    {% for speaker in site.data.speakers[page.year] %}
+                <div class="col-sm-6 col-md-3">
+                    <div class="row">
+                        <div class="speaker-item">
+                            <div class="speaker-thumb">
+                                <a href="{{ site.baseurl }}{{speaker.speakerUrl}}">
+                                    <img src="{{ site.baseurl }}{{speaker.imageUrl}}" alt="{{speaker.imageAltText}}"></a>
+                            </div><!-- /.speaker-thumb -->
+                            <div class="speaker-content">
+                                <a href="{{ site.baseurl }}{{speaker.speakerUrl}}" class="speaker-name">{{speaker.name}}</a>
+                                <p class="designation">{{speaker.bio}}</p>
+                            </div>
+                            <div class="speaker-social">
+                                <ul class="social-media">
+                                    {% if speaker.twitterUrl %}
+                                    <li><a href="{{speaker.twitterUrl}}"><i class="fab fa-twitter"></i></a></li>
+                                    {% endif %}
+                                    {% if speaker.githubUrl %}
+                                    <li><a href="{{speaker.githubUrl}}"><i class="fab fa-github-alt"></i></a></li>
+                                    {% endif %}
+                                    {% if speaker.blogUrl %}
+                                    <li><a href="{{speaker.blogUrl}}"><i class="fas fa-rss"></i></a></li>
+                                    {% endif %}
+                                    {% if speaker.linkedinUrl %}
+                                    <li><a href="{{speaker.linkedinUrl}}"><i class="fab fa-linkedin-in"></i></a></li>
+                                    {% endif %}
+                                    {% if speaker.podcastUrl %}
+                                    <li><a href="{{speaker.podcastUrl}}"><i class="fas fa-podcast"></i></a></li>
+                                    {% endif %}
+                                </ul>
+                            </div>
+                        </div><!-- /.speaker-item -->
+                    </div><!-- /.row -->
+                </div><!-- /.col-sm-6 col-md-3 -->
+                    {% endfor %}
+
+
+
+            </div><!-- /.speak-wrapper -->
+        </div><!-- /.row -->
+    </div><!-- /.container -->
+</section>

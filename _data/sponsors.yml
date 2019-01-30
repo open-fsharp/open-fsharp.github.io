@@ -1,0 +1,28 @@
+2018:
+  platinumSponsors:
+  - siteUrl: https://jet.com/
+    imagePath: public/assets/sponsors/2018/jet.png
+    altText: Platinum Sponsor Jet.com
+  - siteUrl: http://www.fsharp.org/
+    imagePath: public/assets/sponsors/2018/fsharp.png
+    altText: Platinum Sponsor F# Software Foundation
+  goldSponsors:
+  - siteUrl: https://www.virtustream.com/
+    imagePath: public/assets/sponsors/2018/Virtustream.jpg
+    altText: Golden Sponsor Virtustream
+  - siteUrl: http://www.tachyus.com/
+    imagePath: public/assets/sponsors/2018/tachyus.svg
+    altText: Golden Sponsor Tachyus
+  silverSponsors:
+  - siteUrl: https://demetrixbio.com/
+    imagePath: public/assets/sponsors/2018/demetrixbio.jpg
+    altText: Silver Sponsor Demetrix
+  - siteUrl: https://prolucid.ca/
+    imagePath: public/assets/sponsors/2018/prolucid.png
+    altText: Silver Sponsor Prolucid
+  - siteUrl: https://www.olo.com/
+    imagePath: public/assets/sponsors/2018/olo.jpg
+    altText: Silver Sponsor OLO
+  - siteUrl: https://dotnetfoundation.org/
+    imagePath: public/assets/sponsors/2018/netFoundation.jpg
+    altText: Silver Sponsor .NET Foundation

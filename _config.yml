@@ -10,7 +10,7 @@ title:            open-fsharp
 tagline:          'A conference to learn, create and connect with F# and its Community.'
 description:      'A conference to learn, create and connect with F# and its Community.'
 url:              https://open-fsharp.github.io/
-baseurl:          ""
+baseurl:          https://open-fsharp.github.io/
 
 author:
   name:           'Open Fsharp'
