@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+year: 2019
 ---
 
 <!--  bannar section start  -->
@@ -72,7 +73,7 @@ title: Home
 
 					<p>We can't wait for Open FSharp to take place - and we look forward to having <b>you</b> part of it.</p>
 
-					<p>Separately from the conference, there will be a one day workshop this year too! It will take place on the 26th of September.
+					<p>Separately from the conference, there will be a one day workshop this year too! It will take place on the 25th of September.
 							We are working hard to get everything up and running for it. We promise more news will follow soon!</p>
 
 					<!-- <div class="button-group">
@@ -88,28 +89,24 @@ title: Home
 								<span class="c-info-icon"><i class="fas fa-map-marker-alt"></i></span>
 								<span class="c-info-content">
 									<strong>San Francisco, USA</strong>
+									{% if site.data.venue.name %}
 									<span class="i-text"><a href="https://broadwaystudios.com/" target="_blank">Broadway venue, SF</a></span>
+									{% endif %}
 								</span>
 							</li>
 							<li>
 								<span class="c-info-icon"><i class="far fa-calendar-alt"></i></span>
 								<span class="c-info-content">
-									<strong>26-28 September 2019</strong>
+									<strong>25-27 September 2019</strong>
 									<span class="i-text">1 day workshop and 2 day conference</span>
 								</span>
 							</li>
-							<!-- <li>
-								<span class="c-info-icon"><i class="fas fa-sitemap"></i></span>
-								<span class="c-info-content">
-									<strong>150 Seats</strong>
-									<span class="i-text">Register and Confirm your Seat</span>
-								</span>
-							</li> -->
+
 							<li>
 								<span class="c-info-icon"><i class="fas fa-microphone"></i></span>
 								<span class="c-info-content">
 									<strong>20+ Speakers</strong>
-									<span class="i-text">Popular Speakers Attend Here</span>
+									<a class="i-text" href="{{ site.baseurl }}2018/speakers">Check out speakers from past years</a>
 								</span>
 							</li>
 						</ul>
@@ -126,257 +123,19 @@ title: Home
 <!-- end event speaker  -->
 
 <!--  start pricing table  -->
-<section id="tickets" class="pricing-table3">
-	<div class="container">
-		<div class="row">
-			<div class="section-head">
-				<h2 class="header-title">Tickets</h2>
-				<p class="header-desc">Only 150 seats - get your ticket while you still can!</p>
-			</div>
-			<div class="pricing-table-wrapper3">
-				<div class="col-sm-6 col-md-4">
-					<div class="pricing-table-item3">
-						<div class="pricing-table-item3-inner">
-							<div class="pricing-table-item3-inner-inner">
-								<div class="pricing-booking3">
-									<span>Early Bird</span>
-								</div>
-								<div class="price3">
-									<p>$ <span>275</span>.00</p>
-									<p>SOLD OUT</p>
-								</div>
-								<ul class="price-detail">
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>2 day conference</li>
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>Hands-on</li>
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>Party</li>
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>Coffee, drinks, and food</li>
-								</ul>
-								<div class="price-button price-button-active sold-out">
-									<a target="_blank" href="https://www.eventbrite.com/e/open-fsharp-2018-the-conference-to-connect-with-f-and-its-community-tickets-38246274637" class="custon-btn price-btn-active hvr-bounce-to-bottom">Buy Ticket Now</a>
-								</div>
-							</div><!-- /.pricing-table-item3-inner-inner -->
-						</div><!-- /.pricing-table-item3-inner -->
-					</div><!-- /.pricing-table-item3 -->
-				</div><!-- /.col-sm-6 col-md-4 -->
-				<div class="col-sm-6 col-md-4">
-					<div class="pricing-table-item3 pricing-table-item3-active">
-						<div class="pricing-table-item3-inner">
-							<div class="pricing-table-item3-inner-inner">
-								<div class="pricing-booking3">
-									<span>Regular Bird</span>
-								</div>
-								<div class="price3">
-									<p>$ <span>375</span>.00</p>
-									<p>On sale</p>
-								</div>
-								<ul class="price-detail">
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>2 day conference</li>
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>Hands-on</li>
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>Party</li>
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>Coffee, drinks, and food</li>
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>Limited availability</li>
-								</ul>
-								<div class="price-button">
-									<a target="_blank" href="https://www.eventbrite.com/e/open-fsharp-2018-the-conference-to-connect-with-f-and-its-community-tickets-38246274637" class="custon-btn price-btn-active hvr-bounce-to-bottom">Buy Ticket Now</a>
-								</div>
-							</div><!-- /.pricing-table-item3-inner-inner -->
-						</div><!-- /.pricing-table-item3-inner -->
-					</div><!-- /.pricing-table-item3 -->
-				</div><!-- /.col-sm-6 col-md-4 -->
-				<div class="col-sm-6 col-md-4">
-					<div class="pricing-table-item3">
-						<div class="pricing-table-item3-inner">
-							<div class="pricing-table-item3-inner-inner">
-								<div class="pricing-booking3">
-									<span>Late Bird</span>
-								</div>
-								<div class="price3">
-									<p>$ <span>475</span>.00</p>
-									<p>Not on sale yet</p>
-								</div>
-								<ul class="price-detail">
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>2 day conference</li>
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>Hands-on</li>
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>Party</li>
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>Coffee, drinks, and food</li>
-								</ul>
-								<div class="price-button">
-									<a target="_blank" href="https://www.eventbrite.com/e/open-fsharp-2018-the-conference-to-connect-with-f-and-its-community-tickets-38246274637" class="custon-btn price-btn-active hvr-bounce-to-bottom">Buy Ticket Now</a>
-								</div>
-							</div><!-- /.pricing-table-item3-inner-inner -->
-						</div><!-- /.pricing-table-item3-inner -->
-					</div><!-- /.pricing-table-item3 -->
-				</div><!-- /.col-md-4 -->
-			</div><!-- /.pricing-table-wrapper3 -->
-		</div><!-- /.row -->
-	</div><!-- /.container -->
-</section>
+{% include tickets.html %}
 <!--  end pricing table  -->
 
-<!--  start become-sponsor  -->
-<section id="workshop" class="call-for-paper">
-	<div class="overlay"></div>
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<div class="row">
-					<div class="become-sponsor-item">
-						<h2>Workshops</h2>
-						<p>The workshops will take place the day before the conference, on the Wed 26th of September, with 2 workshop formats: "Deep Dive" (8 hours) or "Taster" (4 hours).
-
-							Tickets for the workshop can be bought separately. The price for a full day workshop (deep dive or 2 tasters) is 375 USD and half a day workshop (1 taster) is 225 USD.</p>
-					</div>
-				</div><!-- /.row -->
-			</div><!-- /.col-md-10 -->
-		</div>
-		<div class="row">
-			<div class="col-md-6">
-				<div class="row">
-					<div>
-						<a href="https://www.eventbrite.com/e/open-fsharp-2018-the-conference-to-connect-with-f-and-its-community-tickets-38246274637" class="custom-btn hvr-bounce-to-bottom">Buy ticket</a>
-						<a href="{{ site.baseurl }}agenda/workshop" class="custom-btn hvr-bounce-to-bottom">Available workshops</a>
-					</div>
-				</div>
-			</div><!-- /.col-md-2 -->
-		</div><!-- /.row -->
-	</div><!-- /.container -->
-</section>
+<!--  workshps become-sponsor  -->
+{% include workshops.html %}
 <!--  end become-sponsor  -->
 
 <!--  start sponsor section  -->
-<section id="sponsors" class="sponsor">
-	<div class="container">
-		<div class="row">
-			<div class="sponsor-wrapper">
-				<div class="ccr-sponsor">
-					<h3 class="sponsor-title">Platinum Sponsors</h3>
-					<div class="supporters">
-						<div class="row">
-							<div class="col-sm-4 col-md-4">
-								<div class="platinum-item-inner">
-								</div>
-							</div>
-							<div class="col-sm-4 col-md-4">
-								<div class="platinum-item-inner">
-									<a href="https://jet.com/" target="_blank">
-										<img class="platinum-item" src="{{ site.baseurl }}public/assets/sponsors/2018/jet.png" alt="Platinum sponsor Jet.com">
-									</a>
-								</div>
-							</div>
-							<div class="col-sm-4 col-md-4">
-								<div class="platinum-item-inner">
-								</div>
-							</div>
-						</div>
-						<div class="row platinum-row-end">
-							<div class="col-sm-4 col-md-4">
-								<div class="platinum-item-inner">
-								</div>
-							</div>
-							<div class="col-sm-4 col-md-4">
-								<div class="platinum-item-inner">
-									<a href="http://www.fsharp.org/" target="_blank">
-										<img class="platinum-item" src="{{ site.baseurl }}public/assets/sponsors/2018/fsharp.png" alt="Platinum sponsor F# Software Foundation">
-									</a>
-								</div>
-							</div>
-							<div class="col-sm-4 col-md-4">
-								<div class="platinum-item-inner">
-								</div>
-							</div>
-						</div>
-					</div>
-				</div><!-- /.platinum-sponsor -->
-				<div class="ccr-sponsor">
-					<h3 class="sponsor-title">Gold Sponsors</h3>
-					<div class="supporters">
-						<div class="row">
-							<div class="col-sm-3 col-md-3">
-								<div class="gold-item-inner">
-								</div>
-							</div>
-							<div class="col-sm-3 col-md-3">
-								<div class="gold-item-inner">
-									<a href="https://www.virtustream.com/" target="_blank">
-										<img class="gold-item-large" src="{{ site.baseurl }}public/assets/sponsors/2018/Virtustream.jpg" alt="Golden Sponsor Virtustream">
-									</a>
-								</div>
-							</div>
-							<div class="col-sm-3 col-md-3">
-								<div class="gold-item-inner">
-									<a href="http://www.tachyus.com/" target="_blank">
-										<img class="gold-item-large" src="{{ site.baseurl }}public/assets/sponsors/2018/tachyus.svg" alt="Golden Sponsor Tachyus">
-									</a>
-								</div>
-							</div>
-							<div class="col-sm-3 col-md-3">
-								<div class="gold-item-inner">
-								</div>
-							</div>
-						</div>
-					</div>
-				</div><!-- /.gold-sponsor -->
-				<div class="ccr-sponsor">
-					<h3 class="sponsor-title">Silver Sponsors</h3>
-					<div class="supporters">
-						<div class="row">
-							<div class="col-sm-3 col-md-3">
-								<div class="silver-item-inner">
-								</div>
-							</div>
-							<div class="col-sm-3 col-md-3">
-								<div class="silver-item-inner">
-									<a href="https://demetrixbio.com/" target="_blank">
-										<img class="silver-item-large" src="{{ site.baseurl }}public/assets/sponsors/2018/demetrixbio.jpg" alt="Silver sponsor Demetrix">
-									</a>
-								</div>
-							</div>
-							<div class="col-sm-3 col-md-3">
-								<div class="silver-item-inner">
-									<a href="https://prolucid.ca/" target="_blank">
-										<img class="silver-item-large" src="{{ site.baseurl }}public/assets/sponsors/2018/prolucid.png" alt="Silver sponsor Prolucid">
-									</a>
-								</div>
-							</div>
-							<div class="col-sm-3 col-md-3">
-								<div class="silver-item-inner">
-								</div>
-							</div>
-						</div>
-						<div class="row silver-row-end">
-							<div class="col-sm-3 col-md-3">
-								<div class="silver-item-inner">
-								</div>
-							</div>
-							<div class="col-sm-3 col-md-3">
-								<div class="silver-item-inner">
-									<a href="https://www.olo.com/" target="_blank">
-										<img class="silver-item" src="{{ site.baseurl }}public/assets/sponsors/2018/olo.jpg" alt="Silver sponsor OLO">
-									</a>
-								</div>
-							</div>
-							<div class="col-sm-3 col-md-3">
-								<div class="silver-item-inner">
-									<a href="https://dotnetfoundation.org/" target="_blank">
-										<img class="silver-item" src="{{ site.baseurl }}public/assets/sponsors/2018/netFoundation.jpg" alt="Silver sponsor .NET Foundation">
-									</a>
-								</div>
-							</div>
-							<div class="col-sm-3 col-md-3">
-								<div class="silver-item-inner">
-								</div>
-							</div>
-						</div>
-					</div>
-				</div><!-- /.silver-sponsor -->
-			</div><!-- /.sponsor-wrapper -->
-		</div><!-- /.row -->
-	</div><!-- /.container -->
-</section>
+{% include sponsors.html %}
 <!--  end sponsor section  -->
 
 <!--  start become-sponsor  -->
-<section class="become-sponsor">
+<section id="becomeASponsor" class="become-sponsor">
 	<div class="overlay"></div>
 	<div class="container">
 		<div class="row">
@@ -398,14 +157,14 @@ title: Home
 
 <!--  start contact section   -->
 {% include contact.html %}
-
 <!--  end contact section   -->
 
 <!--  start map section   -->
+{% if site.data.location.conference %}
 {% include map.html %}
+{% endif %}
 <!--  end map section   -->
 
 <!--  start code of conduct   -->
-
 {% include codeOfConduct.html %}
 <!--  end code of conduct   -->
