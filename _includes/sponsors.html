@@ -1,11 +1,13 @@
 <section id="sponsors" class="sponsor">
     <div class="container">
+        {% assign sponsors = site.data.sponsors[page.year] %}
+        {% if sponsors %}
         <div class="row">
             <div class="sponsor-wrapper">
                 <div class="ccr-sponsor">
                     <h3 class="sponsor-title">Platinum Sponsors</h3>
                     <div class="supporters">
-                        {% for sponsor in site.data.sponsors[page.year].platinumSponsors %}
+                        {% for sponsor in sponsors.platinumSponsors %}
 
                         {% if forloop.first == true %}
                         <div class="row">
@@ -36,7 +38,7 @@
                     <h3 class="sponsor-title">Gold Sponsors</h3>
                     <div class="supporters">
 
-                        {% assign goldSponsors = site.data.sponsors[page.year].goldSponsors%}
+                        {% assign goldSponsors = sponsors.goldSponsors %}
                         {% for sponsor in goldSponsors %}
                         {% assign indexOffset = forloop.index | modulo: 2 %}
                         {% if indexOffset == 1 %}
@@ -64,7 +66,7 @@
                 <div class="ccr-sponsor">
                     <h3 class="sponsor-title">Silver Sponsors</h3>
                     <div class="supporters">
-                            {% assign silverSponsors = site.data.sponsors[page.year].silverSponsors %}
+                            {% assign silverSponsors = sponsors.silverSponsors %}
                             {% for sponsor in silverSponsors %}
                             {% assign indexOffset = forloop.index | modulo: 2 %}
                             {% if indexOffset == 1 %}
@@ -90,5 +92,14 @@
                 </div><!-- /.silver-sponsor -->
             </div><!-- /.sponsor-wrapper -->
         </div><!-- /.row -->
+    {% else %}
+    <div class="row">
+        <div class="section-head">
+            <h2 class="header-title">Check Back Soon for Sponsor Announcements</h2>
+            <h3><a href="{{ site.baseurl }}#becomeASponsor">Become a Sponsor</h3>
+        </div>
+    </div>
+
+    {% endif %}
     </div><!-- /.container -->
 </section>
