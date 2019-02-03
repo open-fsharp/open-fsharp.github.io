@@ -1,13 +1,19 @@
 <section id="speakers" class="event-speaker">
+    {% assign speakers = site.data.speakers[page.year] %}
     <div class="overlay"></div>
     <div class="container">
         <div class="row">
             <div class="section-head">
+                {% if speakers %}
                 <h2 class="header-title">Speakers {{page.year}}</h2>
                 <p class="header-desc">Meet our speakers of {{page.year}}!</p>
+                {% else %}
+                <h2 class="header-title">Speakers to be announced soon!</h2>
+                {% endif %}
             </div>
+            {% if speakers %}
             <div class="speak-wrapper">
-                    {% for speaker in site.data.speakers[page.year] %}
+                    {% for speaker in speakers %}
                 <div class="col-sm-6 col-md-3">
                     <div class="row">
                         <div class="speaker-item">
@@ -44,8 +50,8 @@
                     {% endfor %}
 
 
-
             </div><!-- /.speak-wrapper -->
+            {% endif %}
         </div><!-- /.row -->
     </div><!-- /.container -->
 </section>
