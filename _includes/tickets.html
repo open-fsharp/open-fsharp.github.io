@@ -10,6 +10,7 @@
 				{% endif %}
 			</div>
 			{% if site.data.tickets.available %}
+			{% assign tickets = site.data.tickets %}
 			<div class="pricing-table-wrapper3">
 				<div class="col-sm-6 col-md-4">
 					<div class="pricing-table-item3">
@@ -19,8 +20,12 @@
 									<span>Early Bird</span>
 								</div>
 								<div class="price3">
-									<p>$ <span>275</span>.00</p>
+									<p>$ <span>{{ tickets.early.price }}</span>.00</p>
+									{% if tickets.early.soldout %}
 									<p>SOLD OUT</p>
+									{% else %}
+									<p>On sale</p>
+									{% endif %}
 								</div>
 								<ul class="price-detail">
 									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>2 day conference</li>
@@ -29,7 +34,7 @@
 									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>Coffee, drinks, and food</li>
 								</ul>
 								<div class="price-button price-button-active sold-out">
-									<a target="_blank" href="https://www.eventbrite.com/e/open-fsharp-2018-the-conference-to-connect-with-f-and-its-community-tickets-38246274637" class="custon-btn price-btn-active hvr-bounce-to-bottom">Buy Ticket Now</a>
+									<a target="_blank" href="{{ tickets.early.url }}" class="custon-btn price-btn-active hvr-bounce-to-bottom">Buy Ticket Now</a>
 								</div>
 							</div><!-- /.pricing-table-item3-inner-inner -->
 						</div><!-- /.pricing-table-item3-inner -->
@@ -43,8 +48,12 @@
 									<span>Regular Bird</span>
 								</div>
 								<div class="price3">
-									<p>$ <span>375</span>.00</p>
+									<p>$ <span>{{ tickets.regular.price }}</span>.00</p>
+									{% if tickets.regular.soldout %}
+									<p>SOLD OUT</p>
+									{% else %}
 									<p>On sale</p>
+									{% endif %}
 								</div>
 								<ul class="price-detail">
 									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>2 day conference</li>
@@ -54,7 +63,7 @@
 									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>Limited availability</li>
 								</ul>
 								<div class="price-button">
-									<a target="_blank" href="https://www.eventbrite.com/e/open-fsharp-2018-the-conference-to-connect-with-f-and-its-community-tickets-38246274637" class="custon-btn price-btn-active hvr-bounce-to-bottom">Buy Ticket Now</a>
+									<a target="_blank" href="{{ tickets.regular.url }}" class="custon-btn price-btn-active hvr-bounce-to-bottom">Buy Ticket Now</a>
 								</div>
 							</div><!-- /.pricing-table-item3-inner-inner -->
 						</div><!-- /.pricing-table-item3-inner -->
@@ -68,8 +77,12 @@
 									<span>Late Bird</span>
 								</div>
 								<div class="price3">
-									<p>$ <span>475</span>.00</p>
-									<p>Not on sale yet</p>
+										<p>$ <span>{{ tickets.late.price }}</span>.00</p>
+										{% if tickets.late.soldout %}
+										<p>SOLD OUT</p>
+										{% else %}
+										<p>On sale</p>
+										{% endif %}
 								</div>
 								<ul class="price-detail">
 									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>2 day conference</li>
@@ -78,7 +91,7 @@
 									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>Coffee, drinks, and food</li>
 								</ul>
 								<div class="price-button">
-									<a target="_blank" href="https://www.eventbrite.com/e/open-fsharp-2018-the-conference-to-connect-with-f-and-its-community-tickets-38246274637" class="custon-btn price-btn-active hvr-bounce-to-bottom">Buy Ticket Now</a>
+									<a target="_blank" href="{{ tickets.late.url }}">Buy Ticket Now</a>
 								</div>
 							</div><!-- /.pricing-table-item3-inner-inner -->
 						</div><!-- /.pricing-table-item3-inner -->
