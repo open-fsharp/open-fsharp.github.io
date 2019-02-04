@@ -1,0 +1,15 @@
+early:
+  url:
+  price:
+  soldout: false
+  onsale: false
+regular:
+  url:
+  price:
+  soldout: false
+  onsale: false
+late:
+  url:
+  price:
+  soldout: false
+  onsale: false

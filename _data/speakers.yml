@@ -1,0 +1,173 @@
+2017: []
+2018:
+  - name: ALFONSO GARCIA-CARO
+    speakerUrl: speakers/alfonso-garcia-caro/
+    imageUrl: public/assets/speakers/2018/alfonso-garcia-caro.jpg
+    imageAltText: Alfonso Garcia Caro
+    bio: Creator of Fable
+    twitterUrl: https://twitter.com/alfonsogcnunez
+    githubUrl: https://github.com/alfonsogarciacaro
+  - name: AVI AVNI
+    speakerUrl: speakers/avi-avni/
+    imageUrl: public/assets/speakers/2018/avi-avni.jpg
+    imageAltText: Avi Avni
+    bio: F# Compiler Contributor
+    twitterUrl: https://twitter.com/AviAvni3
+    githubUrl: https://github.com/AviAvni
+  - name: COLIN GRAVILL
+    speakerUrl: speakers/colin-gravill/
+    imageUrl: public/assets/speakers/2018/colin-gravill.jpg
+    imageAltText: Colin Gravill
+    bio: Codes with DNA
+    twitterUrl: https://twitter.com/cgravill
+    githubUrl: https://github.com/cgravill
+  - name: DARREN PLATT
+    speakerUrl: speakers/darren-platt/
+    imageUrl: public/assets/speakers/2018/darren-platt.png
+    imageAltText: Darren Platt
+    bio: engineering life
+    twitterUrl: https://twitter.com/dplattsf
+  - name: DAVE CURYLO
+    speakerUrl: speakers/dave-curylo/
+    imageUrl: public/assets/speakers/2018/dave-curylo.JPG
+    imageAltText: Dave Curylo
+    bio: Cloud Native Typist
+    twitterUrl: https://twitter.com/i_no_see_pound
+    githubUrl: https://github.com/ninjarobot
+  - name: DON SYME
+    speakerUrl: speakers/don-syme/
+    imageUrl: public/assets/speakers/2018/don-syme.jpeg
+    imageAltText: Don Syme
+    bio: Microsoft Research
+    twitterUrl: https://twitter.com/dsyme
+    githubUrl: https://github.com/dsyme
+    blogUrl: https://blogs.msdn.microsoft.com/dsyme/
+  - name: EIRIK TSARPALIS
+    speakerUrl: speakers/eirik-tsarpalis/
+    imageUrl: public/assets/speakers/2018/eirik-tsarpalis.jpg
+    imageAltText: Eirik Tsarpalis
+    bio: Mathematician by training, Developer by trade
+    twitterUrl: https://twitter.com/eiriktsarpalis
+    githubUrl: https://github.com/eiriktsarpalis
+    blogUrl: https://eiriktsarpalis.wordpress.com/
+  - name: ERIK NOVALES
+    speakerUrl: speakers/erik-novales/
+    imageUrl: public/assets/speakers/2018/erik-novales.jpg
+    imageAltText: Erik Novales
+    bio: functional programming dilettante
+    twitterUrl: https://twitter.com/yankeefinn
+    githubUrl: https://github.com/enovales
+    blogUrl: http://www.eriknovales.com/"
+  - name: Eugene Tolmachev
+    speakerUrl: speakers/eugene-tolmachev/
+    imageUrl: public/assets/speakers/2018/eugene-tolmachev.png
+    imageAltText: Eugene Tolmachev
+    bio: Endofunctor tourist
+    twitterUrl:
+    githubUrl: https://github.com/et1975
+    blogUrl: https://thoughtspam.wordpress.com
+  - name: Eugene Auduchinok
+    speakerUrl: speakers/eugene-auduchinok/
+    imageUrl: public/assets/speakers/2018/eugene-auduchinok.jpg
+    imageAltText: Eugene Auduchinok
+    bio: JetBrains
+    twitterUrl: https://twitter.com/auduchinok
+    githubUrl: https://github.com/auduchinok
+  - name: Evelina Gabasova
+    speakerUrl: speakers/evelina-gabasova/
+    imageUrl: public/assets/speakers/2018/evelina-gabasova.jpg
+    imageAltText: Evelina Gabasova
+    bio: Interested in all things machine learning
+    twitterUrl: https://twitter.com/evelgab
+    githubUrl: https://github.com/evelinag
+    blogUrl: http://evelinag.com/
+  - name: JEREMIE CHASSAING
+    speakerUrl: speakers/jeremie-chassaing/
+    imageUrl: public/assets/speakers/2018/jeremie-chassaing.jpg
+    imageAltText: Jeremie Chassaing
+    bio: F# and DDD enthusiast
+    twitterUrl: https://twitter.com/thinkb4coding
+    githubUrl: https://github.com/thinkbeforecoding
+    blogUrl: https://thinkbeforecoding.com/
+  - name: JEREMY ABBOTT
+    speakerUrl: speakers/jeremy-abbott/
+    imageUrl: public/assets/speakers/2018/jeremy-abbott.jpg
+    imageAltText: Jeremy Abbott
+    bio: Functional programming enthusiast
+    twitterUrl: https://twitter.com/mrjabbott
+    githubUrl: https://github.com/jeremyabbott
+    blogUrl: http://jeremyabbott.github.io
+  - name: JORGE FIORANELLI
+    speakerUrl: speakers/jorge-fioranelli/
+    imageUrl: public/assets/speakers/2018/jorge-fioranelli.jpg
+    imageAltText: Jorge Fioranelli
+    bio: Director of Engineering @ jet.com
+    twitterUrl: https://twitter.com/jorgefioranelli
+    githubUrl: https://github.com/jorgef
+    blogUrl: http://www.fsharpworkshop.com/
+  - name: KRZYSZTOF CIESLAK
+    speakerUrl: speakers/krzysztof-cieslak/
+    imageUrl: public/assets/speakers/2018/krzysztof-cieslak.jpg
+    imageAltText: Krzysztof Cieslak
+    bio: OSS CONTRIBUTOR
+    twitterUrl: https://twitter.com/k_cieslak
+    githubUrl: https://github.com/Krzysztof-Cieslak
+    blogUrl: http://www.kcieslak.io/
+  - name: MARK LAWS
+    speakerUrl: speakers/mark-laws/
+    imageUrl: public/assets/speakers/2018/mark-laws.png
+    imageAltText: Mark Laws
+    bio: MDL LIKES CURRY RICE
+    twitterUrl: https://twitter.com/doctorvink
+    githubUrl: https://github.com/drvink
+  - name: NORM JOHANSON
+    speakerUrl: speakers/norm-johanson/
+    imageUrl: public/assets/speakers/2018/norm-johanson.jpg
+    imageAltText: Norm Johanson
+    bio: Combiner of AWS & .NET
+    twitterUrl: https://twitter.com/socketnorm
+  - name: PHILLIP CARTER
+    speakerUrl: speakers/phillip-carter/
+    imageUrl: public/assets/speakers/2018/phillip-carter.jpg
+    imageAltText: Phillip Carter
+    bio: Purveyor of all things F# at Microsoft
+    twitterUrl: https://twitter.com/_cartermp
+    githubUrl: https://github.com/cartermp
+    blogUrl: https://blogs.msdn.microsoft.com/dotnet/tag/f/
+  - name: RYAN RILEY
+    speakerUrl: speakers/ryan-riley/
+    imageUrl: public/assets/speakers/2018/ryan-riley.jpg
+    imageAltText: Ryan Riley
+    bio: Community for F#
+    twitterUrl: https://twitter.com/c4fsharp
+    githubUrl: https://github.com/panesofglass
+  - name: SCOTT HAVENS
+    speakerUrl: speakers/scott-havens/
+    imageUrl: public/assets/speakers/2018/scott-havens.jpg
+    imageAltText: Scott Havens
+    bio: JET.COM & WALMART LABS ENGINEERING
+    twitterUrl: https://twitter.com/ScottHavens
+    linkedinUrl: https://www.linkedin.com/in/scott-havens-a946713/
+  - name: STACHU KORICK
+    speakerUrl: speakers/stachu-korick/
+    imageUrl: public/assets/speakers/2018/stachu-korick.jpg
+    imageAltText: Stachu Korick
+    bio: .NET Hipster
+    twitterUrl: https://twitter.com/StachuDotNet
+    githubUrl: https://github.com/StachuDotNet
+    blogUrl: https://stachu.net/
+    podcastUrl: https://wtfsharp.net/
+  - name: TOMAS PETRICEK
+    speakerUrl: speakers/tomas-petricek/
+    imageUrl: public/assets/speakers/2018/tomas-petricek.jpg
+    imageAltText: Tomas Petricek
+    bio: Not just a computer scientist
+    twitterUrl: https://twitter.com/tomaspetricek
+    githubUrl: https://github.com/tpetricek
+    blogUrl: http://tomasp.net/blog/
+  - name: WILLIAM BLUM
+    speakerUrl: speakers/william-blum/
+    imageUrl: public/assets/speakers/2018/william-blum.jpg
+    imageAltText: William Blum
+    bio: Engineering lead at Microsoft
+    githubUrl: https://github.com/blumu
