@@ -171,3 +171,13 @@
     imageAltText: William Blum
     bio: Engineering lead at Microsoft
     githubUrl: https://github.com/blumu
+2019:
+  - name: MAXIME MANGEL
+    speakerUrl: speakers/maxime-mangel/
+    imageUrl: public/assets/speakers/2019/maxime-mangel.png
+    imageAltText: Maxime Mangel
+    bio: Creator of Fulma
+    githubUrl: https://github.com/MangelMaxime
+    twitterUrl: https://twitter.com/MangelMaxime
+    linkedinUrl: https://www.linkedin.com/in/maxime-mangel-554a71a8/
+    blogUrl: https://medium.com/@MangelMaxime
