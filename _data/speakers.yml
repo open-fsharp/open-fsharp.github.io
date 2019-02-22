@@ -173,7 +173,7 @@
     githubUrl: https://github.com/blumu
 2019:
   - name: MAXIME MANGEL
-    speakerUrl: speakers/maxime-mangel/
+    speakerUrl: "#speakers"
     imageUrl: public/assets/speakers/2019/maxime-mangel.png
     imageAltText: Maxime Mangel
     bio: Living in a Fable-ous world
@@ -181,3 +181,27 @@
     twitterUrl: https://twitter.com/MangelMaxime
     linkedinUrl: https://www.linkedin.com/in/maxime-mangel-554a71a8/
     blogUrl: https://medium.com/@MangelMaxime
+  - name: JOHN AZARIAH
+    speakerUrl: "#speakers"
+    imageUrl: public/assets/speakers/2019/john-azariah.jpg
+    imageAltText: John Azariah
+    bio: Microsoft Research
+    githubUrl: https://github.com/johnazariah
+    twitterUrl: https://twitter.com/johnazariah
+    blogUrl: https://johnazariah.github.io/
+  - name: SCOTT WLASCHIN
+    speakerUrl: "#speakers"
+    imageUrl: public/assets/speakers/2019/scott-wlaschin.jpg
+    imageAltText: Scott Wlaschin
+    bio: F# for Fun & Profit
+    githubUrl: https://github.com/swlaschin
+    twitterUrl: https://twitter.com/ScottWlaschin
+    blogUrl: http://fsharpforfunandprofit.com/
+  - name: FRANK KRUEGER
+    speakerUrl: "#speakers"
+    imageUrl: public/assets/speakers/2019/frank-krueger.jpg
+    imageAltText: Frank A. Krueger
+    bio: Mobile App Specialist
+    githubUrl: https://github.com/praeclarum
+    twitterUrl: https://twitter.com/praeclarum
+    blogUrl: https://praeclarum.org
