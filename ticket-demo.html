@@ -1,0 +1,184 @@
+---
+layout: default
+title: Home
+year: 2019
+---
+
+<!--  bannar section start  -->
+<section class="bannar">
+	<div class="bannar-img">
+		<img class="banner-background" src="{{ site.baseurl }}public/assets/backgrounds/broadway.png" alt="Banner">
+		<div class="overlay"></div>
+		<div class="bannar-conent-area">
+			<div class="bannar-header">
+				<div class="container">
+					<div class="row">
+						<h1>Open Fsharp 2019</h1>
+						<ul class="meta-post">
+							<li>
+								<i class="fa fa-calendar"></i>
+								25 - 27, September, 2019
+							</li>
+							<li>
+								<i class="fa fa-map-marker"></i>
+								San Francisco, USA
+							</li>
+						</ul>
+					</div><!-- /.row -->
+				</div><!-- /.container -->
+			</div><!-- end bannar header  -->
+
+			<div class="bannar-content">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-6 col-md-8">
+
+						<div class="header-countdown-wrapper">
+							<div class="header-countdown">
+								<div id="header-countdown" data-days="days" data-hrs="hrs" data-min="min" data-sec="sec" data-label="time left" data-gmt="0">2019-09-25 9:00:00</div>
+							</div>
+						</div>
+						</div><!-- /.col-md-8 -->
+
+						<div class="col-sm-6 col-md-4">
+							<div class="row">
+								<div class="bannar-btn">
+									<!-- <a href="#tickets" class="register-now hvr-bounce-to-bottom">Register Now</a> -->
+									<a href="#about" class="view-detail hvr-bounce-to-bottom">View Details</a>
+								</div>
+							</div><!-- /.row -->
+						</div><!-- /.col-md-4 -->
+					</div><!-- /.row -->
+				</div><!-- /.container -->
+			</div><!-- /.bannar-content -->
+		</div><!-- /.banner conent area -->
+	</div><!-- /.banner img -->
+</section>
+<!--  bannar section End  -->
+
+<!-- start national-conference section  -->
+<section id="about" class="national-conference">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8">
+				<div class="conference-main">
+					<div class="section-head">
+						<h2 class="header-title">Open FSharp 2019</h2>
+						<p class="header-desc">A conference to learn, create and connect with F# and its Community.</p>
+					</div>
+
+					<p>Taking place in the heart of San Francisco, Open FSharp features 2 days of F# talks and hands-on with world-class speakers, and a unique opportunity to connect with the F# Community and some of its key contributors, while learning about the latest developments in the F# ecosystem.</p>
+
+					<p>Whoever you are, Open FSharp will have something for you. A <strong>beginner-friendly track</strong>, focused on helping you step up your game, with resolutely practical F#. An <strong>advanced track</strong> that will stretch your limits, and teach new techniques and ideas. <strong>Workshops</strong>, so you can get a hands-on experience solving real-world problems using F#. And a friendly <strong>open space</strong> setup, with plenty of opportunities to meet, discuss and write code with fellow developers who share the same passion for F#.</p>
+
+					<p>We can't wait for Open FSharp to take place - and we look forward to having <b>you</b> part of it.</p>
+
+					<p>Separately from the conference, there will be a one day workshop this year too! It will take place on the 25th of September.
+							We are working hard to get everything up and running for it. We promise more news will follow soon!</p>
+
+					<h3 class="header-title">Call for Speakers</h3>
+					<p class="header-desc">The CFP for 2019 hasn't opened yet. Check back soon!</p>
+
+					<!-- <div class="button-group">
+						<a href="#tickets" class="custom-btn hvr-bounce-to-bottom">Buy Ticket</a>
+					</div> -->
+				</div><!-- /.conference-main -->
+			</div><!-- /.col-md-8 -->
+			<div class="col-md-4">
+				<div class="conference-info-outer">
+					<div class="conference-info">
+						<ul>
+							<li>
+								<span class="c-info-icon"><i class="fas fa-map-marker-alt"></i></span>
+								<span class="c-info-content">
+									<strong>San Francisco, USA</strong>
+									{% if site.data.venue.name %}
+									<span class="i-text"><a href="https://broadwaystudios.com/" target="_blank">Broadway venue, SF</a></span>
+									{% endif %}
+								</span>
+							</li>
+							<li>
+								<span class="c-info-icon"><i class="far fa-calendar-alt"></i></span>
+								<span class="c-info-content">
+									<strong>25-27 September 2019</strong>
+									<span class="i-text">1 day workshop and 2 day conference</span>
+								</span>
+							</li>
+
+							<li>
+								<span class="c-info-icon"><i class="fas fa-microphone"></i></span>
+								<span class="c-info-content">
+									<strong>20+ Speakers</strong>
+									<a class="i-text" href="{{ site.baseurl }}2018/speakers">Check out speakers from past years</a>
+								</span>
+							</li>
+						</ul>
+					</div><!-- /.conference-info -->
+				</div><!-- /.conference-info-outer -->
+			</div><!-- /.col-md-4 -->
+		</div><!-- /.row -->
+	</div><!-- /.container -->
+</section>
+<!-- end national-conference section  -->
+
+<!-- start event speaker  -->
+{% include speakers.html %}
+<!-- end event speaker  -->
+
+<!--  start pricing table  -->
+<section id="tickets" class="pricing-table3">
+        <div class="container">
+            <div class="row">
+                <div class="section-head">
+                    <h2 class="header-title">Tickets</h2>
+                    <p class="header-desc">Only 150 seats - get your ticket while you still can!</p>
+
+                </div>
+                <tito-widget event="open-fharp/open-f-2019"></tito-widget>
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </section>
+<!--  end pricing table  -->
+
+<!--  workshps become-sponsor  -->
+{% include workshops.html %}
+<!--  end become-sponsor  -->
+
+<!--  start sponsor section  -->
+{% include sponsors.html %}
+<!--  end sponsor section  -->
+
+<!--  start become-sponsor  -->
+<section id="becomeASponsor" class="become-sponsor">
+	<div class="overlay"></div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-9">
+				<div class="row">
+					<div class="become-sponsor-item">
+						<h2>Become a sponsor</h2>
+						<p>If your company is interested in being a part of open fsharp, we would love to chat about what we can do together!</p>
+					</div>
+				</div><!-- /.row -->
+			</div><!-- /.col-md-10 -->
+			<div class="col-md-3">
+				<a href="mailto:sponsor@openfsharp.org" class="custom-btn hvr-bounce-to-bottom">Contact us</a>
+			</div><!-- /.col-md-2 -->
+		</div><!-- /.row -->
+	</div><!-- /.container -->
+</section>
+<!--  end become-sponsor  -->
+
+<!--  start contact section   -->
+{% include contact.html %}
+<!--  end contact section   -->
+
+<!--  start map section   -->
+{% if site.data.location.conference %}
+{% include map.html %}
+{% endif %}
+<!--  end map section   -->
+
+<!--  start code of conduct   -->
+{% include codeOfConduct.html %}
+<!--  end code of conduct   -->
