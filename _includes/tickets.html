@@ -2,103 +2,12 @@
 	<div class="container">
 		<div class="row">
 			<div class="section-head">
-				{% if site.data.tickets.available %}
+
 				<h2 class="header-title">Tickets</h2>
 				<p class="header-desc">Only 150 seats - get your ticket while you still can!</p>
-				{% else %}
-				<h2 class="header-title">Tickets Available Soon</h2>
-				{% endif %}
+				<tito-widget event="open-fharp/open-f-2019"></tito-widget>
 			</div>
-			{% if site.data.tickets.available %}
-			{% assign tickets = site.data.tickets %}
-			<div class="pricing-table-wrapper3">
-				<div class="col-sm-6 col-md-4">
-					<div class="pricing-table-item3">
-						<div class="pricing-table-item3-inner">
-							<div class="pricing-table-item3-inner-inner">
-								<div class="pricing-booking3">
-									<span>Early Bird</span>
-								</div>
-								<div class="price3">
-									<p>$ <span>{{ tickets.early.price }}</span>.00</p>
-									{% if tickets.early.soldout %}
-									<p>SOLD OUT</p>
-									{% else %}
-									<p>On sale</p>
-									{% endif %}
-								</div>
-								<ul class="price-detail">
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>2 day conference</li>
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>Hands-on</li>
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>Party</li>
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>Coffee, drinks, and food</li>
-								</ul>
-								<div class="price-button price-button-active sold-out">
-									<a target="_blank" href="{{ tickets.early.url }}" class="custon-btn price-btn-active hvr-bounce-to-bottom">Buy Ticket Now</a>
-								</div>
-							</div><!-- /.pricing-table-item3-inner-inner -->
-						</div><!-- /.pricing-table-item3-inner -->
-					</div><!-- /.pricing-table-item3 -->
-				</div><!-- /.col-sm-6 col-md-4 -->
-				<div class="col-sm-6 col-md-4">
-					<div class="pricing-table-item3 pricing-table-item3-active">
-						<div class="pricing-table-item3-inner">
-							<div class="pricing-table-item3-inner-inner">
-								<div class="pricing-booking3">
-									<span>Regular Bird</span>
-								</div>
-								<div class="price3">
-									<p>$ <span>{{ tickets.regular.price }}</span>.00</p>
-									{% if tickets.regular.soldout %}
-									<p>SOLD OUT</p>
-									{% else %}
-									<p>On sale</p>
-									{% endif %}
-								</div>
-								<ul class="price-detail">
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>2 day conference</li>
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>Hands-on</li>
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>Party</li>
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>Coffee, drinks, and food</li>
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>Limited availability</li>
-								</ul>
-								<div class="price-button">
-									<a target="_blank" href="{{ tickets.regular.url }}" class="custon-btn price-btn-active hvr-bounce-to-bottom">Buy Ticket Now</a>
-								</div>
-							</div><!-- /.pricing-table-item3-inner-inner -->
-						</div><!-- /.pricing-table-item3-inner -->
-					</div><!-- /.pricing-table-item3 -->
-				</div><!-- /.col-sm-6 col-md-4 -->
-				<div class="col-sm-6 col-md-4">
-					<div class="pricing-table-item3">
-						<div class="pricing-table-item3-inner">
-							<div class="pricing-table-item3-inner-inner">
-								<div class="pricing-booking3">
-									<span>Late Bird</span>
-								</div>
-								<div class="price3">
-										<p>$ <span>{{ tickets.late.price }}</span>.00</p>
-										{% if tickets.late.soldout %}
-										<p>SOLD OUT</p>
-										{% else %}
-										<p>On sale</p>
-										{% endif %}
-								</div>
-								<ul class="price-detail">
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>2 day conference</li>
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>Hands-on</li>
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>Party</li>
-									<li><span class="price-list-icon"><i class="fa fa-check"></i></span>Coffee, drinks, and food</li>
-								</ul>
-								<div class="price-button">
-									<a target="_blank" href="{{ tickets.late.url }}">Buy Ticket Now</a>
-								</div>
-							</div><!-- /.pricing-table-item3-inner-inner -->
-						</div><!-- /.pricing-table-item3-inner -->
-					</div><!-- /.pricing-table-item3 -->
-				</div><!-- /.col-md-4 -->
-			</div><!-- /.pricing-table-wrapper3 -->
-			{% endif %}
+
 		</div><!-- /.row -->
 	</div><!-- /.container -->
 </section>
