@@ -11,14 +11,14 @@ title: Call for papers conference
             <div class="col-md-9">
                 <div class="row">
                     <div class="call-for-paper-item">
-                        <h2>Presenting at Open FSharp 2018</h2>
+                        <h2>Presenting at Open FSharp 2019</h2>
                         <p>Do you have something you would like to present at open fsharp? We would love to hear about it!</p> 
                         <p>Before going further, here is a bit of information about the event, to help you prepare your submission.</p>
                     </div>
                 </div><!-- /.row -->
             </div><!-- /.col-md-10 -->
             <div class="col-md-3">
-                <a target="_blank" href="https://goo.gl/forms/zjh8hCgGMaQGSVdk1" class="custom-btn hvr-bounce-to-bottom">Submit</a>
+                <a target="_blank" href="https://forms.gle/XV9Agd4AozuARLXY9" class="custom-btn hvr-bounce-to-bottom">Submit</a>
             </div><!-- /.col-md-2 -->
         </div><!-- /.row -->
     </div><!-- /.container -->
