@@ -61,7 +61,7 @@ title: Call for papers conference
 					<div class="section-head">
 						<h2 class="header-title">TRAVEL EXPENSES</h2>
 					</div>
-                    <p>All speakers get free admission to the conference, and are invited to the speaker dinner. For speakers giving a talk or a hands-on session, we will cover travel expenses up to 500 USD for travel from the US, Mexico or Canada, and up to 750 USD for international travelers.</p> 
+                    <p>All speakers get free admission to the conference on the 26th and 27th of September. They are also invited to the speaker dinner. For speakers giving a talk or a hands-on session, we will cover travel expenses up to 500 USD for travel from the US, Mexico or Canada, and up to 750 USD for international travelers.</p> 
                     <p>Sadly, we cannot cover travel expenses for Lightning Talks.</p>
 				</div><!-- /.conference-main -->
                 <div class="conference-main">
