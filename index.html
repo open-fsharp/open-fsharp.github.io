@@ -76,12 +76,9 @@ year: 2019
 					<p>Separately from the conference, there will be a one day workshop this year too! It will take place on the 25th of September.
 							We are working hard to get everything up and running for it. We promise more news will follow soon!</p>
 
-					<h3 class="header-title">Call for Speakers</h3>
-					<p class="header-desc">The CFP for 2019 is now open. More information can be found <a href="{{ site.baseurl }}cfp">here</a>!</p>
-
-					<!-- <div class="button-group">
+					<div class="button-group">
 						<a href="#tickets" class="custom-btn hvr-bounce-to-bottom">Buy Ticket</a>
-					</div> -->
+					</div>
 				</div><!-- /.conference-main -->
 			</div><!-- /.col-md-8 -->
 			<div class="col-md-4">
@@ -121,13 +118,15 @@ year: 2019
 </section>
 <!-- end national-conference section  -->
 
+{% include cfp.html %}
+
 <!-- start event speaker  -->
 {% include speakers.html %}
 <!-- end event speaker  -->
 
-<!--  start pricing table  -->
+<!--  start tickets -->
 {% include tickets.html %}
-<!--  end pricing table  -->
+<!--  end tickets  -->
 
 <!--  workshps become-sponsor  -->
 {% include workshops.html %}
