@@ -11,14 +11,14 @@ title: Call for papers conference
             <div class="col-md-9">
                 <div class="row">
                     <div class="call-for-paper-item">
-                        <h2>Presenting at Open FSharp 2018</h2>
-                        <p>Do you have something you would like to present at open fsharp? We would love to hear about it!</p> 
+                        <h2>Presenting at Open FSharp 2019</h2>
+                        <p>Do you have something you would like to present at open fsharp? We would love to hear about it!</p>
                         <p>Before going further, here is a bit of information about the event, to help you prepare your submission.</p>
                     </div>
                 </div><!-- /.row -->
             </div><!-- /.col-md-10 -->
             <div class="col-md-3">
-                <a target="_blank" href="https://goo.gl/forms/zjh8hCgGMaQGSVdk1" class="custom-btn hvr-bounce-to-bottom">Submit</a>
+                <a target="_blank" href="https://forms.gle/XV9Agd4AozuARLXY9" class="custom-btn hvr-bounce-to-bottom">Submit</a>
             </div><!-- /.col-md-2 -->
         </div><!-- /.row -->
     </div><!-- /.container -->
@@ -61,7 +61,7 @@ title: Call for papers conference
 					<div class="section-head">
 						<h2 class="header-title">TRAVEL EXPENSES</h2>
 					</div>
-                    <p>All speakers get free admission to the conference, and are invited to the speaker dinner. For speakers giving a talk or a hands-on session, we will cover travel expenses up to 500 USD for travel from the US, Mexico or Canada, and up to 750 USD for international travelers.</p> 
+                    <p>All speakers get free admission to the conference on the 26th and 27th of September. They are also invited to the speaker dinner. For speakers giving a talk or a hands-on session, we will cover travel expenses up to 500 USD for travel from the US, Mexico or Canada, and up to 750 USD for international travelers.</p>
                     <p>Sadly, we cannot cover travel expenses for Lightning Talks.</p>
 				</div><!-- /.conference-main -->
                 <div class="conference-main">
@@ -72,7 +72,7 @@ title: Call for papers conference
 				</div><!-- /.conference-main -->
 				<div class="conference-main">
 					<div class="button-group">
-						<a href="https://goo.gl/forms/zjh8hCgGMaQGSVdk1" class="custom-btn hvr-bounce-to-bottom" target="_blank">Submit</a>
+						<a href="https://forms.gle/XV9Agd4AozuARLXY9" class="custom-btn hvr-bounce-to-bottom" target="_blank">Submit</a>
 					</div>
 				</div><!-- /.conference-main -->
 			</div><!-- /.col-md-8 -->
@@ -120,10 +120,10 @@ title: Call for papers conference
 						<h2 class="header-title">Code of conduct</h2>
 						<p class="header-desc">Be respectful, be open, and be considerate.</p>
 					</div>
-					<p>Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity 
-						and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not 
-						tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, 
-						including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned 
+					<p>Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity
+						and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not
+						tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue,
+						including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned
 						or expelled from the conference without a refund at the discretion of the conference organisers.</p>
 					<div class="button-group">
 						<a href="http://confcodeofconduct.com/" class="custom-btn hvr-bounce-to-bottom" target="_blank">Read More</a>

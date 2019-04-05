@@ -11,14 +11,14 @@ title: Call for papers workshop
             <div class="col-md-9">
                 <div class="row">
                     <div class="call-for-paper-item">
-                        <h2>Workshop at Open FSharp 2018</h2>
-                        <p>Do you have a workshop you would like to give at Open FSharp?</p> 
+                        <h2>Workshop at Open FSharp 2019</h2>
+                        <p>Do you have a workshop you would like to give at Open FSharp?</p>
                         <p>Before going further, here is a bit of information about the event, to help you prepare your submission.</p>
                     </div>
                 </div><!-- /.row -->
             </div><!-- /.col-md-10 -->
             <div class="col-md-3">
-                <a target="_blank" href="https://goo.gl/forms/uRrC8K5mMMbbD9fo1" class="custom-btn hvr-bounce-to-bottom">Submit</a>
+                <a target="_blank" href="https://forms.gle/h4WeYqUCNAjDtJML8" class="custom-btn hvr-bounce-to-bottom">Submit</a>
             </div><!-- /.col-md-2 -->
         </div><!-- /.row -->
     </div><!-- /.container -->
@@ -39,14 +39,14 @@ title: Call for papers workshop
                             <li>1st of April: Call for Papers are open.</li>
                             <li>1st of June: Call for Papers close.</li>
                             <li>1st of July: All submissions will have received feedback.</li>
-                        </ul>                    
+                        </ul>
                     </p>
 				</div><!-- /.conference-main -->
                 <div class="conference-main">
 					<div class="section-head">
 						<h2 class="header-title">SESSION LEVELS</h2>
 					</div>
-                    <p>In addition to the main conference, Open FSharp will feature a day of paid workshops on Wednesday, September 26th. Workshops are instructor lead sessions, intended to give a small group of attendees a chance to learn and practice first hand a specific topic.
+                    <p>In addition to the main conference, Open FSharp will feature a day of paid workshops on Wednesday, September 25th. Workshops are instructor lead sessions, intended to give a small group of attendees a chance to learn and practice first hand a specific topic.
 					<br>
 					We will feature two workshop formats:
 					</p>
@@ -58,7 +58,7 @@ title: Call for papers workshop
 						<h2 class="header-title">FINANCIALS</h2>
 					</div>
 					<p>
-					Workshop registration will be separate from the main conference. Deep Dives or 2 Tasters will cost $375, a single Taster $225.
+					Workshop registration will be separate from the main conference. Tickets will cost $425.
 					<br>
 					Workshop profits will be split equally between the instructor and the conference organization. In other words, for each workshop, half of what is left after the venue, food and various costs are paid for will go to the speaker, the rest being invested in the conference organization. This will be entirely independent from travel support.
 					<br>
@@ -74,7 +74,7 @@ title: Call for papers workshop
 				</div><!-- /.conference-main -->
 				<div class="conference-main">
 					<div class="button-group">
-						<a href="https://goo.gl/forms/uRrC8K5mMMbbD9fo1" class="custom-btn hvr-bounce-to-bottom" target="_blank">Submit</a>
+						<a href="https://forms.gle/h4WeYqUCNAjDtJML8" class="custom-btn hvr-bounce-to-bottom" target="_blank">Submit</a>
 					</div>
 				</div><!-- /.conference-main -->
 			</div><!-- /.col-md-8 -->
@@ -115,10 +115,10 @@ title: Call for papers workshop
 						<h2 class="header-title">Code of conduct</h2>
 						<p class="header-desc">Be respectful, be open, and be considerate.</p>
 					</div>
-					<p>Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity 
-						and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not 
-						tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, 
-						including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned 
+					<p>Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity
+						and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not
+						tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue,
+						including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned
 						or expelled from the conference without a refund at the discretion of the conference organisers.</p>
 					<div class="button-group">
 						<a href="http://confcodeofconduct.com/" class="custom-btn hvr-bounce-to-bottom" target="_blank">Read More</a>
