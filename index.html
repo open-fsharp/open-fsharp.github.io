@@ -79,7 +79,24 @@ year: 2019
 					<div class="button-group">
 						<a href="#tickets" class="custom-btn hvr-bounce-to-bottom">Buy Ticket</a>
 					</div>
+					<p></p>
 				</div><!-- /.conference-main -->
+				<div id="cfp" class="conference-main">
+					<div class="section-head">
+						<h2 class="header-title">Call for Papers</h2>
+					</div>
+					<p>The CFP for 2019 is now open.</p>
+					<div class="button-group">
+						<a href="{{ site.baseurl }}cfp" class="custom-btn hvr-bounce-to-bottom" target="_blank">Find out more</a>
+					</div>
+					<p></p>
+				</div>
+				<div class="conference-main">
+					<div class="section-head">
+						<h2 class="header-title">Workshops</h2>
+					</div>
+					<p>The workshops will take place the day before the conference, on the Wed 25th of September, with 2 workshop formats: "Deep Dive" (8 hours) or "Taster" (4 hours).</p>
+				</div>
 			</div><!-- /.col-md-8 -->
 			<div class="col-md-4">
 				<div class="conference-info-outer">
@@ -118,8 +135,6 @@ year: 2019
 </section>
 <!-- end national-conference section  -->
 
-{% include cfp.html %}
-
 <!-- start event speaker  -->
 {% include speakers.html %}
 <!-- end event speaker  -->
@@ -127,14 +142,6 @@ year: 2019
 <!--  start tickets -->
 {% include tickets.html %}
 <!--  end tickets  -->
-
-<!--  workshps become-sponsor  -->
-{% include workshops.html %}
-<!--  end become-sponsor  -->
-
-<!--  start sponsor section  -->
-{% include sponsors.html %}
-<!--  end sponsor section  -->
 
 <!--  start become-sponsor  -->
 <section id="becomeASponsor" class="become-sponsor">
@@ -156,6 +163,10 @@ year: 2019
 	</div><!-- /.container -->
 </section>
 <!--  end become-sponsor  -->
+
+<!--  start sponsor section  -->
+{% include sponsors.html %}
+<!--  end sponsor section  -->
 
 <!--  start contact section   -->
 {% include contact.html %}
