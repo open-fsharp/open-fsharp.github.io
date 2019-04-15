@@ -12,7 +12,6 @@ title: Agenda conference 2018
                 <div class="row">
                     <div class="become-sponsor-item">
                         <h2>Conference schedule 2018</h2>
-                        <p>The schedule is still subject to change.</p> 
                     </div>
                 </div><!-- /.row -->
             </div><!-- /.col-md-10 -->
@@ -64,22 +63,22 @@ title: Agenda conference 2018
                                         </tr>
                                     </thead>
                                     <tbody>
-                                        <tr class="schedule-item"> 
+                                        <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>08:30</span></td>
-                                            <td colspan="3" class="item-inner special event-schedule-break">Breakfast / Registration</td>	
+                                            <td colspan="3" class="item-inner special event-schedule-break">Breakfast / Registration</td>
                                         </tr>
-										<tr class="schedule-item"> 
+										<tr class="schedule-item">
                                             <td class="item-inner event-time"><span>09:00</span></td>
-                                            <td colspan="3" class="item-inner special event-schedule-speaker">Welcome to Open F# 2017!</td>									
+                                            <td colspan="3" class="item-inner special event-schedule-speaker">Welcome to Open F# 2017!</td>
                                         </tr>
-                                        <tr class="schedule-item"> 
+                                        <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>09:10</span></td>
-                                            <td colspan="3" class="item-inner event-schedule-speaker">	
+                                            <td colspan="3" class="item-inner event-schedule-speaker">
                                                 <div class="schedule-speaker-tag">
-                                                    <a href="{{ site.baseurl }}speakers/evelina-gabasova/">		
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/evelina-gabasova.jpg" alt="Evelina Gabasova" />													
+                                                    <a href="{{ site.baseurl }}speakers/evelina-gabasova/">
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/evelina-gabasova.jpg" alt="Evelina Gabasova" />
                                                         <div class="title">Enabling data science research with F#</div>
-                                                        <div>Evelina Gabasova</div>		
+                                                        <div>Evelina Gabasova</div>
                                                     </a>
 													<div>
 														<div class="speaker-tag">
@@ -90,10 +89,10 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
-														</div>	
+														</div>
 													</div>
-                                                </div>													
-                                            </td>									
+                                                </div>
+                                            </td>
                                         </tr>
 										<tr class="schedule-item">
                                             <td class="item-inner event-time"><span>10:00</span></td>
@@ -103,10 +102,10 @@ title: Agenda conference 2018
                                             <td class="item-inner event-time"><span>10:10</span></td>
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
-                                                    <a href="{{ site.baseurl }}speakers/jeremie-chassaing/">		
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/jeremie-chassaing.jpg" alt="Jeremie Chaissing" />													
+                                                    <a href="{{ site.baseurl }}speakers/jeremie-chassaing/">
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/jeremie-chassaing.jpg" alt="Jeremie Chaissing" />
                                                         <div class="title">Ukulele Tabs in F#</div>
-                                                        <div>Jérémie Chassaing</div>									
+                                                        <div>Jérémie Chassaing</div>
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
@@ -116,16 +115,16 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="This talk is Bunny level" />
-														</div>	
+														</div>
 													</div>
-                                                </div>													
+                                                </div>
                                             </td>
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
-                                                    <a href="{{ site.baseurl }}speakers/dave-curylo/">											
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/dave-curylo.JPG" alt="Dave Curylo" />													
+                                                    <a href="{{ site.baseurl }}speakers/dave-curylo/">
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/dave-curylo.JPG" alt="Dave Curylo" />
                                                         <div class="title">You Got Logic in my Functional Programming</div>
-                                                        <div>Dave Curylo</div>									
+                                                        <div>Dave Curylo</div>
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
@@ -137,24 +136,24 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/tiger.png" alt="This talk is Tiger level" />
-														</div>	
+														</div>
 													</div>
-                                                </div>													
+                                                </div>
                                             </td>
-                                            <td rowspan="5" class="item-inner event-schedule-speaker">Open space</td>                 
+                                            <td rowspan="5" class="item-inner event-schedule-speaker">Open space</td>
 										</tr>
                                         <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>11:00</span></td>
-                                            <td colspan="2" class="item-inner special event-schedule-break">Break</td>  
+                                            <td colspan="2" class="item-inner special event-schedule-break">Break</td>
                                         </tr>
                                         <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>11:20</span></td>
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="{{ site.baseurl }}speakers/erik-novales/">
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/erik-novales.jpg" alt="Erik Novales" />	
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/erik-novales.jpg" alt="Erik Novales" />
                                                         <div class="title">Functions as Interfaces: Extend Everything!</div>
-                                                        <div>Erik Novales</div>	
+                                                        <div>Erik Novales</div>
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
@@ -165,16 +164,16 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="This talk is Bunny level" />
-														</div>	
+														</div>
 													</div>
-                                                </div>													
+                                                </div>
                                             </td>
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
-                                                    <a href="{{ site.baseurl }}speakers/ryan-riley/">											
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/ryan-riley.jpg" alt="Ryan Riley" />													
+                                                    <a href="{{ site.baseurl }}speakers/ryan-riley/">
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/ryan-riley.jpg" alt="Ryan Riley" />
                                                         <div class="title">Blazing new trails with Web Assembly</div>
-                                                        <div>Ryan Riley</div>									
+                                                        <div>Ryan Riley</div>
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
@@ -184,10 +183,10 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/tiger.png" alt="This talk is Tiger level" />
-														</div>	
+														</div>
 													</div>
-                                                </div>													
-                                            </td>                                            
+                                                </div>
+                                            </td>
                                         </tr>
                                         <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>12:10</span></td>
@@ -198,9 +197,9 @@ title: Agenda conference 2018
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="{{ site.baseurl }}speakers/scott-havens/">
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/scott-havens.jpg" alt="Scott Havens" />	
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/scott-havens.jpg" alt="Scott Havens" />
                                                         <div class="title">From startups to big-business: Using fp techniques to transform line of business applications</div>
-                                                        <div>Scott Havens</div>									
+                                                        <div>Scott Havens</div>
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
@@ -214,16 +213,16 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="This talk is Bunny level" />
-														</div>	
+														</div>
 													</div>
-                                                </div>													
+                                                </div>
                                             </td>
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
-                                                    <a href="{{ site.baseurl }}speakers/mark-laws/">											
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/mark-laws.png" alt="Mark Laws" />													
+                                                    <a href="{{ site.baseurl }}speakers/mark-laws/">
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/mark-laws.png" alt="Mark Laws" />
                                                         <div class="title">Classes for the Maniacs: Demystifying SRTP</div>
-                                                        <div>Mark Laws</div>									
+                                                        <div>Mark Laws</div>
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
@@ -236,10 +235,10 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/tiger.png" alt="This talk is Tiger level" />
-														</div>	
+														</div>
 													</div>
-                                                </div>													
-                                            </td>                                              
+                                                </div>
+                                            </td>
                                         </tr>
                                         <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>13:10</span></td>
@@ -250,9 +249,9 @@ title: Agenda conference 2018
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="{{ site.baseurl }}speakers/jeremy-abbott/">
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/jeremy-abbott.jpg" alt="Jeremy Abbott" />		
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/jeremy-abbott.jpg" alt="Jeremy Abbott" />
                                                         <div class="title">“The Curious Case of Task vs. Async.”</div>
-                                                        <div>Jeremy Abbott</div>									
+                                                        <div>Jeremy Abbott</div>
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
@@ -262,16 +261,16 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="This talk is Bunny level" />
-														</div>	
+														</div>
 													</div>
-                                                </div>													
+                                                </div>
                                             </td>
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
-                                                    <a href="{{ site.baseurl }}speakers/jeremie-chassaing/">											
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/jeremie-chassaing.jpg" alt="Jérémie Chassaing" />													
+                                                    <a href="{{ site.baseurl }}speakers/jeremie-chassaing/">
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/jeremie-chassaing.jpg" alt="Jérémie Chassaing" />
                                                         <div class="title">Applicatives IRL</div>
-                                                        <div>Jérémie Chassaing</div>									
+                                                        <div>Jérémie Chassaing</div>
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
@@ -281,9 +280,9 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/tiger.png" alt="This talk is Tiger level" />
-														</div>	
+														</div>
 													</div>
-                                                </div>													
+                                                </div>
                                             </td>
                                             <td class="item-inner event-schedule-speaker">Open space</td>
                                         </tr>
@@ -296,10 +295,10 @@ title: Agenda conference 2018
                                             <td colspan="3" class="item-inner special event-schedule-speaker event-schedule-lightning">
                                                 <div class="title">Lightning talks</div>
                                                 <div>
-                                                    <a href="{{ site.baseurl }}speakers/norm-johanson/">	
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/norm-johanson.jpg" alt="Norm Johanson" />													
+                                                    <a href="{{ site.baseurl }}speakers/norm-johanson/">
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/norm-johanson.jpg" alt="Norm Johanson" />
                                                         <div class="title">F# and AWS Lambda</div>
-                                                        <div>Norm Johanson</div>										
+                                                        <div>Norm Johanson</div>
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
@@ -311,13 +310,13 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
-														</div>	
+														</div>
 													</div>
                                                 </div>
                                                 <div>
-                                                    <a href="{{ site.baseurl }}speakers/krzysztof-cieslak/">							    <img src="{{ site.baseurl }}public/assets/speakers/2018/krzysztof-cieslak.jpg" alt="Krzysztof Cieslak" />	
+                                                    <a href="{{ site.baseurl }}speakers/krzysztof-cieslak/">							    <img src="{{ site.baseurl }}public/assets/speakers/2018/krzysztof-cieslak.jpg" alt="Krzysztof Cieslak" />
                                                         <div class="title">Challenges of post-OSS world.</div>
-                                                        <div>Krzysztof Cieslak</div>				
+                                                        <div>Krzysztof Cieslak</div>
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
@@ -327,7 +326,7 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
-														</div>	
+														</div>
 													</div>
                                                 </div>
                                             </td>
@@ -341,9 +340,9 @@ title: Agenda conference 2018
                                             <td colspan="3" class="item-inner event-schedule-speaker">
                                                 <div>
                                                     <a href="{{ site.baseurl }}speakers/don-syme/">
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/don-syme.jpeg" alt="Don Syme" />	
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/don-syme.jpeg" alt="Don Syme" />
                                                         <div class="title">Keynote: F# Code I Love</div>
-                                                        <div>Don Syme</div>									
+                                                        <div>Don Syme</div>
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
@@ -353,7 +352,7 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
-														</div>	
+														</div>
 													</div>
                                                 </div>
                                             </td>
@@ -362,8 +361,8 @@ title: Agenda conference 2018
                                             <td class="item-inner event-time"><span>16:45</span></td>
                                             <td colspan="3" class="item-inner event-schedule-speaker">
                                                 <div>
-                                                    <a href="https://broadwaystudios.com/" target="_blank">		
-                                                        <div class="title">AFTER PARTY</div>										
+                                                    <a href="https://broadwaystudios.com/" target="_blank">
+                                                        <div class="title">AFTER PARTY</div>
                                                         <div>Broadway venue, SF</div>
                                                     </a>
                                                     <div class="schedule-speaker-tag">
@@ -375,7 +374,7 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
-														</div>	
+														</div>
 													</div>
                                                 </div>
                                             </td>
@@ -408,19 +407,19 @@ title: Agenda conference 2018
                                         </tr>
                                     </thead>
                                     <tbody>
-                                        <tr class="schedule-item"> 
+                                        <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>08:30</span></td>
-                                            <td colspan="3" class="item-inner special event-schedule-break">Breakfast</td>									
+                                            <td colspan="3" class="item-inner special event-schedule-break">Breakfast</td>
                                         </tr>
-                                        <tr class="schedule-item"> 
+                                        <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>09:00</span></td>
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
-                                                    <a href="{{ site.baseurl }}speakers/tomas-petricek/">											
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/tomas-petricek.jpg" alt="Tomas Petricek" />													
-                                                        <div class="title">Build your own Excel 365 in an hour with F#</div>										
+                                                    <a href="{{ site.baseurl }}speakers/tomas-petricek/">
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/tomas-petricek.jpg" alt="Tomas Petricek" />
+                                                        <div class="title">Build your own Excel 365 in an hour with F#</div>
                                                         <div>Tomas Petricek</div>
-                                                    </a>	
+                                                    </a>
                                                     <div class="schedule-speaker-tag">
 														<div class="speaker-tag">
 															<ul class="tag">
@@ -431,18 +430,18 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
-														</div>	
+														</div>
 													</div>
-                                                </div>                                               
+                                                </div>
                                             </td>
                                             <td rowspan="4" class="item-inner event-schedule-speaker">
                                                 <div>
-                                                    <a href="{{ site.baseurl }}speakers/stachu-korick/">												
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/stachu-korick.jpg" alt="Stachu Korick" />													
-                                                        <div class="title">HANDS-ON</div>										
-                                                        <div class="title">Solving Puzzles, Functionally</div>										
+                                                    <a href="{{ site.baseurl }}speakers/stachu-korick/">
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/stachu-korick.jpg" alt="Stachu Korick" />
+                                                        <div class="title">HANDS-ON</div>
+                                                        <div class="title">Solving Puzzles, Functionally</div>
                                                         <div>Stachu Korick</div>
-                                                    </a>	
+                                                    </a>
                                                     <div class="schedule-speaker-tag">
 														<div class="speaker-tag">
 															<ul class="tag">
@@ -456,18 +455,18 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="This talk is Bunny level" />
-														</div>	
+														</div>
 													</div>
-                                                </div>																							
+                                                </div>
                                             </td>
                                             <td rowspan="9" class="item-inner event-schedule-speaker">
                                                 <div>
-                                                    <a href="{{ site.baseurl }}speakers/avi-avni/">												
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/avi-avni.jpg" alt="Avi Avni" />													
-                                                        <div class="title">HANDS-ON</div>										
-                                                        <div class="title">A journey in contributing to the F# compiler</div>										
+                                                    <a href="{{ site.baseurl }}speakers/avi-avni/">
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/avi-avni.jpg" alt="Avi Avni" />
+                                                        <div class="title">HANDS-ON</div>
+                                                        <div class="title">A journey in contributing to the F# compiler</div>
                                                         <div>Avi Avni</div>
-                                                    </a>	
+                                                    </a>
                                                     <div class="schedule-speaker-tag">
 														<div class="speaker-tag">
 															<ul class="tag">
@@ -477,22 +476,22 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/tiger.png" alt="This talk is Tiger level" />
-														</div>	
+														</div>
 													</div>
-                                                </div>																							
+                                                </div>
                                             </td>
                                         </tr>
-                                        <tr class="schedule-item"> 
+                                        <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>09:50</span></td>
-                                            <td class="item-inner event-schedule-break">Break</td>									
+                                            <td class="item-inner event-schedule-break">Break</td>
                                         </tr>
                                         <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>10:00</span></td>
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
-                                                    <a href="{{ site.baseurl }}speakers/eirik-tsarpalis/">											
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/eirik-tsarpalis.jpg" alt="Eirik Tsarpalis" />										
-                                                        <div class="title">A Saga of Migration: porting existing F# systems to .NET Core</div>				
+                                                    <a href="{{ site.baseurl }}speakers/eirik-tsarpalis/">
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/eirik-tsarpalis.jpg" alt="Eirik Tsarpalis" />
+                                                        <div class="title">A Saga of Migration: porting existing F# systems to .NET Core</div>
                                                         <div>Eirik Tsarpalis</div>
                                                     </a>
                                                     <div class="schedule-speaker-tag">
@@ -507,9 +506,9 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
-														</div>	
+														</div>
 													</div>
-                                                </div>																									
+                                                </div>
                                             </td>
                                         </tr>
                                         <tr class="schedule-item">
@@ -524,10 +523,10 @@ title: Agenda conference 2018
                                             <td class="item-inner event-time"><span>11:10</span></td>
                                             <td rowspan="4" class="item-inner event-schedule-speaker">
                                                 <div>
-                                                    <a href="{{ site.baseurl }}speakers/colin-gravill/">											
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/colin-gravill.jpg" alt="Colin Gravill" />		
-                                                        <div class="title">HANDS-ON</div>	
-                                                        <div class="title">Interactive computing with F# Jupyter</div>				
+                                                    <a href="{{ site.baseurl }}speakers/colin-gravill/">
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/colin-gravill.jpg" alt="Colin Gravill" />
+                                                        <div class="title">HANDS-ON</div>
+                                                        <div class="title">Interactive computing with F# Jupyter</div>
                                                         <div>Colin Gravill</div>
                                                     </a>
                                                     <div class="schedule-speaker-tag">
@@ -538,18 +537,18 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="This hands-on session is Bunny level" />
-														</div>	
+														</div>
 													</div>
-                                                </div>                                                
+                                                </div>
                                             </td>
                                         </tr>
                                         <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>11:20</span></td>
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
-                                                    <a href="{{ site.baseurl }}speakers/eugene-tolmachev/">											
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/eugene-tolmachev.png" alt="Eugene Tolmachev" />													
-                                                        <div class="title">Building highly available systems with Apache Storm</div>					
+                                                    <a href="{{ site.baseurl }}speakers/eugene-tolmachev/">
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/eugene-tolmachev.png" alt="Eugene Tolmachev" />
+                                                        <div class="title">Building highly available systems with Apache Storm</div>
                                                         <div>Eugene Tolmachev</div>
                                                     </a>
                                                     <div class="schedule-speaker-tag">
@@ -562,9 +561,9 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
-														</div>	
+														</div>
 													</div>
-                                                </div>															
+                                                </div>
                                             </td>
                                         </tr>
                                         <tr class="schedule-item">
@@ -575,10 +574,10 @@ title: Agenda conference 2018
                                             <td class="item-inner event-time"><span>12:20</span></td>
                                             <td class="item-inner event-schedule-speaker">
                                                 <div>
-                                                    <a href="{{ site.baseurl }}speakers/darren-platt/">											
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/darren-platt.png" alt="Darren Platt" />													
+                                                    <a href="{{ site.baseurl }}speakers/darren-platt/">
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/darren-platt.png" alt="Darren Platt" />
                                                         <div class="title">A year in paradise. Full stack F# for Synthetic Biology</div>
-                                                        <div>Darren Platt</div>									
+                                                        <div>Darren Platt</div>
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
@@ -590,9 +589,9 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
-														</div>	
+														</div>
 													</div>
-                                                </div>													
+                                                </div>
                                             </td>
                                         </tr>
                                         <tr class="schedule-item">
@@ -603,10 +602,10 @@ title: Agenda conference 2018
                                             <td class="item-inner event-time"><span>14:00</span></td>
                                             <td colspan="2" class="item-inner event-schedule-speaker">
                                                 <div>
-                                                    <a href="{{ site.baseurl }}speakers/krzysztof-cieslak/">		
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/krzysztof-cieslak.jpg" alt="Krzysztof Cieslak" />													
+                                                    <a href="{{ site.baseurl }}speakers/krzysztof-cieslak/">
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/krzysztof-cieslak.jpg" alt="Krzysztof Cieslak" />
                                                         <div class="title">Reinventing MVC pattern for web programming with F#</div>
-                                                        <div>Krzysztof Cieslak</div>			
+                                                        <div>Krzysztof Cieslak</div>
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
@@ -618,11 +617,11 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
-														</div>	
+														</div>
 													</div>
-                                                </div>													
+                                                </div>
                                             </td>
-                                            <td class="item-inner event-schedule-speaker">Open space</td>    
+                                            <td class="item-inner event-schedule-speaker">Open space</td>
                                         </tr>
                                         <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>14:50</span></td>
@@ -632,10 +631,10 @@ title: Agenda conference 2018
                                             <td class="item-inner event-time"><span>15:00</span></td>
                                             <td colspan="3" class="item-inner event-schedule-speaker">
                                                 <div>
-                                                    <a href="{{ site.baseurl }}speakers/alfonso-garcia-caro/">		
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/alfonso-garcia-caro.jpg" alt="Alfonso Garcia Caro" />													
+                                                    <a href="{{ site.baseurl }}speakers/alfonso-garcia-caro/">
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/alfonso-garcia-caro.jpg" alt="Alfonso Garcia Caro" />
                                                         <div class="title">Fable got a new major release and you won’t believe what happened next</div>
-                                                        <div>Alfonso Garcia-Caro</div>			
+                                                        <div>Alfonso Garcia-Caro</div>
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
@@ -646,9 +645,9 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
-														</div>	
+														</div>
 													</div>
-                                                </div>													
+                                                </div>
                                             </td>
                                         </tr>
                                         <tr class="schedule-item">
@@ -662,7 +661,7 @@ title: Agenda conference 2018
                                                 <div>
                                                     <a href="{{ site.baseurl }}speakers/eugene-auduchinok/">													<img src="{{ site.baseurl }}public/assets/speakers/2018/eugene-auduchinok.jpg" alt="Eugene Auduchinok" />
                                                         <div class="title">State of F# support in JetBrains Rider</div>
-                                                        <div>Eugene Auduchinok</div>										
+                                                        <div>Eugene Auduchinok</div>
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
@@ -673,14 +672,14 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
-														</div>	
+														</div>
 													</div>
                                                 </div>
                                                 <div>
-                                                    <a href="{{ site.baseurl }}speakers/william-blum/">	
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/william-blum.jpg" alt="William Blum" />													
+                                                    <a href="{{ site.baseurl }}speakers/william-blum/">
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/william-blum.jpg" alt="William Blum" />
                                                         <div class="title">MSRD: A Microsoft online service built entirely with F#</div>
-                                                        <div>William Blum</div>										
+                                                        <div>William Blum</div>
                                                     </a>
 													<div class="schedule-speaker-tag">
 														<div class="speaker-tag">
@@ -694,17 +693,17 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
-														</div>	
+														</div>
 													</div>
                                                 </div>
                                             </td>
                                         </tr>
-                                        <tr class="schedule-item"> 
+                                        <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>16:30</span></td>
-                                            <td colspan="3" class="item-inner event-schedule-speaker">	
+                                            <td colspan="3" class="item-inner event-schedule-speaker">
                                                 <div class="schedule-speaker-tag">
-                                                    <a href="{{ site.baseurl }}speakers/phillip-carter/">	
-                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/phillip-carter.jpg" alt="Phillip Carter" />	
+                                                    <a href="{{ site.baseurl }}speakers/phillip-carter/">
+                                                        <img src="{{ site.baseurl }}public/assets/speakers/2018/phillip-carter.jpg" alt="Phillip Carter" />
                                                         <div class="title">Keynote: The challenge and rewards of F# growth</div>
                                                         <div>Phillip Carter</div>
                                                     </a>
@@ -716,17 +715,17 @@ title: Agenda conference 2018
 														</div>
 														<div class="talk-level">
 															<img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This talk is Bear level" />
-														</div>	
+														</div>
 													</div>
-                                                </div>													
-                                            </td>									
+                                                </div>
+                                            </td>
                                         </tr>
                                         <tr class="schedule-item">
                                             <td class="item-inner event-time"><span>17:20</span></td>
                                             <td colspan="3" class="item-inner event-schedule-speaker">
                                                 Closing Open Fsharp 2018
                                             </td>
-                                        </tr>                                     
+                                        </tr>
                                     </tbody>
                                 </table>
                             </div>
@@ -747,10 +746,10 @@ title: Agenda conference 2018
 						<h2 class="header-title">Code of conduct</h2>
 						<p class="header-desc">Be respectful, be open, and be considerate.</p>
 					</div>
-					<p>Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity 
-						and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not 
-						tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, 
-						including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned 
+					<p>Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity
+						and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not
+						tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue,
+						including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned
 						or expelled from the conference without a refund at the discretion of the conference organisers.</p>
 					<div class="button-group">
 						<a href="http://confcodeofconduct.com/" class="custom-btn hvr-bounce-to-bottom" target="_blank">Read More</a>
