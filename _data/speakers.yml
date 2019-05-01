@@ -212,3 +212,11 @@
     bio: Digital Service Expert
     githubUrl: https://github.com/wiredsister
     twitterUrl: https://twitter.com/wiredsis
+  - name: JORGE FIORANELLI
+    speakerUrl: "#speakers"
+    imageUrl: public/assets/speakers/2019/jorge-fioranelli.jpg
+    imageAltText: Jorge Fioranelli
+    bio: Director of Engineering @ jet.com
+    githubUrl: https://github.com/jorgef
+    twitterUrl: https://twitter.com/jorgefioranelli
+    blogUrl: http://www.fsharpworkshop.com/
