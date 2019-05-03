@@ -55,7 +55,8 @@ title: Call for papers conference
 					<div class="section-head">
 						<h2 class="header-title">TOPICS</h2>
 					</div>
-                    <p>Whatever topic you find exciting - we want to hear about it! Of course, it should be F# related. In general, we are looking for talks focusing on practical applications of F#, and how the language can be used to build great solutions. We are particularly interested in topics such as cross platform development (dot net core and/or mono), mobile applications (Xamarin), Fable, design patterns, and testing.</p>
+                    <p>Whatever topic you find exciting - we want to hear about it! Of course, it should be F# related. In general, we are looking for talks focusing on practical applications of F#, and how the language can be used to build great solutions.  Not sure what we are looking for? Here are a couple of possible topics:  cross platform development (.NET Core and/or mono), mobile and web applications, Fable, design patterns, and testing.
+					Still not sure? Reach out to us at <a href="mailto:cfp@openfsharp.org">cfp@openfsharp.org</a></p>
 				</div><!-- /.conference-main -->
                 <div class="conference-main">
 					<div class="section-head">
