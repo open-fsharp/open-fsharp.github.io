@@ -105,9 +105,10 @@ year: 2019
 							<li>
 								<span class="c-info-icon"><i class="fas fa-map-marker-alt"></i></span>
 								<span class="c-info-content">
-									<strong>San Francisco, USA</strong>
+									<strong>San Francisco CA, USA</strong>
 									{% if site.data.venue.name %}
-									<span class="i-text"><a href="https://broadwaystudios.com/" target="_blank">Broadway venue, SF</a></span>
+									<span class="i-text"><a href="{{ site.data.venue.url }}" target="_blank">{{ site.data.venue.name }}</a></span>
+									<span class="i-text"><a href="{{ site.data.venue.url }}" target="_blank">{{ site.data.venue.street }}</a></span>
 									{% endif %}
 								</span>
 							</li>
