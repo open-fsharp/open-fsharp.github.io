@@ -71,6 +71,20 @@
                 <div class="ccr-sponsor">
                     <h3 class="sponsor-title">Silver Sponsors</h3>
                     <div class="supporters">
+                            {% assign silverLength = silverSponsors.size %}
+
+                            {% if silverLength == 1 %}
+                            {% assign sponsor = silverSponsors[0] %}
+                            <div class="row">
+                                <div class="col-sm-2 col-sm-offset-5 col-md-2 col-md-offset-5">
+                                    <div class="silver-item-inner">
+                                        <a href="{{sponsor.siteUrl}}" target="_blank">
+                                                <img class="silver-item" src="{{ site.baseurl }}{{sponsor.imagePath}}" alt="{{altText}}">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            {% else %}
                             {% for sponsor in silverSponsors %}
                             {% assign indexOffset = forloop.index | modulo: 2 %}
                             {% if indexOffset == 1 %}
@@ -85,13 +99,14 @@
                                             <a href="{{sponsor.siteUrl}}" target="_blank">
                                                 <img class="silver-item" src="{{ site.baseurl }}{{sponsor.imagePath}}" alt="{{altText}}">
                                             </a>
-                                        </div>
+                                    </div>
                                 </div>
 
                             {% if indexOffset == 0 %}
                             </div>
                             {% endif %}
                             {% endfor %}
+                            {% endif %}
                         </div>
                 </div><!-- /.silver-sponsor -->
                 {% endif %}
