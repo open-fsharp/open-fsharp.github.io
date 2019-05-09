@@ -34,6 +34,8 @@
                         {% endfor %}
                     </div>
                 </div><!-- /.platinum-sponsor -->
+                {% assign goldSponsors = sponsors.goldSponsors %}
+                {% if goldSponsors %}
                 <div class="ccr-sponsor">
                     <h3 class="sponsor-title">Gold Sponsors</h3>
                     <div class="supporters">
@@ -63,10 +65,12 @@
 
                     </div>
                 </div><!-- /.gold-sponsor -->
+                {% endif %}
+                {% assign silverSponsors = sponsors.silverSponsors %}
+                {% if silverSponsors %}
                 <div class="ccr-sponsor">
                     <h3 class="sponsor-title">Silver Sponsors</h3>
                     <div class="supporters">
-                            {% assign silverSponsors = sponsors.silverSponsors %}
                             {% for sponsor in silverSponsors %}
                             {% assign indexOffset = forloop.index | modulo: 2 %}
                             {% if indexOffset == 1 %}
@@ -90,6 +94,7 @@
                             {% endfor %}
                         </div>
                 </div><!-- /.silver-sponsor -->
+                {% endif %}
             </div><!-- /.sponsor-wrapper -->
         </div><!-- /.row -->
     {% else %}
