@@ -26,3 +26,12 @@
   - siteUrl: https://dotnetfoundation.org/
     imagePath: public/assets/sponsors/2018/netFoundation.jpg
     altText: Silver Sponsor .NET Foundation
+2019:
+  platinumSponsors:
+  - siteUrl: https://jet.com/
+    imagePath: public/assets/sponsors/2018/jet.png
+    altText: Platinum Sponsor Jet.com
+  silverSponsors:
+  - siteUrl: https://www.olo.com/
+    imagePath: public/assets/sponsors/2018/olo.jpg
+    altText: Silver Sponsor OLO
