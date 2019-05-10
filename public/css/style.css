@@ -22,7 +22,7 @@ Tags: html, template, Multi-Touch
 	5.1 dropdown menu
 	5.2 Mobile menu
 	5.3 menu shopping cart
-	5.4 menu cart dropdown	
+	5.4 menu cart dropdown
 6. Bannar section
 7. national conference section
 8. conference schedule section
@@ -81,7 +81,7 @@ html {
 
 
 body {
-	background: #fff; 
+	background: #fff;
 	font-family: 'Montserrat', sans-serif;
 }
 
@@ -244,7 +244,7 @@ a:active {
 #primary-menu.fixed-top-menu .primary-menu-inner .menu-area .navbar-nav li.menu-item-has-children>a:focus:before,
 #primary-menu.fixed-top-menu.transparent-bg-menu .menu-area .navbar-nav>li>a:hover,
 #primary-menu.fixed-top-menu.transparent-bg-menu .menu-area .navbar-nav>li>a:focus,
-.menu-area .nav>li>a:focus, 
+.menu-area .nav>li>a:focus,
 .menu-area .nav>li>a:hover {
     text-decoration: none;
     background-color: transparent;
@@ -253,7 +253,7 @@ a:active {
 
 .navbar-brand .temp-logo img {
 	width: 100px;
-} 
+}
 
 .navbar-brand .white {
 	color:#fff;
@@ -322,7 +322,7 @@ li.menu-item-has-children>a::before {
 	padding: 8px 10px;
 	display: block;
 	border-bottom: 1px solid #ebebeb;
-} 
+}
 .primary-menu-inner .menu-area .navbar-nav ul li a:hover {
 	background-color: #363636;
 	border-bottom: 1px solid #363636;
@@ -629,7 +629,7 @@ li.menu-item-has-children>a::before {
 	overflow: hidden;
 	display: inline-block;
 	background: #fff;
-	
+
 	margin-right: 5px;
 	border-radius: 3px;
 }
@@ -856,7 +856,7 @@ li.menu-item-has-children>a::before {
 }
 
 /*-------------------------------------
-	9  	 speaker section  
+	9  	 speaker section
 ---------------------------------------*/
 .event-speaker {
 	position: relative;
@@ -1100,7 +1100,23 @@ li.menu-item-has-children>a::before {
 	margin-top:3rem;
 }
 
+.sponsor-container {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
 
+.platinum {
+	flex-flow: column wrap;
+}
+
+.gold {
+	flex-flow: row wrap;
+}
+
+.silver {
+	flex-flow: row wrap;
+}
 /*-------------------------------------
 	11  become Sponsor section
 --------------------------------------*/
@@ -1734,7 +1750,7 @@ ul.widget-nav-tabs.widget-title {
 	height: 620px;
 }
 
-#first-date, #second-date, #third-date {    
+#first-date, #second-date, #third-date {
     position: relative;
 }
 .event-schedule {
@@ -1792,23 +1808,23 @@ ul.widget-nav-tabs.widget-title {
 
 .object:nth-child(10){
 	-webkit-animation-delay: 0.9s;
-    animation-delay: 0.9s;	
+    animation-delay: 0.9s;
 	}
 .object:nth-child(9){
 	-webkit-animation-delay: 0.8s;
-    animation-delay: 0.8s;	
-	}	
+    animation-delay: 0.8s;
+	}
 .object:nth-child(8){
 	-webkit-animation-delay: 0.7s;
-    animation-delay: 0.7s;	
+    animation-delay: 0.7s;
 	}
 .object:nth-child(7){
 	-webkit-animation-delay: 0.6s;
-    animation-delay: 0.6s;	
+    animation-delay: 0.6s;
 	}
 .object:nth-child(6){
 	-webkit-animation-delay: 0.5s;
-    animation-delay: 0.5s;	
+    animation-delay: 0.5s;
 	}
 .object:nth-child(5){
 	-webkit-animation-delay: 0.4s;
@@ -1816,30 +1832,30 @@ ul.widget-nav-tabs.widget-title {
 	}
 .object:nth-child(4){
 	-webkit-animation-delay: 0.3s;
-    animation-delay: 0.3s;		
+    animation-delay: 0.3s;
 	}
 .object:nth-child(3){
 	-webkit-animation-delay: 0.2s;
-    animation-delay: 0.2s;	
+    animation-delay: 0.2s;
 	}
 .object:nth-child(2){
 	-webkit-animation-delay: 0.1s;
     animation-delay: 0.1s;
-	}						
-	
+	}
+
 @-webkit-keyframes animate {
- 
+
   50% {
-	-ms-transform: scaleY(0); 
+	-ms-transform: scaleY(0);
    	-webkit-transform: scaleY(0);
     transform: scaleY(0);
-	
+
 	  }
 }
 
 @keyframes animate {
   50% {
-	-ms-transform: scaleY(0); 
+	-ms-transform: scaleY(0);
    	-webkit-transform: scaleY(0);
     transform: scaleY(0);
 	  }
@@ -1902,28 +1918,28 @@ ul.widget-nav-tabs.widget-title {
 	height:0;
 	opacity:.6;
 	z-index: -1;
-	-webkit-animation:countdown-bg 1s linear forwards;	
+	-webkit-animation:countdown-bg 1s linear forwards;
 	animation:countdown-bg 1s linear forwards;
-	
+
 	-webkit-animation-iteration-count:1;
 	animation-iteration-count:1;
 }
 
 .countdown-box.box-min .box-bg {
-	-webkit-animation-duration:60s;	
+	-webkit-animation-duration:60s;
 	animation-duration:60s;
 }
 
 .countdown-box.box-hrs .box-bg {
-	-webkit-animation-duration:3600s;	
+	-webkit-animation-duration:3600s;
 	animation-duration:3600s;
 }
 
 .countdown-box.box-days .box-bg,
 .countdown-box .box-bg.mobile-bg {
-	-webkit-animation:none;	
+	-webkit-animation:none;
 	animation:none;
-	
+
 	opacity:1;
 	-webkit-transform:translateY(42.5%);
 	transform:translateY(42.5%);
