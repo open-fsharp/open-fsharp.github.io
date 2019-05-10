@@ -1069,11 +1069,6 @@ li.menu-item-has-children>a::before {
 }
 
 .gold-item-inner {
-	margin-left: 15px;
-	margin-right: 15px;
-	/* https://stackoverflow.com/a/14382618/114519 */
-	height: 100px;
-	line-height: 100px;
 	text-align: center;
 }
 
@@ -1108,6 +1103,10 @@ li.menu-item-has-children>a::before {
 
 .platinum {
 	flex-flow: column wrap;
+}
+
+.sponsor-container .platinum-item-inner:not(:last-child) {
+	padding-bottom: 3rem;
 }
 
 .gold {

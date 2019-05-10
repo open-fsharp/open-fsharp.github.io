@@ -4,65 +4,46 @@
         {% if sponsors %}
         <div class="row">
             <div class="sponsor-wrapper">
+                {% assign platinumSponsors = sponsors.platinumSponsors %}
+                {% if platinumSponsors %}
                 <div class="ccr-sponsor">
                     <h3 class="sponsor-title">Platinum Sponsors</h3>
                     <div class="supporters">
-                        {% for sponsor in sponsors.platinumSponsors %}
-
-                        {% if forloop.first == true %}
                         <div class="row">
-                        {% else %}
-                        <div class="row platinum-row-end">
-                        {% endif %}
-
-                            <div class="col-sm-4 col-md-4">
-                                <div class="platinum-item-inner">
-                                </div>
-                            </div>
-                            <div class="col-sm-4 col-md-4">
-                                <div class="platinum-item-inner">
-                                    <a href="{{sponsor.siteUrl}}" target="_blank">
-                                        <img class="platinum-item" src="{{ site.baseurl }}{{sponsor.imagePath}}" alt="{{altText}}">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col-sm-4 col-md-4">
-                                <div class="platinum-item-inner">
+                            <div class="col-sm-6 col-md-6 col-sm-offset-3 col-md-offset-3">
+                                <div class="sponsor-container platinum">
+                                    {% for sponsor in sponsors.platinumSponsors %}
+                                    <div class="platinum-item-inner">
+                                        <a href="{{ sponsor.siteUrl }}" target="_blank">
+                                            <img class="platinum-item" src="{{ site.baseurl }}{{ sponsor.imagePath }}" alt="{{altText}}">
+                                        </a>
+                                    </div>
+                                    {% endfor %}
                                 </div>
                             </div>
                         </div>
-                        {% endfor %}
                     </div>
                 </div><!-- /.platinum-sponsor -->
+                {% endif% }
                 {% assign goldSponsors = sponsors.goldSponsors %}
                 {% if goldSponsors %}
                 <div class="ccr-sponsor">
                     <h3 class="sponsor-title">Gold Sponsors</h3>
                     <div class="supporters">
-
                         {% assign goldSponsors = sponsors.goldSponsors %}
-                        {% for sponsor in goldSponsors %}
-                        {% assign indexOffset = forloop.index | modulo: 2 %}
-                        {% if indexOffset == 1 %}
                         <div class="row">
-                                <div class="col-sm-3 col-md-3">
-                                        <div class="gold-item-inner">
-                                        </div>
-                                    </div>
-                        {% endif %}
-                        <div class="col-sm-3 col-md-3">
-                                <div class="gold-item-inner">
+                            <div class="col-sm-4 col-md-4 col-sm-offset-4 col-md-offset-4">
+                                <div class="sponsor-container gold">
+                                    {% for sponsor in goldSponsors %}
+                                    <div class="gold-item-inner">
                                         <a href="{{sponsor.siteUrl}}" target="_blank">
                                             <img class="gold-item-large" src="{{ site.baseurl }}{{sponsor.imagePath}}" alt="{{altText}}">
                                         </a>
                                     </div>
+                                    {% endfor %}
+                                </div>
                             </div>
-
-                        {% if indexOffset == 0 %}
                         </div>
-                        {% endif %}
-                        {% endfor %}
-
                     </div>
                 </div><!-- /.gold-sponsor -->
                 {% endif %}
