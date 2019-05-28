@@ -31,6 +31,16 @@ category: F# for Fun & Profit
                     </ul>
                 </p>
             </div>
+            <div>
+                <div class="speaker-tag">
+                    <ul class="tag">
+                        <li><a href="#">domain modeling</a></li>
+                    </ul>
+                </div>
+                <div class="talk-level">
+                    <img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="This hands-on session is Bunny level" />
+                </div>
+            </div>
         </div>
     </div>
 </div><!-- /.row -->
