@@ -146,7 +146,7 @@ function countdown_init() {
 }
 
 function googleMaps_init() {
-    var mapElement = document.getElementById("#map");
+    var mapElement = document.getElementById("map");
     if (mapElement) {
         map = new GMaps({
             el: '#map',

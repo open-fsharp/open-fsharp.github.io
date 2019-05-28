@@ -1,0 +1,14 @@
+---
+- name: "Intro to F#"
+  speaker: Jorge Fioranelli
+  type: Deep Dive
+  imgUrl: public/assets/speakers/2019/jorge-fioranelli.jpg
+  speakerUrl: 2019/jorge-fioranelli
+  time: 09:00 AM
+- name: "Domain Modeling Made Functional"
+  speaker: Scott Wlaschin
+  type: Deep Dive
+  imgUrl: public/assets/speakers/2019/scott-wlaschin.jpg
+  speakerUrl: 2019/scott-wlaschin
+  time: 09:00 AM
+...
