@@ -11,4 +11,10 @@
   imgUrl: public/assets/speakers/2019/scott-wlaschin.jpg
   speakerUrl: 2019/scott-wlaschin
   time: 09:00 AM
+- name: Taming Your Web App w/ Elmish
+  speaker: Maxime Mangel
+  type: Deep Dive
+  imgUrl: public/assets/speakers/2019/maxime-mangel.png
+  speakerUrl: 2019/maxime-mangel
+  time: 09:00 AM
 ...
