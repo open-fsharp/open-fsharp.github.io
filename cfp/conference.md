@@ -37,7 +37,7 @@ title: Call for papers conference
                     <p>
                         <ul>
                             <li>1st of April: Call for Papers are open.</li>
-                            <li>1st of June: Call for Papers close.</li>
+                            <li>8th of June: Call for Papers close.</li>
                             <li>1st of July: All submissions will have received feedback.</li>
                         </ul>
                     </p>
