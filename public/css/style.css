@@ -1049,6 +1049,7 @@ li.menu-item-has-children>a::before {
 
 .platinum-item {
 	width: 50%;
+	min-width: 250px;
 }
 
 .platinum-row-end {
