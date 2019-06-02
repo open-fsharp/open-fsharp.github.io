@@ -31,6 +31,9 @@
   - siteUrl: https://jet.com/
     imagePath: public/assets/sponsors/2018/jet.png
     altText: Platinum Sponsor Jet.com
+  - siteUrl: http://www.tachyus.com/
+    imagePath: public/assets/sponsors/2018/tachyus.svg
+    altText: Platinum Sponsor Tachyus
   silverSponsors:
   - siteUrl: https://www.olo.com/
     imagePath: public/assets/sponsors/2018/olo.jpg
