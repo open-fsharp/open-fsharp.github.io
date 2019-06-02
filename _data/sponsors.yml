@@ -29,12 +29,12 @@
 2019:
   platinumSponsors:
   - siteUrl: https://jet.com/
-    imagePath: public/assets/sponsors/2018/jet.png
+    imagePath: public/assets/sponsors/2019/jet.png
     altText: Platinum Sponsor Jet.com
   - siteUrl: http://www.tachyus.com/
-    imagePath: public/assets/sponsors/2018/tachyus.svg
+    imagePath: public/assets/sponsors/2019/tachyus.svg
     altText: Platinum Sponsor Tachyus
   silverSponsors:
   - siteUrl: https://www.olo.com/
-    imagePath: public/assets/sponsors/2018/olo.jpg
+    imagePath: public/assets/sponsors/2019/olo.jpg
     altText: Silver Sponsor OLO
