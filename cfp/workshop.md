@@ -19,8 +19,8 @@ title: Call for papers workshop
 				</div><!-- /.row -->
 			</div><!-- /.col-md-10 -->
 			<div class="col-md-3">
-				<a target="_blank" href="https://forms.gle/h4WeYqUCNAjDtJML8"
-					class="custom-btn hvr-bounce-to-bottom">Submit</a>
+				<!-- <a target="_blank" href="https://forms.gle/h4WeYqUCNAjDtJML8"
+					class="custom-btn hvr-bounce-to-bottom">Submit</a> -->
 			</div><!-- /.col-md-2 -->
 		</div><!-- /.row -->
 	</div><!-- /.container -->
@@ -87,10 +87,10 @@ title: Call for papers workshop
 						you want to discuss.</p>
 				</div><!-- /.conference-main -->
 				<div class="conference-main">
-					<div class="button-group">
+					<!-- <div class="button-group">
 						<a href="https://forms.gle/h4WeYqUCNAjDtJML8" class="custom-btn hvr-bounce-to-bottom"
 							target="_blank">Submit</a>
-					</div>
+					</div> -->
 				</div><!-- /.conference-main -->
 			</div><!-- /.col-md-8 -->
 			<div class="col-md-4">
