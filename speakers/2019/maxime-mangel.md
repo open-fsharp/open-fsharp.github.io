@@ -13,7 +13,19 @@ category: Living in a Fable-ous world
             </div>
             <div>
                 <p>
-                    TBA
+                    Have you dipped your toes in Elmish before? And are you ready for a deeper dive into creating an Elmish app? Then this is the workshop for you.
+                </p>
+                <p>
+                    By the end of this workshop, we will have covered the following topics:
+                    <ul>
+                        <li>How to write re-usable components</li>
+                        <li>How to handle a session in an Elmish application</li>
+                        <li>How to represent state transition (ex: loadable components)</li>
+                        <li>How to represent HTTP request to that errors in a safe manner</li>
+                        <li>How to design a library and use it in our application</li>
+                        <li>The different ways to represents page state and when to prefer one over another</li>
+                        <li>Why being consistent in naming things is important</li>
+                    </ul>
                 </p>
             </div>
             <div>
