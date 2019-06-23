@@ -38,3 +38,6 @@
   - siteUrl: https://www.olo.com/
     imagePath: public/assets/sponsors/2019/olo.jpg
     altText: Silver Sponsor OLO
+  - siteUrl: https://demetrixbio.com/
+    imagePath: public/assets/sponsors/2018/demetrixbio.jpg
+    altText: Silver Sponsor Demetrix
