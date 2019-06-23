@@ -1,7 +1,7 @@
 ---
 layout: speaker
-title: Maxime Mangel
-category: Living in a Fable-ous world
+title: Frank Krueger
+category:
 year: 2019
 ---
 {% include speaker.html %}
