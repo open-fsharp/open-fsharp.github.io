@@ -173,7 +173,7 @@
     githubUrl: https://github.com/blumu
 2019:
   - name: MAXIME MANGEL
-    speakerUrl: "#speakers"
+    speakerUrl: "speakers/2019/maxime-mangel"
     imageUrl: public/assets/speakers/2019/maxime-mangel.png
     imageAltText: Maxime Mangel
     bio: Living in a Fable-ous world
@@ -181,42 +181,157 @@
     twitterUrl: https://twitter.com/MangelMaxime
     linkedinUrl: https://www.linkedin.com/in/maxime-mangel-554a71a8/
     blogUrl: https://medium.com/@MangelMaxime
+    bioDetail: |
+      <p> Maxime has been testing a lot of languages over the past 10 years. Finally, he stopped with F# thanks to Fable discovery.
+      </p>
+      <p>Since then, he works on supporting the community and improving the Fable and Elmish ecosystem. He is working at Fleet Performance on a monitoring solution for mining quarry.</p>
+    talks:
+    workshop:
+      title: Taming Your Web App w/ Elmish
+      time: Wed, Sept. 25th @ 09:00 AM (Workshop)
+      abstract: |
+        <p>
+            Have you dipped your toes in Elmish before? And are you ready for a deeper dive into creating an Elmish app? Then this is the workshop for you.
+        </p>
+        <p>
+            By the end of this workshop, we will have covered the following topics:
+            <ul>
+                <li>How to write re-usable components</li>
+                <li>How to handle a session in an Elmish application</li>
+                <li>How to represent state transition (ex: loadable components)</li>
+                <li>How to represent HTTP request to that errors in a safe manner</li>
+                <li>How to design a library and use it in our application</li>
+                <li>The different ways to represents page state and when to prefer one over another</li>
+                <li>Why being consistent in naming things is important</li>
+            </ul>
+        </p>
+      tags: elmish
   - name: JOHN AZARIAH
-    speakerUrl: "#speakers"
+    speakerUrl: speakers/2019/john-azariah
     imageUrl: public/assets/speakers/2019/john-azariah.jpg
     imageAltText: John Azariah
     bio: Microsoft Research
     githubUrl: https://github.com/johnazariah
     twitterUrl: https://twitter.com/johnazariah
     blogUrl: https://johnazariah.github.io/
+    bioDetail: John has been doing FP in various forms for 3 decades now, actively programs in C# and F#, and plays around with LISP, Haskell and Scala. He promises not to introduce too many groans from the audience with his (they're funny, really) jokes.
+    talks:
+      - title: Lego Bricks, Railway Tracks, and Paper Swans (Building Blocks From The Functional World)
+        level: bear
+        time:
+        abstract: |
+          <p>Sometimes it feels like Functional Programmers speak in a different language.
+          They use complicated words, arcane math terms, and it isn't immediately obvious why any of what they talk about matters for day-to-day work.
+          Here's a talk that tries to address that, and show how FP concepts apply to "normal" programming.</p>
+          <p>In this talk, John will walk you through how FP concepts relate to the humble `for` loop, will show you how to use FP building blocks to simplify and strengthen your code, and finally talk about how the art of origami relates to FP.
+          There will be <strong>exactly one</strong> slide, at the end of the deck, with traditional FP terminology and scary words - just so you can relate the talk to more advanced material presented elsewhere.
+          But otherwise, all jargon used will be familiar to a C#, C++ or Java programmer! That said, this is an intermediate level talk, and quite a few advanced concepts will be disguised in familiar form.</p>
+        type: talk
+        tags:
   - name: SCOTT WLASCHIN
-    speakerUrl: "#speakers"
+    speakerUrl: "speakers/2019/scott-wlaschin"
     imageUrl: public/assets/speakers/2019/scott-wlaschin.jpg
     imageAltText: Scott Wlaschin
     bio: F# for Fun & Profit
     githubUrl: https://github.com/swlaschin
     twitterUrl: https://twitter.com/ScottWlaschin
     blogUrl: http://fsharpforfunandprofit.com/
+    bioDetail: |
+      <p>
+        Scott Wlaschin is a .NET developer, architect and author.
+        He has over 20 years experience in a wide variety of areas
+        from high-level UX/UI to low-level database implementations.
+        He loves learning programming languages, his favorites being
+        Smalltalk, but also Prolog, Python, and more recently, F#,
+        which he blogs about at fsharpforfunandprofit.com.
+      </p>
+    talks:
+    workshop:
+      title: Domain Modeling Made Functional
+      time: Wed, Sept. 25th @ 09:00 AM (Workshop)
+      abstract: |
+        <p>
+            Functional programming and domain-driven design might not seem to be a good match, but in fact functional programming can be an excellent approach to designing decoupled, reusable systems with a rich domain model.  This workshop will show you why.
+        </p>
+        <p>
+            This will be a hands-on workshop designed for beginners in F#. We'll do lots of domain modeling exercises starting with some simple models and then enhancing them with constraints, state machines, error handling, commands and events, and so on.
+        </p>
+        <p>
+            We'll cover these topics in detail:
+            <ul>
+                <li>The core concepts of functional programming and how they can be applied to Domain Driven Design</li>
+                <li>How to represent the nouns and verbs of a domain ("the ubiquitous language") using types.</li>
+                <li>Why representing the domain model using types is better than most other documentation (hint: it can never get out of sync)</li>
+                <li>How to capture constraints and business rules in the domain model itself instead of being buried in the implementation</li>
+                <li>How to represent state transitions</li>
+                <li>How to treat errors as a part of the domain</li>
+                <li>How to build a complete business workflow from smaller components using composition</li>
+            </ul>
+        </p>
+      tags:
+        - domain modeling
   - name: FRANK KRUEGER
-    speakerUrl: "#speakers"
+    speakerUrl: "speakers/2019/frank-krueger"
     imageUrl: public/assets/speakers/2019/frank-krueger.jpg
     imageAltText: Frank A. Krueger
     bio: Mobile App Specialist
     githubUrl: https://github.com/praeclarum
     twitterUrl: https://twitter.com/praeclarum
     blogUrl: https://praeclarum.org
+    bioDetail:
+    talks:
   - name: GINA MARIE MAINI
-    speakerUrl: "#speakers"
+    speakerUrl: "speakers/2019/gina-marie-maini"
     imageUrl: public/assets/speakers/2019/gina-marie-maini.jpg
     imageAltText: Gina Marie Maini
     bio: Digital Service Expert
     githubUrl: https://github.com/wiredsister
     twitterUrl: https://twitter.com/wiredsis
+    talks:
+      - title: Future Proof Library Design, Examples in F#
+        level: bear
+        time:
+        abstract:
+        type: talk
+        tags:
+    bioDetail:
   - name: JORGE FIORANELLI
-    speakerUrl: "#speakers"
+    speakerUrl: "speakers/2019/jorge-fioranelli"
     imageUrl: public/assets/speakers/2019/jorge-fioranelli.jpg
     imageAltText: Jorge Fioranelli
     bio: Director of Engineering @ jet.com
     githubUrl: https://github.com/jorgef
     twitterUrl: https://twitter.com/jorgefioranelli
     blogUrl: http://www.fsharpworkshop.com/
+    bioDetail: |
+      <p>
+        Jorge works as Director of Engineering at Jet.com and is very passionate about F#, Domain-Driven Design and Distributed Architectures. He is a regular speaker, co-founder of the F# Sydney user group and frequently runs workshops to introduce F# to developers.
+      </p>
+    workshop:
+      title: F# Introduction
+      time: Wed, Sept. 25th @ 09:00 AM (Workshop)
+      abstract: |
+        <p>
+            Do you want to learn F# and Functional Programming? Well, you better start coding! Learning a new programming language is not easy, on top of reading a lot you need to practice even more. This workshop is designed to teach you some of the basics of F# and Functional Programming by combining theory (slides) and practice.
+        </p>
+        <p>
+            Topics:
+            <ul>
+                <li>Bindings</li>
+                <li>Functions</li>
+                <li>Tuples</li>
+                <li>Records</li>
+                <li>High order functions</li>
+                <li>Pipelining</li>
+                <li>Partial application</li>
+                <li>Composition</li>
+                <li>Options</li>
+                <li>Pattern matching</li>
+                <li>Discriminated unions</li>
+                <li>Units of measure</li>
+                <li>Functional lists</li>
+                <li>Object-oriented programming</li>
+                <li>Type providers</li>
+            </ul>
+        </p>
+      tags:

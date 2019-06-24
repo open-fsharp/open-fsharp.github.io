@@ -1,0 +1,109 @@
+{% assign speakerKey = page.title | upcase %}
+{% assign speaker = site.data.speakers[page.year] | where: "name", speakerKey | first %}
+<div class="row">
+    {% if speaker.workshop %}
+    {% assign workshop = speaker.workshop %}
+    <div class="col-md-6">
+        <div class="speaker-talk">
+            <div class="section-head">
+                <h2 class="header-title">{{ workshop.title }}</h2>
+                    <p class="header-desc">{% if workshop.time %}{{ workshop.time }}{% else %}Check back soon for scheduling!{% endif %}</p>
+            </div>
+            <div>
+                {% if workshop.abstract %}
+                {{ workshop.abstract }}
+                {% else %}
+                <p>TBD</p>
+                {% endif %}
+            </div>
+            <div>
+                <div class="speaker-tag">
+                    {% if workshop.tags %}
+                    <ul class="tag">
+                        {% for tag in workshop.tags %}
+                        <li><a href="#">{{ tag }}</a></li>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+    {% for talk in speaker.talks %}
+    <div class="col-md-6">
+        <div class="speaker-talk">
+            <div class="section-head">
+                <h2 class="header-title">{{ talk.title }}</h2>
+                    <p class="header-desc">{% if talk.time %}{{ talk.time }}{% else %}Check back soon for scheduling!{% endif %}</p>
+            </div>
+            <div>
+                {% if talk.abstract %}
+                {{ talk.abstract }}
+                {% else %}
+                <p>TBD</p>
+                {% endif %}
+            </div>
+            <div>
+                <div class="speaker-tag">
+                    {% if talk.tags %}
+                    <ul class="tag">
+                        {% for tag in talk.tags %}
+                        <li><a href="#"{{ tag }}></a></li>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                </div>
+                <div class="talk-level">
+                    {% case talk.level %}
+                    {% when 'bear' %}
+                    <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This {{ talk.type }} is Bear level" />
+                    {% when 'bunny' %}
+                    <img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="This {{ talk.type }} is Bunny level" />
+                    {% when 'tiger' %}
+                    <img src="{{ site.baseurl }}public/assets/animals/tiger.png" alt="This {{ talk.type }} is Tiger level" />
+                    {% endcase %}
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div><!-- /.row -->
+<div class="row">
+    <div class="col-md-12">
+        <div class="speaker-about">
+            <div class="section-head">
+                <h2 class="header-title">About {{ page.title }}</h2>
+                <p class="header-desc">
+                    {% if speaker.twitterUrl %}
+                    <a href="{{speaker.twitterUrl}}"><i class="fab fa-twitter"></i></a>
+                    {% endif %}
+                    {% if speaker.githubUrl %}
+                    <a href="{{speaker.githubUrl}}"><i class="fab fa-github-alt"></i></a>
+                    {% endif %}
+                    {% if speaker.blogUrl %}
+                    <a href="{{speaker.blogUrl}}"><i class="fas fa-rss"></i></a>
+                    {% endif %}
+                    {% if speaker.linkedinUrl %}
+                    <a href="{{speaker.linkedinUrl}}"><i class="fab fa-linkedin-in"></i></a>
+                    {% endif %}
+                    {% if speaker.podcastUrl %}
+                    <a href="{{speaker.podcastUrl}}"><i class="fas fa-podcast"></i></a>
+                    {% endif %}
+                </p>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <img src="{{ site.baseurl }}{{ speaker.imageUrl }}" alt="{{ speaker.imageAltText }}" />
+                </div>
+                <div class="col-md-10">
+                    {% if speaker.bioDetail %}
+                    {{ speaker.bioDetail }}
+                    {% else %}
+                    Check back soon for an outstanding speaker bio!
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
