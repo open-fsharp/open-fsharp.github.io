@@ -335,3 +335,27 @@
             </ul>
         </p>
       tags:
+  - name: KRZYSZTOF CIESLAK
+    speakerUrl: speakers/2019/krzysztof-cieslak
+    imageUrl: public/assets/speakers/2019/krzysztof-cieslak.jpg
+    imageAltText: Krzysztof Cieslak
+    bio: OSS CONTRIBUTOR
+    githubUrl: https://github.com/k_cieslak
+    twitterUrl: https://twitter.com/k_cieslak
+    blogUrl: http://lambdafactory.io
+    bioDetail: |
+      <p>
+        Krzysztof is a software developer, consultant, founder of <a href="http://lambdafactory.io" target="_blank">Lambda Factory</a>. He's author of <a href="http://ionide.io/" target="_blank">Ionide</a>, <a href="http://forge.run" target="_blank">Forge</a>, <a href="https://gitlab.com/Krzysztof-Cieslak/Fornax" target="_blank">Fornax</a>, <a href="https://github.com/SaturnFramework/Saturn" target="_blank">Saturn</a> project owner and maintainer of <a href="https://marketplace.visualstudio.com/items?itemName=sbrink.elm" target="_blank">VSCode-Elm</a> and contributor to many OSS projects. Krzysztof is also an international speaker, that tries to convince developers around the world that OSS and FP are good, pragmatic choices for writing software.
+      </p>
+    talks:
+      - title: Ionide - A OSS Story
+        level: bunny
+        time:
+        abstract: |
+          <p>"Over the last few years Ionide has become one of the most important projects in F# ecosystem. It's used by thousands of users, listed on official Microsoft webpage about F#, suggested as one of the starting points with F# in the official documentation. And, what's most important, it's loved and supported by the community - either by contributions to source code and documentation, positive comments on the VSCode marketplace or support on Open Collective.</p>
+          <p>In this talk, I'd like to make a walkthrough Ionide's history - from the lucky chain of events that resulted in Ionide's creation almost 5 years ago, through the difficult process of making Ionide serious IDE, to working on it full time. And talk about its future...</p>
+          <p>It's also my personal story - about young and naive software developer creating his first OSS project, about his growth as a developer and as a person, about burn out and stress, about both positive and negative aspects of maintaining popular OSS project.</p>
+        type: talk
+        tags:
+          - oss
+          - ionide
