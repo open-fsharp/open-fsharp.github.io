@@ -352,10 +352,30 @@
         level: bunny
         time:
         abstract: |
-          <p>"Over the last few years Ionide has become one of the most important projects in F# ecosystem. It's used by thousands of users, listed on official Microsoft webpage about F#, suggested as one of the starting points with F# in the official documentation. And, what's most important, it's loved and supported by the community - either by contributions to source code and documentation, positive comments on the VSCode marketplace or support on Open Collective.</p>
+          <p>Over the last few years Ionide has become one of the most important projects in F# ecosystem. It's used by thousands of users, listed on official Microsoft webpage about F#, suggested as one of the starting points with F# in the official documentation. And, what's most important, it's loved and supported by the community - either by contributions to source code and documentation, positive comments on the VSCode marketplace or support on Open Collective.</p>
           <p>In this talk, I'd like to make a walkthrough Ionide's history - from the lucky chain of events that resulted in Ionide's creation almost 5 years ago, through the difficult process of making Ionide serious IDE, to working on it full time. And talk about its future...</p>
           <p>It's also my personal story - about young and naive software developer creating his first OSS project, about his growth as a developer and as a person, about burn out and stress, about both positive and negative aspects of maintaining popular OSS project.</p>
         type: talk
         tags:
           - oss
           - ionide
+  - name: RYAN KILKENNY
+    speakerUrl: speakers/2019/ryan-kilkenny
+    imageUrl: #public/assets/icon-green.png
+    imageAltText: #Place Holder of Open F# logo in green
+    bio: Text Adventures In Babysitting
+    twitterUrl: https://twitter.com/gelletto1138
+    bioDetail: |
+      <p>
+        Ryan Kilkenny is a multi-paradigm polyglot primarily living in the .NET world. He's been an F# enthusiast since 2013 and interested in game development since playing Space Invaders on a Commodore VIC-20 in 1985.
+      </p>
+    talks:
+      - title: Text Adventures In Babysitting
+        level: bunny
+        time:
+        abstract: |
+          <p>FsLamp is a text adventure engine written in F#. It was developed out of a learning project meant to improve F# skills, game design skills, and hopefully pave the path towards future game development with natural language processing. In this talk we'll take a look at the game engine implementation and learn how to write interactive fiction games in F#.</p>
+        type: talk
+        tags:
+          - games
+          - natural language processing
