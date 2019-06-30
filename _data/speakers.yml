@@ -467,3 +467,26 @@
           - performance
           - parallelism
           - wasm
+  - name: JÉRÉMIE CHASSAING
+    speakerUrl: speakers/2019/jeremie-chassaing
+    imageUrl: public/assets/speakers/2019/jeremie-chassaing.jpg
+    imageAltText: Jérémie Chassaing
+    bio: F# all the things!
+    githubUrl: https://github.com/thinkbeforecoding
+    twitterUrl: https://twitter.com/thinkb4coding
+    blogUrl: https://thinkbeforecoding.com
+    bioDetail: |
+      <p>
+          Jérémie Chassaing has been practicing Domain Driven Design and Continuous Improvement for 10 years as an architect at Availpro, a channel manager for independent hotels, to increase scalability and reliability to match its rapid growth. He's an active member of the F# community. You can also see his blog thinkbeforecoding, a blog dedicated to Domain Driven Design, CQRS and Event Sourcing.
+      </p>
+    talks:
+      - title: "#NoMemAlloc"
+        level: tiger
+        time:
+        abstract: "<p>Functional languages have a bad reputation of allocating memory like crazy. But F#, built on .Net core , has many constructs to write code that make no allocation, like we could do in C or Rust. We'll explore Span<'t>, Memory<'t>, IsByRefLike in a F# idiomatic and functional way by writing a simple Video decoder that makes #NoMemAlloc.</p>"
+        type: hands-on
+        tags:
+          - memory
+          - span
+          - NoMemAlloc
+          - video
