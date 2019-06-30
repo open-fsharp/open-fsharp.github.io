@@ -361,9 +361,9 @@
           - ionide
   - name: RYAN KILKENNY
     speakerUrl: speakers/2019/ryan-kilkenny
-    imageUrl: #public/assets/icon-green.png
-    imageAltText: #Place Holder of Open F# logo in green
-    bio: Text Adventures In Babysitting
+    imageUrl: public/assets/speakers/2019/ryan-kilkenny.png
+    imageAltText: Ryan Kilkenny
+    bio: F# Hobbyist
     twitterUrl: https://twitter.com/gelletto1138
     bioDetail: |
       <p>
@@ -377,8 +377,11 @@
           <p>FsLamp is a text adventure engine written in F#. It was developed out of a learning project meant to improve F# skills, game design skills, and hopefully pave the path towards future game development with natural language processing. In this talk we'll take a look at the game engine implementation and learn how to write interactive fiction games in F#.</p>
         type: talk
         tags:
-          - games
-          - natural language processing
+          - interactive fiction
+          - text adventure
+          - game development
+          - dotnetcore
+          - cognitive services
   - name: RICCARDO TERRELL
     speakerUrl: speakers/2019/riccardo-terrell
     imageUrl: public/assets/speakers/2019/ricky-terrell.jpg
