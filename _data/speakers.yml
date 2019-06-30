@@ -407,3 +407,33 @@
         - distributed systems
         - async
         - parallelism
+  - name: KEVIN FEASEL
+    speakerUrl: speakers/2019/kevin-feasel
+    imageUrl: public/assets/speakers/2019/kevin-feasel.jpg
+    imageAltText: Kevin Feasel
+    bio: Microsft Data Platform MVP
+    githubUrl: https://github.com/feaselkl
+    twitterUrl: https://twitter.com/feaselkl
+    blogUrl: https://curatedsql.com
+    bioDetail: |
+      <p>Kevin Feasel is a Microsoft Data Platform MVP and Engineering Manager of the Predictive Analytics team at ChannelAdvisor, where he specializes in T-SQL and R development, fighting with Kafka, and pulling rabbits out of hats on demand. He is the lead contributor to Curated SQL (https://curatedsql.com) and author of PolyBase Revealed (forthcoming). A resident of Durham, North Carolina, he can be found cycling the trails along the triangle whenever the weather's nice enough.</p>
+    talks:
+      - title: "A Map to Success: Functional Programming for Database Developers"
+        level: bunny
+        time:
+        abstract: |
+          <p>Over the past several years, we have seen a resurgence of interest in functional programming languages, particularly with the success of Scala and R in the marketplace. Although object-oriented (oo) design remains the dominant software development paradigm, even oo-first languages have seen a shift toward the functional mindset with the emphasis on LINQ in C# and lambdas in Java. This move toward a functional style should be particularly welcome for data platform specialists, who already have a leg up in understanding functional programming concepts thanks to their work with SQL.</p>
+          <p>In this talk, we will focus on one functional programming language, F#. We will look at some of the basics of the language and see how you can translate knowledge of SQL into a pipeline-driven functional programming language. We will also see areas where F# integrates smoothly with SQL, creating a powerful way to extend your SQL skills beyond queries.</p>
+        type: talk
+        tags:
+          - Type Providers
+          - SQL Server
+          - DBA
+          - Wait Stats
+          - Execution Plans
+          - XML
+          - JSON
+          - Statistics
+          - Graphing
+          - Windowing
+          - Moving Averages
