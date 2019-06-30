@@ -440,3 +440,30 @@
           - Graphing
           - Windowing
           - Moving Averages
+  - name: COLIN GRAVILL
+    speakerUrl: speakers/2019/colin-gravill
+    imageUrl: public/assets/speakers/2019/colin-gravill.png
+    imageAltText: Colin Gravill
+    bio: Robots & DNA
+    githubUrl: https://github.com/cgravill
+    twitterUrl: https://twitter.com/cgravill
+    blogUrl: https://www.microsoft.com/en-us/research/project/stationb/
+    bioDetail: |
+      <p>I like F# and science.</p>
+    talks:
+      - title: Browser-based intensive computation with F#
+        level: tiger
+        time:
+        abstract: |
+          <p>
+            For some applications you want to run computationally intensive code in the browser for cost, privacy, or simplicity reasons.
+            What are some options?
+            I’ll talk about some tools we’ve built using both WebSharper and Fable that allow us to take the same code we run on thousands of machines and flexibly scale it down to web browsers.
+            This will cover: Web Workers for parallelism, taking existing external C++ running as WebAssembly, and how to tie it all together productively from F# running in-browser.
+          </p>
+        type: talk
+        tags:
+          - web
+          - performance
+          - parallelism
+          - wasm
