@@ -246,6 +246,14 @@
         which he blogs about at fsharpforfunandprofit.com.
       </p>
     talks:
+      - title: The F#er's Functional Programming Toolkit
+        level: bunny
+        time:
+        abstract: |
+          <p>The techniques and patterns used in functional programming are very different from object-oriented programming, and when you are just starting out it can be hard to know how they all fit together.</p>
+          <p>In this talk for F# beginners, I'll present the most common tools that can be found in a functional programmer's toolkit: tools such as "compose", "reduce", "map", "return", "apply", and "bind". What are they? Why are they important? How are they used in practice? And how do they relate to computation expressions and scary sounding concepts like monoids, monads, and functors?</p>
+        type: talk
+        tags:
     workshop:
       title: Domain Modeling Made Functional
       time: Wed, Sept. 25th @ 09:00 AM (Workshop)
@@ -335,3 +343,158 @@
             </ul>
         </p>
       tags:
+  - name: KRZYSZTOF CIESLAK
+    speakerUrl: speakers/2019/krzysztof-cieslak
+    imageUrl: public/assets/speakers/2019/krzysztof-cieslak.jpg
+    imageAltText: Krzysztof Cieslak
+    bio: OSS CONTRIBUTOR
+    githubUrl: https://github.com/k_cieslak
+    twitterUrl: https://twitter.com/k_cieslak
+    blogUrl: http://lambdafactory.io
+    bioDetail: |
+      <p>
+        Krzysztof is a software developer, consultant, founder of <a href="http://lambdafactory.io" target="_blank">Lambda Factory</a>. He's author of <a href="http://ionide.io/" target="_blank">Ionide</a>, <a href="http://forge.run" target="_blank">Forge</a>, <a href="https://gitlab.com/Krzysztof-Cieslak/Fornax" target="_blank">Fornax</a>, <a href="https://github.com/SaturnFramework/Saturn" target="_blank">Saturn</a> project owner and maintainer of <a href="https://marketplace.visualstudio.com/items?itemName=sbrink.elm" target="_blank">VSCode-Elm</a> and contributor to many OSS projects. Krzysztof is also an international speaker, that tries to convince developers around the world that OSS and FP are good, pragmatic choices for writing software.
+      </p>
+    talks:
+      - title: Ionide - A OSS Story
+        level: bunny
+        time:
+        abstract: |
+          <p>Over the last few years Ionide has become one of the most important projects in F# ecosystem. It's used by thousands of users, listed on official Microsoft webpage about F#, suggested as one of the starting points with F# in the official documentation. And, what's most important, it's loved and supported by the community - either by contributions to source code and documentation, positive comments on the VSCode marketplace or support on Open Collective.</p>
+          <p>In this talk, I'd like to make a walkthrough Ionide's history - from the lucky chain of events that resulted in Ionide's creation almost 5 years ago, through the difficult process of making Ionide serious IDE, to working on it full time. And talk about its future...</p>
+          <p>It's also my personal story - about young and naive software developer creating his first OSS project, about his growth as a developer and as a person, about burn out and stress, about both positive and negative aspects of maintaining popular OSS project.</p>
+        type: talk
+        tags:
+          - oss
+          - ionide
+  - name: RYAN KILKENNY
+    speakerUrl: speakers/2019/ryan-kilkenny
+    imageUrl: public/assets/speakers/2019/ryan-kilkenny.png
+    imageAltText: Ryan Kilkenny
+    bio: F# Hobbyist
+    twitterUrl: https://twitter.com/gelletto1138
+    bioDetail: |
+      <p>
+        Ryan Kilkenny is a multi-paradigm polyglot primarily living in the .NET world. He's been an F# enthusiast since 2013 and interested in game development since playing Space Invaders on a Commodore VIC-20 in 1985.
+      </p>
+    talks:
+      - title: Text Adventures In Babysitting
+        level: bunny
+        time:
+        abstract: |
+          <p>FsLamp is a text adventure engine written in F#. It was developed out of a learning project meant to improve F# skills, game design skills, and hopefully pave the path towards future game development with natural language processing. In this talk we'll take a look at the game engine implementation and learn how to write interactive fiction games in F#.</p>
+        type: talk
+        tags:
+          - interactive fiction
+          - text adventure
+          - game development
+          - dotnetcore
+          - cognitive services
+  - name: RICCARDO TERRELL
+    speakerUrl: speakers/2019/riccardo-terrell
+    imageUrl: public/assets/speakers/2019/ricky-terrell.jpg
+    imageAltText: Riccardo Terrell
+    bio: Functional guy living in an imperative world
+    githubUrl: https://github.com/rikace
+    twitterUrl: https://twitter.com/trikace
+    blogUrl: http://http://www.rickyterrell.com/
+    bioDetail: |
+      <p>Riccardo is an information systems and technology professional and architect specializing in software & systems development. He has over 20 years’ experience delivering cost-effective technology solutions in the competitive business environment. Riccardo is passionate about integrating advanced technology tools to increase internal efficiency, enhance work productivity, and reduce operating costs. He is a Microsoft Most Valuable Professional (MVP) who is active in the .Net, functional programming, and F# communities. Riccardo believes in multi-paradigm programming to maximize the power of code and is the author of "Functional Concurrency in .NET”; which, features how to develop highly-scalable systems in F# & C#.</p>
+    workshop:
+      title: Actor Clustering with Docker Containers and Akka.Net in F#
+      time: Wed, Sept. 25th @ 09:00 AM (Workshop)
+      abstract: |
+        <p>
+            In this session, you will learn to build and deploy distributed systems combining the power of Akka.Net, the flexibility of F# and the simplicity of Docker containers. The combination of these technologies enhances the effects of F# “code-quotation”, which allows the deployment of arbitrary Actors into remote Actor-Systems. You will learn the basic concepts behind Microservices implemented using the Actor and Actor Clustering, and how to leverage Docker containers for easy deployment. Docker provides an isolated environment for the applications running inside the container image. Akka.Net is a framework to build concurrent, resilient, distributed and scalable software systems. The cluster feature lets you distribute your Actors across multiple machines to achieve load balancing, fail-over and the ability to scale up and out.
+        </p>
+        <p>
+          During this session, we will build and deploy an Actor Cluster to distribute an image processing using multiple machines.
+        </p>
+      tags:
+        - actor
+        - akka.net
+        - docker
+        - clustering
+        - distributed systems
+        - async
+        - parallelism
+  - name: KEVIN FEASEL
+    speakerUrl: speakers/2019/kevin-feasel
+    imageUrl: public/assets/speakers/2019/kevin-feasel.jpg
+    imageAltText: Kevin Feasel
+    bio: Microsft Data Platform MVP
+    githubUrl: https://github.com/feaselkl
+    twitterUrl: https://twitter.com/feaselkl
+    blogUrl: https://curatedsql.com
+    bioDetail: |
+      <p>Kevin Feasel is a Microsoft Data Platform MVP and Engineering Manager of the Predictive Analytics team at ChannelAdvisor, where he specializes in T-SQL and R development, fighting with Kafka, and pulling rabbits out of hats on demand. He is the lead contributor to Curated SQL (https://curatedsql.com) and author of PolyBase Revealed (forthcoming). A resident of Durham, North Carolina, he can be found cycling the trails along the triangle whenever the weather's nice enough.</p>
+    talks:
+      - title: "A Map to Success: Functional Programming for Database Developers"
+        level: bunny
+        time:
+        abstract: |
+          <p>Over the past several years, we have seen a resurgence of interest in functional programming languages, particularly with the success of Scala and R in the marketplace. Although object-oriented (oo) design remains the dominant software development paradigm, even oo-first languages have seen a shift toward the functional mindset with the emphasis on LINQ in C# and lambdas in Java. This move toward a functional style should be particularly welcome for data platform specialists, who already have a leg up in understanding functional programming concepts thanks to their work with SQL.</p>
+          <p>In this talk, we will focus on one functional programming language, F#. We will look at some of the basics of the language and see how you can translate knowledge of SQL into a pipeline-driven functional programming language. We will also see areas where F# integrates smoothly with SQL, creating a powerful way to extend your SQL skills beyond queries.</p>
+        type: talk
+        tags:
+          - Type Providers
+          - SQL Server
+          - DBA
+          - Wait Stats
+          - Execution Plans
+          - XML
+          - JSON
+          - Statistics
+          - Graphing
+          - Windowing
+          - Moving Averages
+  - name: COLIN GRAVILL
+    speakerUrl: speakers/2019/colin-gravill
+    imageUrl: public/assets/speakers/2019/colin-gravill.png
+    imageAltText: Colin Gravill
+    bio: Robots & DNA
+    githubUrl: https://github.com/cgravill
+    twitterUrl: https://twitter.com/cgravill
+    blogUrl: https://www.microsoft.com/en-us/research/project/stationb/
+    bioDetail: |
+      <p>I like F# and science.</p>
+    talks:
+      - title: Browser-based intensive computation with F#
+        level: tiger
+        time:
+        abstract: |
+          <p>
+            For some applications you want to run computationally intensive code in the browser for cost, privacy, or simplicity reasons.
+            What are some options?
+            I’ll talk about some tools we’ve built using both WebSharper and Fable that allow us to take the same code we run on thousands of machines and flexibly scale it down to web browsers.
+            This will cover: Web Workers for parallelism, taking existing external C++ running as WebAssembly, and how to tie it all together productively from F# running in-browser.
+          </p>
+        type: talk
+        tags:
+          - web
+          - performance
+          - parallelism
+          - wasm
+  - name: JÉRÉMIE CHASSAING
+    speakerUrl: speakers/2019/jeremie-chassaing
+    imageUrl: public/assets/speakers/2019/jeremie-chassaing.jpg
+    imageAltText: Jérémie Chassaing
+    bio: F# all the things!
+    githubUrl: https://github.com/thinkbeforecoding
+    twitterUrl: https://twitter.com/thinkb4coding
+    blogUrl: https://thinkbeforecoding.com
+    bioDetail: |
+      <p>
+          Jérémie Chassaing has been practicing Domain Driven Design and Continuous Improvement for 10 years as an architect at Availpro, a channel manager for independent hotels, to increase scalability and reliability to match its rapid growth. He's an active member of the F# community. You can also see his blog thinkbeforecoding, a blog dedicated to Domain Driven Design, CQRS and Event Sourcing.
+      </p>
+    talks:
+      - title: "#NoMemAlloc"
+        level: tiger
+        time:
+        abstract: "<p>Functional languages have a bad reputation of allocating memory like crazy. But F#, built on .Net core , has many constructs to write code that make no allocation, like we could do in C or Rust. We'll explore Span<'t>, Memory<'t>, IsByRefLike in a F# idiomatic and functional way by writing a simple Video decoder that makes #NoMemAlloc.</p>"
+        type: hands-on
+        tags:
+          - memory
+          - span
+          - NoMemAlloc
+          - video

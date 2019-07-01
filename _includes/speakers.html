@@ -19,10 +19,10 @@
                         <div class="speaker-item">
                             <div class="speaker-thumb">
                                 <a href="{{ site.baseurl }}{{speaker.speakerUrl}}">
-                                    <img src="{{ site.baseurl }}{{speaker.imageUrl}}" alt="{{speaker.imageAltText}}"></a>
+                                    <img style="max-width: 150px" src="{{ site.baseurl }}{{speaker.imageUrl}}" alt="{{speaker.imageAltText}}"></a>
                             </div><!-- /.speaker-thumb -->
                             <div class="speaker-content">
-                                <a href="{{ site.baseurl }}{{speaker.speakerUrl}}" class="speaker-name">{{speaker.name}}</a>
+                                <a href="{{ site.baseurl }}{{speaker.speakerUrl}}" class="speaker-name">{{speaker.name | upcase}}</a>
                                 <p class="designation">{{speaker.bio}}</p>
                             </div>
                             <div class="speaker-social">
