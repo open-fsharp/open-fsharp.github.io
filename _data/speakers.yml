@@ -246,6 +246,14 @@
         which he blogs about at fsharpforfunandprofit.com.
       </p>
     talks:
+      - title: The F#er's Functional Programming Toolkit
+        level: bunny
+        time:
+        abstract: |
+          <p>The techniques and patterns used in functional programming are very different from object-oriented programming, and when you are just starting out it can be hard to know how they all fit together.</p>
+          <p>In this talk for F# beginners, I'll present the most common tools that can be found in a functional programmer's toolkit: tools such as "compose", "reduce", "map", "return", "apply", and "bind". What are they? Why are they important? How are they used in practice? And how do they relate to computation expressions and scary sounding concepts like monoids, monads, and functors?</p>
+        type: talk
+        tags:
     workshop:
       title: Domain Modeling Made Functional
       time: Wed, Sept. 25th @ 09:00 AM (Workshop)
