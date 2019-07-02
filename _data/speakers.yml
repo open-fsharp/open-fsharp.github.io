@@ -367,6 +367,26 @@
         tags:
           - oss
           - ionide
+    name: KATE CURRAN
+    speakerUrl: speakers/2019/kate-curran
+    imageUrl: public/assets/speakers/2019/kate-curran.jpg
+    imageAltText: Kate Curran
+    bio: SCIENTIST
+    blogUrl: https://demetrixbio.com/
+    bioDetail: |
+      <p>
+        Krzysztof is a software developer, consultant, founder of <a href="http://lambdafactory.io" target="_blank">Lambda Factory</a>. He's author of <a href="http://ionide.io/" target="_blank">Ionide</a>, <a href="http://forge.run" target="_blank">Forge</a>, <a href="https://gitlab.com/Krzysztof-Cieslak/Fornax" target="_blank">Fornax</a>, <a href="https://github.com/SaturnFramework/Saturn" target="_blank">Saturn</a> project owner and maintainer of <a href="https://marketplace.visualstudio.com/items?itemName=sbrink.elm" target="_blank">VSCode-Elm</a> and contributor to many OSS projects. Krzysztof is also an international speaker, that tries to convince developers around the world that OSS and FP are good, pragmatic choices for writing software.
+      </p>
+    talks:
+      - title: Learning F# on the job as a programming novice
+        level: bunny
+        time:
+        abstract: |
+          <p>Demetrix is a biotech start-up built on Fsharp infrastructure.  We have some great Fsharp developers along with a lot of scientists and engineers that are relatively new to programming.  I'm in the latter camp.  I'll give some impressions and lessons learned from those of us learning F# as our first programming language.</p>
+        type: talk
+        tags:
+          - fsharp
+          - first-language
   - name: RYAN KILKENNY
     speakerUrl: speakers/2019/ryan-kilkenny
     imageUrl: public/assets/speakers/2019/ryan-kilkenny.png
