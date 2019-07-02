@@ -374,9 +374,7 @@
     bio: SCIENTIST @ DEMETRIX
     blogUrl: https://demetrixbio.com/
     bioDetail: |
-      <p>
-        Krzysztof is a software developer, consultant, founder of <a href="http://lambdafactory.io" target="_blank">Lambda Factory</a>. He's author of <a href="http://ionide.io/" target="_blank">Ionide</a>, <a href="http://forge.run" target="_blank">Forge</a>, <a href="https://gitlab.com/Krzysztof-Cieslak/Fornax" target="_blank">Fornax</a>, <a href="https://github.com/SaturnFramework/Saturn" target="_blank">Saturn</a> project owner and maintainer of <a href="https://marketplace.visualstudio.com/items?itemName=sbrink.elm" target="_blank">VSCode-Elm</a> and contributor to many OSS projects. Krzysztof is also an international speaker, that tries to convince developers around the world that OSS and FP are good, pragmatic choices for writing software.
-      </p>
+      <p>Kate is a scientist at Demetrix.  She engineers microbes using DNA and robots.</p>
     talks:
       - title: Learning F# on the job as a programming novice
         level: bunny
