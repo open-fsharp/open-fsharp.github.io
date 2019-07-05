@@ -516,3 +516,26 @@
           - span
           - NoMemAlloc
           - video
+  - name: PHILLIP CARTER
+    speakerUrl: speakers/2019/phillip-carter
+    imageUrl: public/assets/speakers/2019/phillip-carter.jpg
+    imageAltText: Phillip Carter
+    bio: Works on F# and other stuff at Microsoft
+    githubUrl: https://github.com/cartermp
+    twitterUrl: https://twitter.com/_cartermp
+    bioDetail: |
+      <p>
+          I'm the PM for Compilers and F# on the .NET team at Microsoft.
+      </p>
+    talks:
+      - title: "F# in 2020"
+        level: tiger
+        time:
+        abstract: |
+          <p>Over the past year, a lot has happened for F#! Multiple releases of the language, multiple tooling releases in a variety of tools, and stronger community engagement for F# on the web and F# for machine learning have led to a larger and more diverse livelihood for F#. In this talk, Phillip will recap some of the great things in 2019 before pivoting into what he'll be focusing on for the next year. Part roadmap and part predictions, this talk will go over what you can expect in 2020 and what Phillip would personally love to see happen.</p>
+        type: talk
+        tags:
+          - F#
+          - language
+          - compiler
+          - tooling
