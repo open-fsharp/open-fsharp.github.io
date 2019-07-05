@@ -189,6 +189,7 @@
     workshop:
       title: Taming Your Web App w/ Elmish
       time: Wed, Sept. 25th @ 09:00 AM (Workshop)
+      type: Deep Dive
       abstract: |
         <p>
             Have you dipped your toes in Elmish before? And are you ready for a deeper dive into creating an Elmish app? Then this is the workshop for you.
@@ -257,6 +258,7 @@
     workshop:
       title: Domain Modeling Made Functional
       time: Wed, Sept. 25th @ 09:00 AM (Workshop)
+      type: Deep Dive
       abstract: |
         <p>
             Functional programming and domain-driven design might not seem to be a good match, but in fact functional programming can be an excellent approach to designing decoupled, reusable systems with a rich domain model.  This workshop will show you why.
@@ -318,12 +320,13 @@
     workshop:
       title: F# Introduction
       time: Wed, Sept. 25th @ 09:00 AM (Workshop)
-      abstract: |
+      type: Deep Dive
+      abstract: |-
         <p>
-            Do you want to learn F# and Functional Programming? Well, you better start coding! Learning a new programming language is not easy, on top of reading a lot you need to practice even more. This workshop is designed to teach you some of the basics of F# and Functional Programming by combining theory (slides) and practice.
+          Do you want to learn F# and Functional Programming? Well, you better start coding! Learning a new programming language is not easy, on top of reading a lot you need to practice even more. This workshop is designed to teach you some of the basics of F# and Functional Programming by combining theory (slides) and practice.
         </p>
         <p>
-            Topics:
+        Topics:
             <ul>
                 <li>Bindings</li>
                 <li>Functions</li>
@@ -341,7 +344,7 @@
                 <li>Object-oriented programming</li>
                 <li>Type providers</li>
             </ul>
-        </p>
+          </p>
       tags:
   - name: KRZYSZTOF CIESLAK
     speakerUrl: speakers/2019/krzysztof-cieslak
@@ -421,6 +424,7 @@
     workshop:
       title: Actor Clustering with Docker Containers and Akka.Net in F#
       time: Wed, Sept. 25th @ 09:00 AM (Workshop)
+      type: Deep Dive
       abstract: |
         <p>
             In this session, you will learn to build and deploy distributed systems combining the power of Akka.Net, the flexibility of F# and the simplicity of Docker containers. The combination of these technologies enhances the effects of F# “code-quotation”, which allows the deployment of arbitrary Actors into remote Actor-Systems. You will learn the basic concepts behind Microservices implemented using the Actor and Actor Clustering, and how to leverage Docker containers for easy deployment. Docker provides an isolated environment for the applications running inside the container image. Akka.Net is a framework to build concurrent, resilient, distributed and scalable software systems. The cluster feature lets you distribute your Actors across multiple machines to achieve load balancing, fail-over and the ability to scale up and out.
@@ -516,3 +520,62 @@
           - span
           - NoMemAlloc
           - video
+    workshop:
+      title: Functional Event Sourcing
+      time: Wed, Sept. 25th @ 09:00 AM (Workshop)
+      type: Deep Dive
+      abstract: |
+        <p>
+            Storing history rather than current state, Event Sourcing is a radical technique to implement Domain-Driven Design efficiently. But many stop before even trying, convinced of the difficulty to implement it.
+            The workshop will teach how to implement Event Sourcing. The functional approach leads to a simple, clear and production ready solution, and uncluttered domain code!
+        </p>
+      tags:
+  - name: PHILLIP CARTER
+    speakerUrl: speakers/2019/phillip-carter
+    imageUrl: public/assets/speakers/2019/phillip-carter.jpg
+    imageAltText: Phillip Carter
+    bio: Works on F# and other stuff at Microsoft
+    githubUrl: https://github.com/cartermp
+    twitterUrl: https://twitter.com/_cartermp
+    bioDetail: |
+      <p>
+          I'm the PM for Compilers and F# on the .NET team at Microsoft.
+      </p>
+    talks:
+      - title: "F# in 2020"
+        level: tiger
+        time:
+        abstract: |
+          <p>Over the past year, a lot has happened for F#! Multiple releases of the language, multiple tooling releases in a variety of tools, and stronger community engagement for F# on the web and F# for machine learning have led to a larger and more diverse livelihood for F#. In this talk, Phillip will recap some of the great things in 2019 before pivoting into what he'll be focusing on for the next year. Part roadmap and part predictions, this talk will go over what you can expect in 2020 and what Phillip would personally love to see happen.</p>
+        type: talk
+        tags:
+          - F#
+          - language
+          - compiler
+          - tooling
+  - name: ERIC HARDING
+    speakerUrl: speakers/2019/eric-harding
+    imageUrl: public/assets/speakers/2019/eric-harding.jpg
+    imageAltText: Eric Harding
+    bio: F# is My Superpower
+    githubUrl: https://github.com/ericharding
+    twitterUrl: https://twitter.com/digitalsorcery
+    blogUrl: http://digitalsorcery.net
+    bioDetail: |
+      <p>
+          I'm a developer at a small software startup building software for futures and options traders. We use mostly C# and C++ but I introduced F# and Fable about a year ago.  I was involved in organizing https://southernfriedfsharp.com/ and also spoke about Fable/JS interop.
+      </p>
+    talks:
+      - title: "Developing a Fabulous Mobile App"
+        level: bunny
+        time:
+        abstract: |
+          <p>This talk will start by covering the Elmish/MVU pattern and how you can leverage it along with F#'s domain modeling super powers to structure your mobile application.  Then we'll talk about Fabulous and  Xamarin Forms while we walk though a mobile prototype that I worked on for a local startup.</p>
+        type: talk
+        tags:
+          - mobile
+          - xamarin
+          - fabulous
+          - domain modeling
+          - elmish
+          - mvu
