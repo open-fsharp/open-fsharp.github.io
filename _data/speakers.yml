@@ -539,3 +539,29 @@
           - language
           - compiler
           - tooling
+  - name: ERIC HARDING
+    speakerUrl: speakers/2019/eric-harding
+    imageUrl: public/assets/speakers/2019/eric-harding.jpg
+    imageAltText: Eric Harding
+    bio: F# is My Superpower
+    githubUrl: https://github.com/ericharding
+    twitterUrl: https://twitter.com/digitalsorcery
+    blogUrl: http://digitalsorcery.net
+    bioDetail: |
+      <p>
+          I'm a developer at a small software startup building software for futures and options traders. We use mostly C# and C++ but I introduced F# and Fable about a year ago.  I was involved in organizing https://southernfriedfsharp.com/ and also spoke about Fable/JS interop.
+      </p>
+    talks:
+      - title: "Developing a Fabulous Mobile App"
+        level: bunny
+        time:
+        abstract: |
+          <p>This talk will start by covering the Elmish/MVU pattern and how you can leverage it along with F#'s domain modeling super powers to structure your mobile application.  Then we'll talk about Fabulous and  Xamarin Forms while we walk though a mobile prototype that I worked on for a local startup.</p>
+        type: talk
+        tags:
+          - mobile
+          - xamarin
+          - fabulous
+          - domain modeling
+          - elmish
+          - mvu
