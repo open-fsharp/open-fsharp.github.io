@@ -579,3 +579,23 @@
           - domain modeling
           - elmish
           - mvu
+  - name: BRETT HALL
+    speakerUrl: speakers/2019/brett-hall
+    imageUrl: public/assets/speakers/2019/brett-hall.jpg
+    imageAltText: Brett Hall
+    bio: Software Eng & Sometimes Physicist
+    githubUrl: https://github.com/bretthall
+    twitterUrl: https://twitter.com/bretthall
+    blogUrl: https://backwardsincompatibilities.wordpress.com/
+    bioDetail: |
+      <p>Principal Software Engineer at Wyatt Technology</p>
+    talks:
+      - title: Our First Year with F# at Wyatt Technology
+        level: bear
+        time:
+        abstract: |
+          <p>A little over a year ago at Wyatt Technology we were looking for a new language and platform on which to build our data collection and analysis programs (previously we primarily used C++ for this). We knew we wanted to move to a managed run-time, and working primarily on Windows the obvious choice was .Net. That left a language to choose. We had a lot of experience with OOP (and the problems it can cause) and had been moving in a OOP/functional hybrid direction for a while. Given this direction we felt that F# was the best fit, and we'd dive full on into functional programming. It's now been a year since we made that decision. What did we use F# for? How well did it work? What features make the language a great fit for what we do? How hard it was it to get people up to speed? All this and more will be answered.</p>
+        type: talk
+        tags:
+          - workflows
+          - computation expressions
