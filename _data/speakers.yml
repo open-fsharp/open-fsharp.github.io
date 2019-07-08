@@ -599,3 +599,26 @@
         tags:
           - workflows
           - computation expressions
+  - name: SCOTT SCITES
+    speakerUrl: speakers/2019/scott-scites
+    imageUrl: public/assets/speakers/2019/placeholder.png
+    imageAltText: Scott Scites
+    bio: Significant white-space aficionado
+    githubUrl: https://github.com/bretthall
+    twitterUrl: https://twitter.com/bretthall
+    blogUrl: https://backwardsincompatibilities.wordpress.com/
+    bioDetail: |
+      <p>I am a Senior Software Engineer in cloud infrastructure management.</p>
+    talks:
+      - title: Realtime Data with Bolero and SignalR
+        level: bear
+        time:
+        abstract: |
+          <p>I'd like to present WASM, Bolero and SignalR. An application that demonstrates a server connecting to an external websocket that provides pricing data to the Bolero/Elmish front end would be demo'ed. Extra credit will be to show data visualization using a library like Rickshaw. This extra credit would involve Javascript/Bolero interop. The outline would start with an overview of Bolero/WASM and a segment on SignalR focused on the possibilities that realtime applications bring to user experience. I'd like to connect the future possibilities of realtime data with the fsharp strength in data manipulation. I'd also to talk about the freedom that WASM brings to front end developers to choose other languages that may be better suited to a task. The demonstration would be provided at the end of the talk.</p>
+        type: talk
+        tags:
+          - Bolero
+          - WebAssembly
+          - WASM
+          - SignalR
+          - Realtime
