@@ -632,11 +632,11 @@
     bioDetail: |
       <p>Web services devloper at @BinaryDefense, F#-er for ~6 years, FSSF Board of Trustees for 2, co-maintainer of FCS and other core libs. I get around.</p>
     talks:
-      - title: "Making the grass greener: An experience report in migrating a complex web application to .NET Core"
+      - title: "An introduction to profiling and performance analysis in .NET Core 3"
         level: bear
         time:
         abstract: |
-          <p>A dive into the effort to migrate Binary Defense' main product to .Net Core over a ~6 month period, with emphasis on the processes and tools we used to achieve success, as well as some pitfalls we ran into along the way.</p>
+          <p>One of the big motivations for my company's move to .Net Core was the promise of easier debugging and tracing tools. Now with the .Net SDK 3.- line, we have a suite of analysis tools that are easy to get started with and very helpful for diagnosing issues in a cross-platform way.  This talk will introduce these tools and give examples of how they can be used to profile your own applications easily and for great impact!</p>
         type: talk
         tags:
           - diagnostics
