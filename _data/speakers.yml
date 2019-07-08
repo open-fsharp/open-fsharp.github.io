@@ -604,14 +604,14 @@
     imageUrl: public/assets/speakers/2019/placeholder.png
     imageAltText: Scott Scites
     bio: Significant white-space aficionado
-    githubUrl: https://github.com/bretthall
-    twitterUrl: https://twitter.com/bretthall
-    blogUrl: https://backwardsincompatibilities.wordpress.com/
+    githubUrl: https://github.com/scitesy
+    twitterUrl: https://twitter.com/mlmaximalist
+    blogUrl: https://www.railcar88.com/scitesy
     bioDetail: |
       <p>I am a Senior Software Engineer in cloud infrastructure management.</p>
     talks:
       - title: Realtime Data with Bolero and SignalR
-        level: bear
+        level: tiger
         time:
         abstract: |
           <p>I'd like to present WASM, Bolero and SignalR. An application that demonstrates a server connecting to an external websocket that provides pricing data to the Bolero/Elmish front end would be demo'ed. Extra credit will be to show data visualization using a library like Rickshaw. This extra credit would involve Javascript/Bolero interop. The outline would start with an overview of Bolero/WASM and a segment on SignalR focused on the possibilities that realtime applications bring to user experience. I'd like to connect the future possibilities of realtime data with the fsharp strength in data manipulation. I'd also to talk about the freedom that WASM brings to front end developers to choose other languages that may be better suited to a task. The demonstration would be provided at the end of the talk.</p>
@@ -622,3 +622,24 @@
           - WASM
           - SignalR
           - Realtime
+  - name: CHET HUSK
+    speakerUrl: speakers/2019/chet-husk
+    imageUrl: public/assets/speakers/2019/placeholder.png
+    imageAltText: Scott Scites
+    bio: Significant white-space aficionado
+    githubUrl: https://github.com/chethusk
+    twitterUrl: https://twitter.com/chethusk
+    bioDetail: |
+      <p>Web services devloper at @BinaryDefense, F#-er for ~6 years, FSSF Board of Trustees for 2, co-maintainer of FCS and other core libs. I get around.</p>
+    talks:
+      - title: "Making the grass greener: An experience report in migrating a complex web application to .NET Core"
+        level: bear
+        time:
+        abstract: |
+          <p>A dive into the effort to migrate Binary Defense' main product to .Net Core over a ~6 month period, with emphasis on the processes and tools we used to achieve success, as well as some pitfalls we ran into along the way.</p>
+        type: talk
+        tags:
+          - diagnostics
+          - debugging
+          - runtime
+          - low-level
