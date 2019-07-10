@@ -643,3 +643,23 @@
           - debugging
           - runtime
           - low-level
+  - name: GAD BERGER
+    speakerUrl: speakers/2019/gad-berger
+    imageUrl: public/assets/speakers/2019/gad-berger.jpg
+    imageAltText: Gad Berger
+    bio: Walmart Lab Hoboken Tech Lead
+    blogUrl: https://medium.com/@gadberger
+    twitterUrl: https://twitter.com/gadberger
+    bioDetail: |
+      <p>Gad Berger is a Staff Software Engineer and tech lead at Walmart Lab’s Hoboken office, where he spends his day happily developing applications in F#.</p>
+    talks:
+      - title: "Abstracting IO using F#"
+        level: tiger
+        time:
+        abstract: |
+          <p>In the world of cloud-native applications, IO is everywhere. Dealing with IO can be complicated especially in enterprise level software. This talk describes an approach to abstracting IO access patterns using F# and Domain Driven Design into a set of simple to use interfaces. The same interfaces abstract the complexity of the underlying infrastructure from business functionality while maintaining consistent behaviors around retries, error handling, and observability.</p>
+        type: talk
+        tags:
+          - I/O Abstraction
+          - Infrastructure
+          - F#
