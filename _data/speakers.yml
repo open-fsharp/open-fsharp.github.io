@@ -186,6 +186,14 @@
       </p>
       <p>Since then, he works on supporting the community and improving the Fable and Elmish ecosystem. He is working at Fleet Performance on a monitoring solution for mining quarry.</p>
     talks:
+      - title: User-friendly apps start with dev-friendly tools
+        level: bear
+        time:
+        abstract: |
+          <p>As developers we use libraries every day to make our lives easier, but sometimes learning how to use them becomes more complex than the task they're supposed to solve.</p>
+          <p>During this talk I will share my experience creating libraries for the Fable ecosystem, as well as some advice to design and evolve user-friendly APIs.</p>
+        type: talk
+        tags:
     workshop:
       title: Taming Your Web App w/ Elmish
       time: Wed, Sept. 25th @ 09:00 AM (Workshop)
