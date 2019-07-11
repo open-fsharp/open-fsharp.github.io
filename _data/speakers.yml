@@ -625,8 +625,8 @@
   - name: CHET HUSK
     speakerUrl: speakers/2019/chet-husk
     imageUrl: public/assets/speakers/2019/placeholder.png
-    imageAltText: Scott Scites
-    bio: Significant white-space aficionado
+    imageAltText: Chet Husk
+    bio: Security + Reliability
     githubUrl: https://github.com/chethusk
     twitterUrl: https://twitter.com/chethusk
     bioDetail: |
