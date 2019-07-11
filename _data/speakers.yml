@@ -685,3 +685,26 @@
           - Tensor algebra
           - Symbolic programming
           - DSLs
+  - name: WAEL EL ORAIBY
+    speakerUrl: speakers/2019/wael-oraiby
+    imageUrl: public/assets/speakers/2019/placeholder.png
+    imageAltText: Wael El Oraiby
+    bio: Team Lead @ Samsung Ads
+    twitterUrl: https://twitter.com/weloraiby
+    githubUrl: https://github.com/eloraiby
+    bioDetail: |
+      <p>Backend team lead at Samsung Ads/Adgear</p>
+    talks:
+      - title: 5 Millions bid request/s, 2ms Max Response Time - The Road to Damascus
+        level: tiger
+        time:
+        abstract: |
+          <p>High performance real-time bidding using CoreCLR/F# and LibUV</p>
+        type: talk
+        tags:
+          - high performance bidding
+          - soft real-time
+          - low-level
+          - network
+          - libuv
+          - F# with c99
