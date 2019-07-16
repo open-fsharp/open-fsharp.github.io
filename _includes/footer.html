@@ -40,18 +40,15 @@
                         <div class="f-widget">
                             <h3 class="widget-title">Tags</h3>
                             <ul class="tag">
-                                <li><a href="#">F#</a></li>
-                                <li><a href="#">Fable</a></li>
-                                <li><a href="#">Juypter notebook</a></li>
-                                <li><a href="#">dotnetcore</a></li>
-                                <li><a href="#">event sourcing</a></li>
-                                <li><a href="#">Compiler</a></li>
-                                <li><a href="#">SRTP</a></li>
-                                <li><a href="#">AWS</a></li>
-                                <li><a href="#">Q#</a></li>
-                                <li><a href="#">Prolog</a></li>
-                                <li><a href="#">Saturn</a></li>
-                                <li><a href="#">ML</a></li>
+                                <!-- Gets all speakers, maps their talks, and then flattens talks if a speaker has more than one in a year -->
+                                {% assign talks = site.data.speakers[2019] | map: 'talks' | compact %}
+                                <!-- Gets tags off each talk, flattens them, converts to a comma delimited string -->
+                                <!-- downcases string, splits back into an array, gets uniq tags, sorts them -->
+                                {% assign talkTags = talks | map: 'tags' | compact | compact | join: ',' | downcase | split: ',' | uniq | sort %}
+                                {% for tag in talkTags %}
+                                <li><a href="#">{{ tag }}</a></li>
+                                {% endfor %}
+                                {{ myarray }}
                             </ul>
                         </div><!-- /.f-widget -->
                     </div><!-- /.row -->
