@@ -1,7 +1,8 @@
 {% assign speaker = site.data.speakers[page.year] | where: "name", include.speakerKey | first %}
 {% assign talk = speaker.talks | where: "title", include.talkKey | first %}
+{% assign duration = include.duration %}
 
-<td colspan="{{ include.size | default: '1' }}" class="item-inner event-schedule-speaker">
+<td colspan="{{ include.size }}" rowspan="{{ duration | default: 1 }}" class="item-inner event-schedule-speaker">
     <div class="schedule-speaker-tag">
     <a href="{{ site.baseurl }}{{speaker.speakerUrl}}">
         <img src="{{ site.baseurl }}{{speaker.imageUrl}}" alt="{{speaker.imageAltText}}">
