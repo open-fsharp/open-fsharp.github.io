@@ -298,6 +298,8 @@
     blogUrl: https://praeclarum.org
     bioDetail:
     talks:
+      - title: TBA
+        level: bear
   - name: GINA MARIE MAINI
     speakerUrl: "speakers/2019/gina-marie-maini"
     imageUrl: public/assets/speakers/2019/gina-marie-maini.jpg
