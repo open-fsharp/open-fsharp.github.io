@@ -298,6 +298,8 @@
     blogUrl: https://praeclarum.org
     bioDetail:
     talks:
+      - title: TBA
+        level: bear
   - name: GINA MARIE MAINI
     speakerUrl: "speakers/2019/gina-marie-maini"
     imageUrl: public/assets/speakers/2019/gina-marie-maini.jpg
@@ -716,3 +718,19 @@
           - network
           - libuv
           - F# with c99
+  - name: BRETT ROWBERRY
+    speakerUrl: speakers/2019/brett-rowberry
+    imageUrl: public/assets/speakers/2019/placeholder.png
+    imageAltText: Placeholder for Brett Rowberry
+    bio:
+    twitterUrl: https://twitter.com/BrettRowberry
+    bioDetail: |
+      <p>I’ve been doing enterprise .NET development since 2016 and F# found me through a C# course on Pluralsight. I live in Houston with my beautiful wife and energetic son.</p>
+    talks:
+      - title: Unit Conversion Service
+        level: bear
+        time:
+        abstract: |
+          <p>Let’s see how F# language features make it simple to create a unit conversion service and deploy it to Azure Functions.</p>
+        type: hands-on
+        tags:

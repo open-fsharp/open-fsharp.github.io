@@ -1,0 +1,29 @@
+{% assign speaker = site.data.speakers[page.year] | where: "name", include.speakerKey | first %}
+{% assign talk = speaker.talks | where: "title", include.talkKey | first %}
+
+<div>
+    <a href="{{ site.baseurl }}{{speaker.speakerUrl}}">
+        <img src="{{ site.baseurl }}{{speaker.imageUrl}}" alt="{{speaker.imageAltText}}">
+        <div class="title">{{ talk.title }}</div>
+        <div>{{speaker.name}}</div>
+    </a>
+    <div class="schedule-speaker-tag">
+        <div class="speaker-tag">
+            <ul class="tag">
+                {% for tag in talk.tags %}
+                <li><a href="#">{{ tag }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="talk-level">
+            {% case talk.level %}
+            {% when 'bear' %}
+            <img src="{{ site.baseurl }}public/assets/animals/bear.png" alt="This {{ talk.type }} is Bear level" />
+            {% when 'bunny' %}
+            <img src="{{ site.baseurl }}public/assets/animals/bunny.png" alt="This {{ talk.type }} is Bunny level" />
+            {% when 'tiger' %}
+            <img src="{{ site.baseurl }}public/assets/animals/tiger.png" alt="This {{ talk.type }} is Tiger level" />
+            {% endcase %}
+        </div>
+    </div>
+</div>
