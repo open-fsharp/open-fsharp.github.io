@@ -28,9 +28,9 @@
     altText: Silver Sponsor .NET Foundation
 2019:
   platinumSponsors:
-  - siteUrl: https://jet.com/
-    imagePath: public/assets/sponsors/2019/jet.png
-    altText: Platinum Sponsor Jet.com
+  - siteUrl: https://www.walmartlabs.com/
+    imagePath: public/assets/sponsors/2019/walmart-labs.svg
+    altText: Platinum Sponsor Walmart Labs
   - siteUrl: http://www.tachyus.com/
     imagePath: public/assets/sponsors/2019/tachyus.svg
     altText: Platinum Sponsor Tachyus
