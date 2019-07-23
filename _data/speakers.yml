@@ -397,7 +397,7 @@
     talks:
       - title: Learning F# on the job as a programming novice
         level: bunny
-        time: 16:00
+        time: "16:00"
         date: September 26th, 2019
         abstract: |
           <p>Demetrix is a biotech start-up built on Fsharp infrastructure.  We have some great Fsharp developers along with a lot of scientists and engineers that are relatively new to programming.  I'm in the latter camp.  I'll give some impressions and lessons learned from those of us learning F# as our first programming language.</p>
@@ -405,6 +405,29 @@
         tags:
           - fsharp
           - first-language
+  - name: MARNEE DEARMAN
+    speakerUrl: speakers/2019/marnee-dearman
+    imageUrl: public/assets/speakers/2019/marnee-dearman.jpg
+    imageAltText: Marnee Dearman
+    bio: You can't stop the signal
+    twitterUrl: marneedear
+    blogUrl: https://marnee.silvrback.com
+    bioDetail: |
+      <p>I am the Chief Applications Architect at the University of Arizona, College of Medicine - Tucson. I am a licensed amateur radio operator and spend most of my free time getting involved in amateur radio, especially software applications in packet radio.</p>
+    talks:
+      - title: "F# and amateur radio: A match made in heaven"
+        level: tiger
+        time: "16:00"
+        date: September 26th, 2019
+        abstract: |
+          <p>How I used F# and .NET Core to develop a customizable APRS messaging system, for amateur radio communications networks, that runs on a Raspberry Pi and inexpensive radio equipment. I will cover how I used F# to implement the APRS specification and develop a user-defined message format.</p>
+        type: talk
+        tags:
+          - functional domain modeling
+          - amateur radio
+          - communication protocols
+          - mesh networks
+          - emergency communications
   - name: RYAN KILKENNY
     speakerUrl: speakers/2019/ryan-kilkenny
     imageUrl: public/assets/speakers/2019/ryan-kilkenny.png
