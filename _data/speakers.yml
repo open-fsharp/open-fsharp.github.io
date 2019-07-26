@@ -587,7 +587,7 @@
       </p>
     talks:
       - title: "F# in 2020"
-        level: tiger
+        level: bear
         time: "15:00"
         date: September 27th, 2019
         abstract: |
@@ -637,7 +637,7 @@
       <p>Principal Software Engineer at Wyatt Technology</p>
     talks:
       - title: Using Free Monads to Simplify Workflows
-        level: bear
+        level: tiger
         time: "11:00"
         date: September 27th, 2019
         abstract: |
@@ -658,7 +658,7 @@
       <p>I am a Senior Software Engineer in cloud infrastructure management.</p>
     talks:
       - title: Realtime Data with Bolero and SignalR
-        level: tiger
+        level: bear
         time: "14:00"
         date: September 27th, 2019
         abstract: |
@@ -770,7 +770,7 @@
       <p>I’ve been doing enterprise .NET development since 2016 and F# found me through a C# course on Pluralsight. I live in Houston with my beautiful wife and energetic son.</p>
     talks:
       - title: Unit Conversion Service
-        level: bear
+        level: bunny
         time: "11:00"
         date: September 27th, 2019
         abstract: |
