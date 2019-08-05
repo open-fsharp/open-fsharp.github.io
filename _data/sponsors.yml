@@ -34,6 +34,10 @@
   - siteUrl: http://www.tachyus.com/
     imagePath: public/assets/sponsors/2019/tachyus.svg
     altText: Platinum Sponsor Tachyus
+  goldSponsors:
+  - siteUrl: http://www.fsharp.org/
+    imagePath: public/assets/sponsors/2019/fsharp.png
+    altText: Gold Sponsor F# Software Foundation
   silverSponsors:
   - siteUrl: https://www.olo.com/
     imagePath: public/assets/sponsors/2019/olo.jpg
