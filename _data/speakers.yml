@@ -724,7 +724,8 @@
     talks:
       - title: Quantum Mechanics for Functional Programmers
         level: tiger
-        time:
+        time: "12:00"
+        date: "September 27th, 2019"
         abstract: |
           <p>Quantum mechanics is the branch of physics that studies how the universe works at the smallest scales.  It has given us technologies like semiconductors, lasers, LEDs, and electron microscopes, and promises even more exciting applications like quantum computing.</p>
           <p>The quantum world is notoriously difficult to understand, since few of our intuitions about physics apply at the subatomic scale.  But not so for functional programmers!  Many of the mathematical ideas that we use to understand the quantum world, like Hilbert space, operators, tensors, and group representations, can all be understood in terms of functions.  In this talk, I'll use familiar concepts like composition, partial application, and currying to make the foundations of the subject clear and show how to solve some basic problems in F#.  At the end, I'll show how these techniques can be used to model a simple quantum computer.</p>
