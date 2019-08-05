@@ -24,7 +24,7 @@
                         </div>
                     </div>
                 </div><!-- /.platinum-sponsor -->
-                {% endif% }
+                {% endif %}
                 {% assign goldSponsors = sponsors.goldSponsors %}
                 {% if goldSponsors %}
                 <div class="ccr-sponsor">
@@ -36,7 +36,7 @@
                                     {% for sponsor in goldSponsors %}
                                     <div class="gold-item-inner">
                                         <a href="{{sponsor.siteUrl}}" target="_blank">
-                                            <img class="gold-item-large" src="{{ site.baseurl }}{{sponsor.imagePath}}" alt="{{altText}}">
+                                            <img class="gold-item" src="{{ site.baseurl }}{{sponsor.imagePath}}" alt="{{altText}}">
                                         </a>
                                     </div>
                                     {% endfor %}

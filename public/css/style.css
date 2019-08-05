@@ -1048,7 +1048,7 @@ li.menu-item-has-children>a::before {
 }
 
 .platinum-item {
-	width: 65%;
+	width: 100%;
 	min-width: 250px;
 }
 
@@ -1061,12 +1061,8 @@ li.menu-item-has-children>a::before {
 	margin-right: 15px;
 }
 
-.gold-item-large {
-	width: 100%;
-}
-
 .gold-item {
-	width: 65%;
+	width: 100%;
 }
 
 .gold-item-inner {
