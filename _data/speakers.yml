@@ -188,7 +188,7 @@
     talks:
       - title: User-friendly apps start with dev-friendly tools
         level: bear
-        time: "16:00"
+        date: "2019-09-27 16:00:00"
         abstract: |
           <p>As developers we use libraries every day to make our lives easier, but sometimes learning how to use them becomes more complex than the task they're supposed to solve.</p>
           <p>During this talk I will share my experience creating libraries for the Fable ecosystem, as well as some advice to design and evolve user-friendly APIs.</p>
@@ -196,7 +196,7 @@
         tags:
     workshop:
       title: Taming Your Web App w/ Elmish
-      time: Wed, Sept. 25th @ 09:00 AM (Workshop)
+      date: "2019-09-25 09:00:00"
       type: Deep Dive
       abstract: |
         <p>
@@ -227,8 +227,7 @@
     talks:
       - title: Lego Bricks, Railway Tracks, and Paper Swans (Building Blocks From The Functional World)
         level: bear
-        time: "10:00"
-        date: September 27th, 2019
+        date: "2019-09-27 10:00:00"
         abstract: |
           <p>Sometimes it feels like Functional Programmers speak in a different language.
           They use complicated words, arcane math terms, and it isn't immediately obvious why any of what they talk about matters for day-to-day work.
@@ -258,8 +257,7 @@
     talks:
       - title: The F#er's Functional Programming Toolkit
         level: bunny
-        time: "10:30"
-        date: September 26th, 2019
+        date: "2019-09-26 10:30:00"
         abstract: |
           <p>The techniques and patterns used in functional programming are very different from object-oriented programming, and when you are just starting out it can be hard to know how they all fit together.</p>
           <p>In this talk for F# beginners, I'll present the most common tools that can be found in a functional programmer's toolkit: tools such as "compose", "reduce", "map", "return", "apply", and "bind". What are they? Why are they important? How are they used in practice? And how do they relate to computation expressions and scary sounding concepts like monoids, monads, and functors?</p>
@@ -267,7 +265,7 @@
         tags:
     workshop:
       title: Domain Modeling Made Functional
-      time: Wed, Sept. 25th @ 09:00 AM (Workshop)
+      date: "2019-09-25 09:00:00"
       type: Deep Dive
       abstract: |
         <p>
@@ -302,8 +300,7 @@
     talks:
       - title: TBA
         level: bear
-        date: September 26th, 2019
-        time: "10:30"
+        date: "2019-09-26 10:30:00"
   - name: GINA MARIE MAINI
     speakerUrl: "speakers/2019/gina-marie-maini"
     imageUrl: public/assets/speakers/2019/gina-marie-maini.jpg
@@ -314,8 +311,7 @@
     talks:
       - title: Future Proof Library Design, Examples in F#
         level: bear
-        time: "09:00"
-        date: September 27th, 2019
+        date: "2019-09-27 09:00:00"
         abstract:
         type: talk
         tags:
@@ -334,7 +330,7 @@
       </p>
     workshop:
       title: F# Introduction
-      time: Wed, Sept. 25th @ 09:00 AM (Workshop)
+      date: "2019-09-25 09:00:00"
       type: Deep Dive
       abstract: |-
         <p>
@@ -376,8 +372,7 @@
     talks:
       - title: Ionide - A OSS Story
         level: bunny
-        date: September 26th, 2019
-        time: "09:15"
+        date: "2019-09-26 09:15:00"
         abstract: |
           <p>Over the last few years Ionide has become one of the most important projects in F# ecosystem. It's used by thousands of users, listed on official Microsoft webpage about F#, suggested as one of the starting points with F# in the official documentation. And, what's most important, it's loved and supported by the community - either by contributions to source code and documentation, positive comments on the VSCode marketplace or support on Open Collective.</p>
           <p>In this talk, I'd like to make a walkthrough Ionide's history - from the lucky chain of events that resulted in Ionide's creation almost 5 years ago, through the difficult process of making Ionide serious IDE, to working on it full time. And talk about its future...</p>
@@ -397,8 +392,7 @@
     talks:
       - title: Learning F# on the job as a programming novice
         level: bunny
-        time: "16:00"
-        date: September 26th, 2019
+        date: "2019-09-26 16:00:00"
         abstract: |
           <p>Demetrix is a biotech start-up built on Fsharp infrastructure.  We have some great Fsharp developers along with a lot of scientists and engineers that are relatively new to programming.  I'm in the latter camp.  I'll give some impressions and lessons learned from those of us learning F# as our first programming language.</p>
         type: talk
@@ -417,8 +411,7 @@
     talks:
       - title: "F# and amateur radio: A match made in heaven"
         level: tiger
-        time: "16:00"
-        date: September 26th, 2019
+        date: "2019-09-26 16:00:00"
         abstract: |
           <p>How I used F# and .NET Core to develop a customizable APRS messaging system, for amateur radio communications networks, that runs on a Raspberry Pi and inexpensive radio equipment. I will cover how I used F# to implement the APRS specification and develop a user-defined message format.</p>
         type: talk
