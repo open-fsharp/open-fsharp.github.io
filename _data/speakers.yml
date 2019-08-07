@@ -188,7 +188,7 @@
     talks:
       - title: User-friendly apps start with dev-friendly tools
         level: bear
-        time: "16:00"
+        date: "2019-09-27 16:00:00"
         abstract: |
           <p>As developers we use libraries every day to make our lives easier, but sometimes learning how to use them becomes more complex than the task they're supposed to solve.</p>
           <p>During this talk I will share my experience creating libraries for the Fable ecosystem, as well as some advice to design and evolve user-friendly APIs.</p>
@@ -196,7 +196,7 @@
         tags:
     workshop:
       title: Taming Your Web App w/ Elmish
-      time: Wed, Sept. 25th @ 09:00 AM (Workshop)
+      date: "2019-09-25 09:00:00"
       type: Deep Dive
       abstract: |
         <p>
@@ -227,8 +227,7 @@
     talks:
       - title: Lego Bricks, Railway Tracks, and Paper Swans (Building Blocks From The Functional World)
         level: bear
-        time: "10:00"
-        date: September 27th, 2019
+        date: "2019-09-27 10:00:00"
         abstract: |
           <p>Sometimes it feels like Functional Programmers speak in a different language.
           They use complicated words, arcane math terms, and it isn't immediately obvious why any of what they talk about matters for day-to-day work.
@@ -258,8 +257,7 @@
     talks:
       - title: The F#er's Functional Programming Toolkit
         level: bunny
-        time: "10:30"
-        date: September 26th, 2019
+        date: "2019-09-26 10:30:00"
         abstract: |
           <p>The techniques and patterns used in functional programming are very different from object-oriented programming, and when you are just starting out it can be hard to know how they all fit together.</p>
           <p>In this talk for F# beginners, I'll present the most common tools that can be found in a functional programmer's toolkit: tools such as "compose", "reduce", "map", "return", "apply", and "bind". What are they? Why are they important? How are they used in practice? And how do they relate to computation expressions and scary sounding concepts like monoids, monads, and functors?</p>
@@ -267,7 +265,7 @@
         tags:
     workshop:
       title: Domain Modeling Made Functional
-      time: Wed, Sept. 25th @ 09:00 AM (Workshop)
+      date: "2019-09-25 09:00:00"
       type: Deep Dive
       abstract: |
         <p>
@@ -302,8 +300,7 @@
     talks:
       - title: TBA
         level: bear
-        date: September 26th, 2019
-        time: "10:30"
+        date: "2019-09-26 10:30:00"
   - name: GINA MARIE MAINI
     speakerUrl: "speakers/2019/gina-marie-maini"
     imageUrl: public/assets/speakers/2019/gina-marie-maini.jpg
@@ -314,8 +311,7 @@
     talks:
       - title: Future Proof Library Design, Examples in F#
         level: bear
-        time: "09:00"
-        date: September 27th, 2019
+        date: "2019-09-27 09:00:00"
         abstract:
         type: talk
         tags:
@@ -334,7 +330,7 @@
       </p>
     workshop:
       title: F# Introduction
-      time: Wed, Sept. 25th @ 09:00 AM (Workshop)
+      date: "2019-09-25 09:00:00"
       type: Deep Dive
       abstract: |-
         <p>
@@ -376,8 +372,7 @@
     talks:
       - title: Ionide - A OSS Story
         level: bunny
-        date: September 26th, 2019
-        time: "09:15"
+        date: "2019-09-26 09:15:00"
         abstract: |
           <p>Over the last few years Ionide has become one of the most important projects in F# ecosystem. It's used by thousands of users, listed on official Microsoft webpage about F#, suggested as one of the starting points with F# in the official documentation. And, what's most important, it's loved and supported by the community - either by contributions to source code and documentation, positive comments on the VSCode marketplace or support on Open Collective.</p>
           <p>In this talk, I'd like to make a walkthrough Ionide's history - from the lucky chain of events that resulted in Ionide's creation almost 5 years ago, through the difficult process of making Ionide serious IDE, to working on it full time. And talk about its future...</p>
@@ -397,8 +392,7 @@
     talks:
       - title: Learning F# on the job as a programming novice
         level: bunny
-        time: "16:00"
-        date: September 26th, 2019
+        date: "2019-09-26 16:00:00"
         abstract: |
           <p>Demetrix is a biotech start-up built on Fsharp infrastructure.  We have some great Fsharp developers along with a lot of scientists and engineers that are relatively new to programming.  I'm in the latter camp.  I'll give some impressions and lessons learned from those of us learning F# as our first programming language.</p>
         type: talk
@@ -417,8 +411,7 @@
     talks:
       - title: "F# and amateur radio: A match made in heaven"
         level: tiger
-        time: "16:00"
-        date: September 26th, 2019
+        date: "2019-09-26 16:00:00"
         abstract: |
           <p>How I used F# and .NET Core to develop a customizable APRS messaging system, for amateur radio communications networks, that runs on a Raspberry Pi and inexpensive radio equipment. I will cover how I used F# to implement the APRS specification and develop a user-defined message format.</p>
         type: talk
@@ -441,8 +434,7 @@
     talks:
       - title: Text Adventures In Babysitting
         level: bunny
-        time: "11:40"
-        date: September 26th, 2019
+        date: "2019-09-26 11:40:00"
         abstract: |
           <p>FsLamp is a text adventure engine written in F#. It was developed out of a learning project meant to improve F# skills, game design skills, and hopefully pave the path towards future game development with natural language processing. In this talk we'll take a look at the game engine implementation and learn how to write interactive fiction games in F#.</p>
         type: talk
@@ -464,7 +456,7 @@
       <p>Riccardo is an information systems and technology professional and architect specializing in software & systems development. He has over 20 years’ experience delivering cost-effective technology solutions in the competitive business environment. Riccardo is passionate about integrating advanced technology tools to increase internal efficiency, enhance work productivity, and reduce operating costs. He is a Microsoft Most Valuable Professional (MVP) who is active in the .Net, functional programming, and F# communities. Riccardo believes in multi-paradigm programming to maximize the power of code and is the author of "Functional Concurrency in .NET”; which, features how to develop highly-scalable systems in F# & C#.</p>
     workshop:
       title: Actor Clustering with Docker Containers and Akka.Net in F#
-      time: Wed, Sept. 25th @ 09:00 AM (Workshop)
+      date: "2019-09-25 09:00:00"
       type: Deep Dive
       abstract: |
         <p>
@@ -494,8 +486,7 @@
     talks:
       - title: "A Map to Success: Functional Programming for Database Developers"
         level: bunny
-        time: "14:00"
-        date: September 26th, 2019
+        date: "2019-09-26 14:00:00"
         abstract: |
           <p>Over the past several years, we have seen a resurgence of interest in functional programming languages, particularly with the success of Scala and R in the marketplace. Although object-oriented (oo) design remains the dominant software development paradigm, even oo-first languages have seen a shift toward the functional mindset with the emphasis on LINQ in C# and lambdas in Java. This move toward a functional style should be particularly welcome for data platform specialists, who already have a leg up in understanding functional programming concepts thanks to their work with SQL.</p>
           <p>In this talk, we will focus on one functional programming language, F#. We will look at some of the basics of the language and see how you can translate knowledge of SQL into a pipeline-driven functional programming language. We will also see areas where F# integrates smoothly with SQL, creating a powerful way to extend your SQL skills beyond queries.</p>
@@ -525,8 +516,7 @@
     talks:
       - title: Browser-based intensive computation with F#
         level: tiger
-        time: "15:00"
-        date: September 26th, 2019
+        date: "2019-09-26 15:00:00"
         abstract: |
           <p>
             For some applications you want to run computationally intensive code in the browser for cost, privacy, or simplicity reasons.
@@ -555,8 +545,7 @@
     talks:
       - title: "#NoMemAlloc"
         level: tiger
-        time: "09:00"
-        date: September 27th, 2019
+        date: "2019-09-27 09:00:00"
         abstract: "<p>Functional languages have a bad reputation of allocating memory like crazy. But F#, built on .Net core , has many constructs to write code that make no allocation, like we could do in C or Rust. We'll explore Span<'t>, Memory<'t>, IsByRefLike in a F# idiomatic and functional way by writing a simple Video decoder that makes #NoMemAlloc.</p>"
         type: hands-on
         tags:
@@ -566,7 +555,7 @@
           - video
     workshop:
       title: Functional Event Sourcing
-      time: Wed, Sept. 25th @ 09:00 AM (Workshop)
+      date: "2019-09-25 09:00:00"
       type: Deep Dive
       abstract: |
         <p>
@@ -588,8 +577,7 @@
     talks:
       - title: "F# in 2020"
         level: bear
-        time: "15:00"
-        date: September 27th, 2019
+        date: "2019-09-27 15:00:00"
         abstract: |
           <p>Over the past year, a lot has happened for F#! Multiple releases of the language, multiple tooling releases in a variety of tools, and stronger community engagement for F# on the web and F# for machine learning have led to a larger and more diverse livelihood for F#. In this talk, Phillip will recap some of the great things in 2019 before pivoting into what he'll be focusing on for the next year. Part roadmap and part predictions, this talk will go over what you can expect in 2020 and what Phillip would personally love to see happen.</p>
         type: talk
@@ -613,8 +601,7 @@
     talks:
       - title: "Developing a Fabulous Mobile App"
         level: bunny
-        time: "15:00"
-        date: September 26th, 2019
+        date: "2019-09-026 15:00:00"
         abstract: |
           <p>This talk will start by covering the Elmish/MVU pattern and how you can leverage it along with F#'s domain modeling super powers to structure your mobile application.  Then we'll talk about Fabulous and  Xamarin Forms while we walk though a mobile prototype that I worked on for a local startup.</p>
         type: talk
@@ -638,8 +625,7 @@
     talks:
       - title: Using Free Monads to Simplify Workflows
         level: tiger
-        time: "11:00"
-        date: September 27th, 2019
+        date: "2019-09-27 11:00:00"
         abstract: |
           <p>At Wyatt Technology one of our products is used to run workflows during pharmaceutical production. These workflows monitor analytical instruments and control pump hardware, as well as integrating with the rest of the customer's production control system. Our first cut at implementing one of these workflows resulted in a thousand lines of state machine code that was a convoluted mess of nested matches on nested discriminated unions. While some of the code was reusable for other workflows, it was very much not clear how to extract it into a reusable form. Enter free monads and computation expressions. Using this technique we were able create a system of reusable building blocks that make it easy to write understandable workflow code (with dramatically reduced line counts). Error handling, pause/resume, and state saving/restoring is factored out so that it doesn't complicate the workflow code itself. In this workshop I'll show how to create a system of this sort.</p>
         type: hands-on
@@ -659,8 +645,7 @@
     talks:
       - title: Realtime Data with Bolero and SignalR
         level: bear
-        time: "14:00"
-        date: September 27th, 2019
+        date: "2019-09-27 14:00:00"
         abstract: |
           <p>I'd like to present WASM, Bolero and SignalR. An application that demonstrates a server connecting to an external websocket that provides pricing data to the Bolero/Elmish front end would be demo'ed. Extra credit will be to show data visualization using a library like Rickshaw. This extra credit would involve Javascript/Bolero interop. The outline would start with an overview of Bolero/WASM and a segment on SignalR focused on the possibilities that realtime applications bring to user experience. I'd like to connect the future possibilities of realtime data with the fsharp strength in data manipulation. I'd also to talk about the freedom that WASM brings to front end developers to choose other languages that may be better suited to a task. The demonstration would be provided at the end of the talk.</p>
         type: talk
@@ -682,8 +667,7 @@
     talks:
       - title: "An introduction to profiling and performance analysis in .NET Core 3"
         level: bear
-        time: "11:00"
-        date: September 27th, 2019
+        date: "2019-09-27 11:00:00"
         abstract: |
           <p>One of the big motivations for my company's move to .Net Core was the promise of easier debugging and tracing tools. Now with the .Net SDK 3.- line, we have a suite of analysis tools that are easy to get started with and very helpful for diagnosing issues in a cross-platform way.  This talk will introduce these tools and give examples of how they can be used to profile your own applications easily and for great impact!</p>
         type: talk
@@ -704,8 +688,7 @@
     talks:
       - title: "Abstracting IO using F#"
         level: tiger
-        time: "11:40"
-        date: September 26th, 2019
+        date: "2019-09-26 11:40:00"
         abstract: |
           <p>In the world of cloud-native applications, IO is everywhere. Dealing with IO can be complicated especially in enterprise level software. This talk describes an approach to abstracting IO access patterns using F# and Domain Driven Design into a set of simple to use interfaces. The same interfaces abstract the complexity of the underlying infrastructure from business functionality while maintaining consistent behaviors around retries, error handling, and observability.</p>
         type: talk
@@ -724,8 +707,7 @@
     talks:
       - title: Quantum Mechanics for Functional Programmers
         level: tiger
-        time: "12:00"
-        date: "September 27th, 2019"
+        date: "2019-09-27 12:00:00"
         abstract: |
           <p>Quantum mechanics is the branch of physics that studies how the universe works at the smallest scales.  It has given us technologies like semiconductors, lasers, LEDs, and electron microscopes, and promises even more exciting applications like quantum computing.</p>
           <p>The quantum world is notoriously difficult to understand, since few of our intuitions about physics apply at the subatomic scale.  But not so for functional programmers!  Many of the mathematical ideas that we use to understand the quantum world, like Hilbert space, operators, tensors, and group representations, can all be understood in terms of functions.  In this talk, I'll use familiar concepts like composition, partial application, and currying to make the foundations of the subject clear and show how to solve some basic problems in F#.  At the end, I'll show how these techniques can be used to model a simple quantum computer.</p>
@@ -748,8 +730,7 @@
     talks:
       - title: 5 Millions bid request/s, 2ms Max Response Time - The Road to Damascus
         level: tiger
-        time: "14:00"
-        date: September 26th, 2019
+        date: "2019-09-26 14:00:00"
         abstract: |
           <p>High performance real-time bidding using CoreCLR/F# and LibUV</p>
         type: talk
@@ -772,8 +753,7 @@
     talks:
       - title: Unit Conversion Service
         level: bunny
-        time: "11:00"
-        date: September 27th, 2019
+        date: "2019-09-27 11:00:00"
         abstract: |
           <p>Let’s see how F# language features make it simple to create a unit conversion service and deploy it to Azure Functions.</p>
         type: hands-on

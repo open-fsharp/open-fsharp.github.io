@@ -7,7 +7,7 @@
         <div class="speaker-talk">
             <div class="section-head">
                 <h2 class="header-title">{{ workshop.title }}</h2>
-                    <p class="header-desc">{% if workshop.time %}{{ workshop.time }}{% else %}Check back soon for scheduling!{% endif %}</p>
+                    <p class="header-desc">{{ workshop.date | date: "%A, %B %d @ %k:%M" }} (Workshop)</p>
             </div>
             <div>
                 {% if workshop.abstract %}
@@ -35,7 +35,7 @@
         <div class="speaker-talk">
             <div class="section-head">
                 <h2 class="header-title">{{ talk.title }}</h2>
-                    <p class="header-desc">{% if talk.time %}{{talk.date}} @ {{ talk.time | date: "%H:%M" }}{% else %}Check back soon for scheduling!{% endif %}</p>
+                    <p class="header-desc">{{ talk.date | date: "%A, %B %d @ %k:%M" }}</p>
             </div>
             <div>
                 {% if talk.abstract %}
