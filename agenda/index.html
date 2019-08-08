@@ -40,12 +40,7 @@ year: 2019
 
             <h2 class="time-slot" style="grid-row: time-0800;">8:00am</h2>
 
-            <div class="session session-1 track-1" style="grid-column: track-1; grid-row: time-0800 / time-0900;">
-                <h3 class="session-title"><a href="#">Talk Title</a></h3>
-                <span class="session-time">8:00 - 9:00</span>
-                <span class="session-track">Track: 1</span>
-                <span class="session-presenter">Presenter</span>
-            </div>
+            {% include schedule-item-grid.html speakerKey='KRZYSZTOF CIESLAK' talkKey='Ionide - A OSS Story' room='a' tracks='track1' times='time-0800 / time-0900' %}
 
             <div class="session session-2 track-2" style="grid-column: track-2; grid-row: time-0800 / time-0830;">
                 <h3 class="session-title"><a href="#">Talk Title</a></h3>
