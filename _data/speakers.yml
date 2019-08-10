@@ -601,6 +601,7 @@
     talks:
       - title: "Developing a Fabulous Mobile App"
         level: bunny
+        date: "2019-09-26 15:00:00"
         abstract: |
           <p>This talk will start by covering the Elmish/MVU pattern and how you can leverage it along with F#'s domain modeling super powers to structure your mobile application.  Then we'll talk about Fabulous and  Xamarin Forms while we walk though a mobile prototype that I worked on for a local startup.</p>
         type: talk
