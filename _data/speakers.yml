@@ -298,7 +298,7 @@
     blogUrl: https://praeclarum.org
     bioDetail:
     talks:
-      - title: TBA
+      - title: "Why I wish I wrote my App in F#"
         level: bear
         date: "2019-09-26 10:30:00"
   - name: GINA MARIE MAINI
