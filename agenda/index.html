@@ -38,53 +38,103 @@ year: 2019
                 <span>Room C</span>
             </span>
 
-            <h2 class="time-slot" style="grid-row: time-0800;">8:00am</h2>
+            <h2 class="time-slot" style="grid-row: time-0830;">0830</h2>
+            <h2 class="time-slot" style="grid-row: time-0900;">0900</h2>
+            <h2 class="time-slot" style="grid-row: time-0930;">0930</h2>
+            <h2 class="time-slot" style="grid-row: time-1000;">1000</h2>
+            <h2 class="time-slot" style="grid-row: time-1030;">1030</h2>
+            <h2 class="time-slot" style="grid-row: time-1100;">1100</h2>
+            <h2 class="time-slot" style="grid-row: time-1130;">1130</h2>
+            <h2 class="time-slot" style="grid-row: time-1200;">1200</h2>
+            <h2 class="time-slot" style="grid-row: time-1230;">1230</h2>
+            <h2 class="time-slot" style="grid-row: time-1300;">1300</h2>
+            <h2 class="time-slot" style="grid-row: time-1330;">1330</h2>
+            <h2 class="time-slot" style="grid-row: time-1400;">1400</h2>
+            <h2 class="time-slot" style="grid-row: time-1430;">1430</h2>
+            <h2 class="time-slot" style="grid-row: time-1500;">1500</h2>
+            <h2 class="time-slot" style="grid-row: time-1530;">1530</h2>
+            <h2 class="time-slot" style="grid-row: time-1600;">1600</h2>
+            <h2 class="time-slot" style="grid-row: time-1630;">1630</h2>
 
-            {% include schedule-item-grid.html speakerKey='KRZYSZTOF CIESLAK' talkKey='Ionide - A OSS Story' room='a' tracks='track1' times='time-0800 / time-0900' %}
 
-            <div class="session session-2 track-2" style="grid-column: track-2; grid-row: time-0800 / time-0830;">
-                <h3 class="session-title"><a href="#">Talk Title</a></h3>
-                <span class="session-time">8:00 - 8:30</span>
-                <span class="session-track">Track: 2</span>
-                <span class="session-presenter">Presenter</span>
+
+
+            <div class="session track-all"
+                style="grid-column: track-1-start / track-3-end; grid-row: time-0830 / time-0900;">
+                <h3 class="session-title">Breakfast / Registration</h3>
             </div>
 
-            <div class="session session-3 track-3" style="grid-column: track-3; grid-row: time-0800 / time-0830;">
+            <div class="session track-all"
+                style="grid-column: track-1-start / track-3-end; grid-row: time-0900 / time-0915;">
+                <h3 class="session-title">Welcome to Open F# 2019!</h3>
+            </div>
+
+            {% include schedule-item-grid.html speakerKey='KRZYSZTOF CIESLAK' talkKey='Ionide - A OSS Story' room='a' tracks='track-1-start / track-3-end' times='time-0915 / time-1005' %}
+
+            <div class="session track-all"
+                style="grid-column: track-1-start / track-3-end; grid-row: time-1005 / time-1030;">
+                <h3 class="session-title">Take a break!</h3>
+            </div>
+
+            <!--<div class="session session-3 track-3" style="grid-column: track-3; grid-row: time-0800 / time-0830;">
                 <h3 class="session-title"><a href="#">Talk Title</a></h3>
                 <span class="session-time">8:00 - 8:30</span>
                 <span class="session-track">Track: 3</span>
                 <span class="session-presenter">Presenter</span>
+            </div> -->
+
+            {% include schedule-item-grid.html speakerKey='SCOTT WLASCHIN' talkKey="The F#er's Functional Programming Toolkit" room='a' tracks='track-1-start / track-1-end' times='time-1030 / time-1120' %}
+            {% include schedule-item-grid.html speakerKey='FRANK KRUEGER' talkKey="Why I wish I wrote my App in F#" room='b' tracks='track-2-start / track-2-end' times='time-1030 / time-1120' %}
+
+            <div class="session track-all"
+                style="grid-column: track-1-start / track-3-end; grid-row: time-1120 / time-1140;">
+                <h3 class="session-title">Take a break!</h3>
             </div>
 
-            <h2 class="time-slot" style="grid-row: time-0830;">8:30am</h2>
+            {% include schedule-item-grid.html speakerKey='RYAN KILKENNY' talkKey="Text Adventures In Babysitting" room='a' tracks='track-1-start / track-1-end' times='time-1140 / time-1230' %}
+            {% include schedule-item-grid.html speakerKey='GAD BERGER' talkKey="Abstracting IO using F#" room='b' tracks='track-2-start / track-2-end' times='time-1140 / time-1230' %}
 
+            <div class="session track-all"
+                style="grid-column: track-1-start / track-3-end; grid-row: time-1230 / time-1400;">
+                <h3 class="session-title">Lunch</h3>
+            </div>
+
+            {% include schedule-item-grid.html speakerKey='KEVIN FEASEL' talkKey="A Map to Success: Functional Programming for Database Developers" room='a' tracks='track-1-start / track-1-end' times='time-1400 / time-1450' %}
+            {% include schedule-item-grid.html speakerKey='WAEL EL ORAIBY' talkKey="5 Millions bid request/s, 2ms Max Response Time - The Road to Damascus" room='b' tracks='track-2-start / track-2-end' times='time-1400 / time-1450' %}
+
+            <div class="session track-all"
+                style="grid-column: track-1-start / track-3-end; grid-row: time-1450 / time-1500;">
+                <h3 class="session-title">Take a break!</h3>
+            </div>
+
+            {% include schedule-item-grid.html speakerKey='ERIC HARDING' talkKey="Developing a Fabulous Mobile App" room='a' tracks='track-1-start / track-1-end' times='time-1500 / time-1550' %}
+            {% include schedule-item-grid.html speakerKey='COLIN GRAVILL' talkKey="Browser-based intensive computation with F#" room='b' tracks='track-2-start / track-2-end' times='time-1500 / time-1550' %}
+
+            <div class="session track-all"
+                style="grid-column: track-1-start / track-3-end; grid-row: time-1550 / time-1600;">
+                <h3 class="session-title">Take a break!</h3>
+            </div>
+<!--
             <div class="session session-5 track-3" style="grid-column: track-3; grid-row: time-0830 / time-1000;">
                 <h3 class="session-title"><a href="#">Talk Title</a></h3>
                 <span class="session-time">8:30 - 10:00</span>
                 <span class="session-track">Track: 1</span>
                 <span class="session-presenter">Presenter</span>
-            </div>
+            </div> -->
 
-            <h2 class="time-slot" style="grid-row: time-0900;">9:00am</h2>
-
-            <div class="session session-6 track-1"
+            <!-- <div class="session session-6 track-1"
                 style="grid-column: track-1-start / track-2-end; grid-row: time-0900 / time-1000;">
                 <h3 class="session-title"><a href="#">Talk Title</a></h3>
                 <span class="session-time">9:00 - 10:00</span>
                 <span class="session-track">Track: 1 & 2</span>
                 <span class="session-presenter">Presenter</span>
-            </div>
+            </div> -->
 
-            <h2 class="time-slot" style="grid-row: time-1000;">10:00am</h2>
 
-            <div class="session session-7 track-all"
-                style="grid-column: track-1-start / track-3-end; grid-row: time-1000 / time-1030;">
-                <h3 class="session-title">Take a break!</h3>
-            </div>
 
-            <h2 class="time-slot" style="grid-row: time-1030;">10:30am</h2>
 
-            <div class="session session-8 track-1" style="grid-column: track-1; grid-row: time-1030 / time-1130;">
+
+            <!-- <div class="session session-8 track-1" style="grid-column: track-1; grid-row: time-1030 / time-1130;">
                 <h3 class="session-title"><a href="#">Talk Title</a></h3>
                 <span class="session-time">10:30 - 11:30</span>
                 <span class="session-track">Track: 1</span>
@@ -113,7 +163,7 @@ year: 2019
                 <span class="session-time">11:00 - 12:00</span>
                 <span class="session-track">Track: 3</span>
                 <span class="session-presenter">Presenter</span>
-            </div>
+            </div> -->
 
         </div>
     </div>
