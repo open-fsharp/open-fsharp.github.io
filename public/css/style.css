@@ -1100,7 +1100,6 @@ li.menu-item-has-children>a::before {
 	color: #fff;
 }
 
-
 .track-all {
 	display: flex;
 	justify-content: center;
@@ -1108,6 +1107,20 @@ li.menu-item-has-children>a::before {
 	background: #ccc;
 	color: #000;
 	box-shadow: none;
+}
+
+.lightning-track {
+	display: flex;
+	flex-direction: column;
+}
+
+.lightning-talks {
+	display: flex
+}
+
+.lightning-talk {
+	padding: 5px;
+	width: 75%;
 }
 
 .text {
