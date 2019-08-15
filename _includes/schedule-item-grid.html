@@ -7,27 +7,4 @@
 <div class="session room-{{room}}" style="grid-column: {{tracks}}; grid-row: {{times}};">
     <h3 class="session-title"><a href="{{ site.baseurl }}{{speaker.speakerUrl}}">{{talk.title}}</a></h3>
     <span class="session-presenter">{{speaker.name}}</span>
-    <!-- <div>
-        <div class="speaker-tag">
-            <ul class="tag">
-                {% for tag in talk.tags %}
-                <li><a href="#">{{ tag }}</a></li>
-                {% endfor %}
-            </ul>
-        </div>
-        <div class="talk-level">
-            {% case talk.level %}
-            {% when 'bear' %}
-            <img src="{{ site.baseurl }}public/assets/animals/bear.png"
-                alt="This {{ talk.type }} is Bear level" />
-            {% when 'bunny' %}
-            <img src="{{ site.baseurl }}public/assets/animals/bunny.png"
-                alt="This {{ talk.type }} is Bunny level" />
-            {% when 'tiger' %}
-            <img src="{{ site.baseurl }}public/assets/animals/tiger.png"
-                alt="This {{ talk.type }} is Tiger level" />
-            {% endcase %}
-        </div>
-    </div> -->
-
 </div>
