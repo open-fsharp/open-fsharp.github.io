@@ -1,0 +1,13 @@
+{% assign speaker = site.data.speakers[page.year] | where: "name", include.speakerKey | first %}
+{% assign talk = speaker.talks | where: "title", include.talkKey | first %}
+{% assign tracks = include.tracks %}
+{% assign times = include.times %}
+
+<div class="session {{talk.level}}" style="grid-column: {{tracks}}; grid-row: {{times}};">
+    <a href="{{ site.baseurl }}{{speaker.speakerUrl}}">
+        <h3 class="session-title">{{talk.title}}</h3>
+        <span class="session-presenter">{{speaker.name}}</span>
+        <span class="session-time"><strong>{{talk.date | date: "%H:%M"}}</strong>
+            ({% if talk.type == 'hands-on' %}110{% else %}50{%endif%} minutes)</span>
+    </a>
+</div>
