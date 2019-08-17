@@ -1038,6 +1038,11 @@ li.menu-item-has-children>a::before {
 		rgba(0,0,0,.3) 4px 4px 0;
 }
 
+.session a {
+	color: #fff;
+	text-decoration: underline;
+}
+
 .session-title,
 .session-time,
 .session-track,
@@ -1070,18 +1075,18 @@ li.menu-item-has-children>a::before {
 	font-size:.75em;
 }
 
-.track-1 {
-	background-color: #1259B2;
+.bunny {
+	background-color: #9dc650;
 	color: #fff;
 }
 
-.track-2 {
-	background-color: #687f00;
+.bear {
+	background-color: #913a8d;
 	color: #fff;
 }
 
-.track-3 {
-	background-color: #544D69;
+.tiger {
+	background-color: #ca8759;
 	color: #fff;
 }
 
@@ -1115,31 +1120,20 @@ li.menu-item-has-children>a::before {
 }
 
 .lightning-talks {
-	display: flex
+	display: flex;
+	justify-content: space-evently;
 }
 
 .lightning-talk {
 	padding: 5px;
 	width: 75%;
+	margin: 5px;
 }
 
 .text {
 	max-width: 750px;
 	font-size: 18px;
 	margin: 0 auto 50px;
-}
-
-.meta {
-	color: #555;
-	font-style: italic;
-}
-
-.meta a {
-	color: #555;
-}
-
-hr {
-	margin: 40px 0;
 }
 
 /*-------------------------------------
