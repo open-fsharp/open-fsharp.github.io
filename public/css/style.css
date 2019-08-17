@@ -1090,21 +1090,6 @@ li.menu-item-has-children>a::before {
 	color: #fff;
 }
 
-.room-a {
-	background-color: #1259B2;
-	color: #fff;
-}
-
-.room-b {
-	background-color: #687f00;
-	color: #fff;
-}
-
-.room-c {
-	background-color: #544D69;
-	color: #fff;
-}
-
 .track-all {
 	display: flex;
 	justify-content: center;
