@@ -978,7 +978,8 @@ li.menu-item-has-children>a::before {
 			[time-1740] 0.10fr
 			[time-1745] 0.10fr
 			[time-1750] 0.10fr
-			[time-1755] 0.10fr;
+			[time-1755] 0.10fr
+			[time-1800] 0.10fr;
 			/* Note 1:
 			Use 24hr time for gridline names for simplicity
 
