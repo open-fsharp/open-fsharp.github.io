@@ -301,21 +301,6 @@
       - title: "Why I wish I wrote my App in F#"
         level: bear
         date: "2019-09-26 10:30:00"
-  - name: GINA MARIE MAINI
-    speakerUrl: "speakers/2019/gina-marie-maini"
-    imageUrl: public/assets/speakers/2019/gina-marie-maini.jpg
-    imageAltText: Gina Marie Maini
-    bio: Digital Service Expert
-    githubUrl: https://github.com/wiredsister
-    twitterUrl: https://twitter.com/wiredsis
-    talks:
-      - title: Future Proof Library Design, Examples in F#
-        level: bear
-        date: "2019-09-27 09:00:00"
-        abstract:
-        type: talk
-        tags:
-    bioDetail:
   - name: JORGE FIORANELLI
     speakerUrl: "speakers/2019/jorge-fioranelli"
     imageUrl: public/assets/speakers/2019/jorge-fioranelli.jpg
@@ -473,6 +458,17 @@
         - distributed systems
         - async
         - parallelism
+    talks:
+      - title: Building your perfect world with concurrent combinators!
+        level: tiger
+        date: "2019-09-27 09:00:00"
+        abstract: |
+          <p>This session is a deep dive into how to compose concurrent and parallel interfaces in a seamless and effective manner with the help of mathematical concepts. From the programming point of view, mathematical patterns are useful code abstractions, which leads to more robust code at the core of your application and can give your business a competitive advantage. Combinators are used as a simplified model of computation, and enable you to build complex things from simple things controlling unwanted behaviors. The more you learn how to use combinators, the more elegant your code will be. At first, we will introduce concurrent combinators, which are the building blocks to write performant and non-blocking operations. Second, we will implement both general-purpose reusable and sophisticated patterns that can be extended these ideas in other programming model such as event-sourcing and reactive programming. You will have the knowledge to start incorporating this tool immediately for better performance and reasoning in your programs.</p>
+        type: talk
+        tags:
+          - concurrency
+          - parallelism
+          - combinators
   - name: KEVIN FEASEL
     speakerUrl: speakers/2019/kevin-feasel
     imageUrl: public/assets/speakers/2019/kevin-feasel.jpg
