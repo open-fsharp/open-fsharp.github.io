@@ -1,6 +1,13 @@
 {% assign speaker = site.data.speakers[page.year] | where: "name", include.speakerKey | first %}
 {% assign talk = speaker.talks | where: "title", include.talkKey | first %}
 <div class="lightning-talk {{talk.level}}">
-    <h3 class="session-title"><a href="{{ site.baseurl }}{{speaker.speakerUrl}}">{{talk.title}}</a></h3>
-    <span class="session-presenter">{{speaker.name}}</span>
+    <div class="lightning-image">
+        <a href="{{ site.baseurl }}{{speaker.speakerUrl}}">
+            <img src="{{ site.baseurl }}{{speaker.imageUrl}}" alt="{{speaker.imageAltText}}">
+        </a>
+    </div>
+    <a href="{{ site.baseurl }}{{speaker.speakerUrl}}">
+        <h3 class="session-title">⚡{{talk.title}}</h3>
+        <span class="session-presenter">{{speaker.name}}</span>
+    </a>
 </div>

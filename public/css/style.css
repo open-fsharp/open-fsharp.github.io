@@ -1016,6 +1016,17 @@ li.menu-item-has-children>a::before {
 	border-radius: 10px;
 }
 
+.lightning-image {
+	display: none
+}
+
+.lightning-image img {
+	height: 90%;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+}
+
 @supports( display:grid ) {
 	@media screen and (min-width:700px) {
 		.track-slot {
@@ -1029,7 +1040,13 @@ li.menu-item-has-children>a::before {
 
 		.session-image {
 			display: block;
-			height: 150px;
+			height: 65px;
+			margin-right: 10px
+		}
+
+		.lightning-image {
+			display: block;
+			height: 65px;
 			margin-right: 10px
 		}
 	}
@@ -1121,17 +1138,12 @@ li.menu-item-has-children>a::before {
 
 .lightning-track {
 	display: flex;
-	flex-direction: column;
-}
-
-.lightning-talks {
-	display: flex;
-	justify-content: space-evently;
+	justify-content: flex-start;
 }
 
 .lightning-talk {
+	display: flex;
 	padding: 5px;
-	width: 75%;
 	margin: 5px;
 }
 
