@@ -4,6 +4,11 @@
 {% assign times = include.times %}
 
 <div class="session {{talk.level}}" style="grid-column: {{tracks}}; grid-row: {{times}};">
+    <div class="session-image">
+        <a href="{{ site.baseurl }}{{speaker.speakerUrl}}">
+            <img src="{{ site.baseurl }}{{speaker.imageUrl}}" alt="{{speaker.imageAltText}}">
+        </a>
+    </div>
     <a href="{{ site.baseurl }}{{speaker.speakerUrl}}">
         <h3 class="session-title">{{talk.title}}</h3>
         <span class="session-presenter">{{speaker.name}}</span>

@@ -1004,6 +1004,18 @@ li.menu-item-has-children>a::before {
 	display: none; /* hidden on small screens and browsers without grid support */
 }
 
+/* hide on mobile */
+.session-image {
+	display: none
+}
+
+.session-image img {
+	height: 90%;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+}
+
 @supports( display:grid ) {
 	@media screen and (min-width:700px) {
 		.track-slot {
@@ -1013,6 +1025,12 @@ li.menu-item-has-children>a::before {
 			top: 0;
 			z-index: 1000;
 			background-color: rgba(255,255,255,.9);
+		}
+
+		.session-image {
+			display: block;
+			height: 150px;
+			margin-right: 10px
 		}
 	}
 }
@@ -1026,6 +1044,7 @@ li.menu-item-has-children>a::before {
 	@media screen and (min-width: 700px) {
 		.session {
 			margin: 0;
+			display: flex;
 		}
 	}
 }
