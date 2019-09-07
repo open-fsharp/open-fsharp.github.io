@@ -38,6 +38,9 @@
   - siteUrl: http://www.fsharp.org/
     imagePath: public/assets/sponsors/2019/fsharp.png
     altText: Gold Sponsor F# Software Foundation
+  - siteUrl: https://www.virtustream.com/
+    imagePath: public/assets/sponsors/2019/Virtustream.jpg
+    altText: Gold Sponsor Virtustream
   silverSponsors:
   - siteUrl: https://www.olo.com/
     imagePath: public/assets/sponsors/2019/olo.jpg
