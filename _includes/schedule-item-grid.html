@@ -9,9 +9,10 @@
             <img src="{{ site.baseurl }}{{speaker.imageUrl}}" alt="{{speaker.imageAltText}}">
         </a>
     </div>
-    <a href="{{ site.baseurl }}{{speaker.speakerUrl}}">
-        <h3 class="session-title">{{talk.title}}</h3>
+    <a class="session-link" href="{{ site.baseurl }}{{speaker.speakerUrl}}">
+        <h3 class="session-title">{% if talk.keynote %}<strong>Keynote </strong>{% endif %}{{talk.title}}</h3>
         <span class="session-presenter">{{speaker.name}}</span>
+        <span class="session-room"><strong>Room: </strong>{{ talk.room }}</span>
         <span class="session-time"><strong>{{talk.date | date: "%H:%M"}}</strong>
             ({% if talk.type == 'hands-on' %}110{% else %}50{%endif%} minutes)</span>
     </a>
