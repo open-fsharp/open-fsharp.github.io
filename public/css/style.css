@@ -1027,6 +1027,10 @@ li.menu-item-has-children>a::before {
 	border-radius: 10px;
 }
 
+.session-room {
+	display: block
+}
+
 @supports( display:grid ) {
 	@media screen and (min-width:700px) {
 		.track-slot {
@@ -1038,6 +1042,9 @@ li.menu-item-has-children>a::before {
 			background-color: rgba(255,255,255,.9);
 		}
 
+		.session-room {
+			display: none;
+		}
 		.session-image {
 			display: block;
 			height: 65px;
@@ -1077,7 +1084,15 @@ li.menu-item-has-children>a::before {
 
 .session a {
 	color: #fff;
+}
+
+.session a:hover {
+	font-style: italic;
 	text-decoration: underline;
+}
+
+.session a:focus {
+	outline: 2px dotted rgba(255,255,255,.8);
 }
 
 .session-title,
@@ -1093,17 +1108,9 @@ li.menu-item-has-children>a::before {
 	font-size: 1em;
 }
 
-.session-title a {
+.session-title {
 	color: #fff;
 	text-decoration-style: dotted;
-
-	&:hover {
-		font-style: italic;
-	}
-
-	&:focus {
-		outline: 2px dotted rgba(255,255,255,.8);
-	}
 }
 
 .track-slot,

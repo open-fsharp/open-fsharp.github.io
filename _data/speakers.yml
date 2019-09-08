@@ -194,6 +194,8 @@
           <p>During this talk I will share my experience creating libraries for the Fable ecosystem, as well as some advice to design and evolve user-friendly APIs.</p>
         type: talk
         tags:
+        room: A
+        keynote: true
     workshop:
       title: Taming Your Web App w/ Elmish
       date: "2019-09-25 09:00:00"
@@ -237,6 +239,8 @@
           But otherwise, all jargon used will be familiar to a C#, C++ or Java programmer! That said, this is an intermediate level talk, and quite a few advanced concepts will be disguised in familiar form.</p>
         type: talk
         tags:
+        room: A
+        keynote: false
   - name: SCOTT WLASCHIN
     speakerUrl: "speakers/2019/scott-wlaschin"
     imageUrl: public/assets/speakers/2019/scott-wlaschin.jpg
@@ -263,6 +267,8 @@
           <p>In this talk for F# beginners, I'll present the most common tools that can be found in a functional programmer's toolkit: tools such as "compose", "reduce", "map", "return", "apply", and "bind". What are they? Why are they important? How are they used in practice? And how do they relate to computation expressions and scary sounding concepts like monoids, monads, and functors?</p>
         type: talk
         tags:
+        room: A
+        keynote: false
     workshop:
       title: Domain Modeling Made Functional
       date: "2019-09-25 09:00:00"
@@ -301,6 +307,8 @@
       - title: "Why I wish I wrote my App in F#"
         level: bear
         date: "2019-09-27 14:00:00"
+        room: A
+        keynote: false
   - name: JORGE FIORANELLI
     speakerUrl: "speakers/2019/jorge-fioranelli"
     imageUrl: public/assets/speakers/2019/jorge-fioranelli.jpg
@@ -366,6 +374,8 @@
         tags:
           - oss
           - ionide
+        room: A
+        keynote: true
       - title: Saturn, the "S" in SAFE
         level: bunny
         date: "2019-09-27 09:00:00"
@@ -378,6 +388,8 @@
           - saturn
           - fable
           - javascript
+        room: C
+        keynote: false
   - name: KATE CURRAN
     speakerUrl: speakers/2019/kate-curran
     imageUrl: public/assets/speakers/2019/kate-curran.jpg
@@ -396,6 +408,8 @@
         tags:
           - fsharp
           - first-language
+        room: A
+        keynote: false
   - name: MARNEE DEARMAN
     speakerUrl: speakers/2019/marnee-dearman
     imageUrl: public/assets/speakers/2019/marnee-dearman.jpg
@@ -418,6 +432,8 @@
           - communication protocols
           - mesh networks
           - emergency communications
+        room: A
+        keynote: false
   - name: RYAN KILKENNY
     speakerUrl: speakers/2019/ryan-kilkenny
     imageUrl: public/assets/speakers/2019/ryan-kilkenny.png
@@ -441,6 +457,8 @@
           - game development
           - dotnetcore
           - cognitive services
+        room: A
+        keynote: false
   - name: RICCARDO TERRELL
     speakerUrl: speakers/2019/riccardo-terrell
     imageUrl: public/assets/speakers/2019/ricky-terrell.jpg
@@ -481,6 +499,8 @@
           - concurrency
           - parallelism
           - combinators
+        room: A
+        keynote: false
   - name: KEVIN FEASEL
     speakerUrl: speakers/2019/kevin-feasel
     imageUrl: public/assets/speakers/2019/kevin-feasel.jpg
@@ -511,6 +531,8 @@
           - Graphing
           - Windowing
           - Moving Averages
+        room: A
+        keynote: false
   - name: COLIN GRAVILL
     speakerUrl: speakers/2019/colin-gravill
     imageUrl: public/assets/speakers/2019/colin-gravill.png
@@ -538,6 +560,8 @@
           - performance
           - parallelism
           - wasm
+        room: B
+        keynote: false
   - name: JÉRÉMIE CHASSAING
     speakerUrl: speakers/2019/jeremie-chassaing
     imageUrl: public/assets/speakers/2019/jeremie-chassaing.jpg
@@ -561,6 +585,8 @@
           - span
           - NoMemAlloc
           - video
+        room: B
+        keynote: false
     workshop:
       title: Functional Event Sourcing
       date: "2019-09-25 09:00:00"
@@ -594,6 +620,8 @@
           - language
           - compiler
           - tooling
+        room: A
+        keynote: false
   - name: ERIC HARDING
     speakerUrl: speakers/2019/eric-harding
     imageUrl: public/assets/speakers/2019/eric-harding.jpg
@@ -620,6 +648,8 @@
           - domain modeling
           - elmish
           - mvu
+        room: A
+        keynote: false
   - name: BRETT HALL
     speakerUrl: speakers/2019/brett-hall
     imageUrl: public/assets/speakers/2019/brett-hall.jpg
@@ -640,6 +670,8 @@
         tags:
           - workflows
           - computation expressions
+        room: B
+        keynote: false
   - name: SCOTT SCITES
     speakerUrl: speakers/2019/scott-scites
     imageUrl: public/assets/speakers/2019/scott_scites.png
@@ -663,6 +695,8 @@
           - WASM
           - SignalR
           - Realtime
+        room: A
+        keynote: false
   - name: CHET HUSK
     speakerUrl: speakers/2019/chet-husk
     imageUrl: public/assets/speakers/2019/chet-husk.jpg
@@ -684,6 +718,8 @@
           - debugging
           - runtime
           - low-level
+        room: A
+        keynote: false
   - name: GAD BERGER
     speakerUrl: speakers/2019/gad-berger
     imageUrl: public/assets/speakers/2019/gad-berger.jpg
@@ -704,6 +740,8 @@
           - I/O Abstraction
           - Infrastructure
           - F#
+        room: B
+        keynote: false
   - name: PAUL ORLAND
     speakerUrl: speakers/2019/paul-orland
     imageUrl: public/assets/speakers/2019/paul-orland.jpg
@@ -726,6 +764,8 @@
           - Tensor algebra
           - Symbolic programming
           - DSLs
+        room: B
+        keynote: false
   - name: WAEL EL ORAIBY
     speakerUrl: speakers/2019/wael-oraiby
     imageUrl: public/assets/speakers/2019/placeholder.png
@@ -749,6 +789,8 @@
           - network
           - libuv
           - F# with c99
+        room: B
+        keynote: false
   - name: BRETT ROWBERRY
     speakerUrl: speakers/2019/brett-rowberry
     imageUrl: public/assets/speakers/2019/brett-rowberry.jpg
@@ -770,3 +812,5 @@
           - AzureFunctions
           - UnitConversion
           - Microservice
+        room: C
+        keynote: false
