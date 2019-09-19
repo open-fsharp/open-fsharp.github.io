@@ -102,24 +102,6 @@ title: Speakers Information
 						</div>
 					</div>
 					<div class="panel panel-default">
-						<div class="panel-heading" role="tab" id="headingEight">
-							<div class="panel-title">
-								<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-									<span>Discount codes</span>
-								</a>
-							</div>
-						</div>
-						<div id="collapseEight" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingEight">
-							<div class="panel-body">
-								<p>
-									We made three discount tickets available for each speaker to hand out to friends and colleagues.
-									We mailed you a code that gives a 10% discount on the workshop + conference ticket.
-									If you did not receive them yet or you would need more than three, please don't hesitate to get in touch with us!
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="panel panel-default">
 						<div class="panel-heading" role="tab" id="headingFour">
 							<div class="panel-title">
 								<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
@@ -200,7 +182,7 @@ title: Speakers Information
 						<div id="collapseSeven" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingSeven">
 							<div class="panel-body">
 								<p>
-									If you requested domestic or international travel support on your CFP, you will automatically receive an e-mail a few days before the conference
+									If you requested domestic or international travel support on your CFP, you will automatically receive an e-mail a few days after the conference
 									that will contain all the information you need to get your travel expenses reimbursed.
 									Sadly, lightning talks are not eligible for travel support.
 								</p>
