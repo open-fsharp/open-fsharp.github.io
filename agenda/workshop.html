@@ -54,20 +54,6 @@ year: 2019
 									<span class="i-text">full day workshop</span>
 								</span>
 							</li>
-							<!-- <li>
-								<span class="c-info-icon"><i class="fas fa-cogs"></i></span>
-								<span class="c-info-content">
-									<strong>Deep Dive</strong>
-									<span class="i-text">8 hours of happiness</span>
-								</span>
-							</li>
-							<li>
-								<span class="c-info-icon"><i class="fas fa-battery-half"></i></span>
-								<span class="c-info-content">
-									<strong>Taster</strong>
-									<span class="i-text">4 hours of pure joy</span>
-								</span>
-							</li> -->
 						</ul>
 					</div><!-- /.conference-info -->
 				</div><!-- /.conference-info-outer -->
@@ -147,7 +133,7 @@ year: 2019
                                     </div><!-- /.col-xs-4 col-sm-4 col-md-4 -->
                                     <div class="col-xs-2 col-sm-2 col-md-2">
                                         <div class="item-inner event-time">
-                                            <span>{{ workshop.workshop.time }}</span>
+                                            <span>{{workshop.workshop.date | date: "%H:%M"}}</span>
                                         </div>
                                     </div><!-- /.col-xs-2 col-sm-2 col-md-2 -->
                                 </div><!-- /.schedule-item -->
