@@ -469,25 +469,6 @@
     blogUrl: http://http://www.rickyterrell.com/
     bioDetail: |
       <p>Riccardo is an information systems and technology professional and architect specializing in software & systems development. He has over 20 years’ experience delivering cost-effective technology solutions in the competitive business environment. Riccardo is passionate about integrating advanced technology tools to increase internal efficiency, enhance work productivity, and reduce operating costs. He is a Microsoft Most Valuable Professional (MVP) who is active in the .Net, functional programming, and F# communities. Riccardo believes in multi-paradigm programming to maximize the power of code and is the author of "Functional Concurrency in .NET”; which, features how to develop highly-scalable systems in F# & C#.</p>
-    workshop:
-      title: Actor Clustering with Docker Containers and Akka.Net in F#
-      date: "2019-09-25 09:00:00"
-      type: Deep Dive
-      abstract: |
-        <p>
-            In this session, you will learn to build and deploy distributed systems combining the power of Akka.Net, the flexibility of F# and the simplicity of Docker containers. The combination of these technologies enhances the effects of F# “code-quotation”, which allows the deployment of arbitrary Actors into remote Actor-Systems. You will learn the basic concepts behind Microservices implemented using the Actor and Actor Clustering, and how to leverage Docker containers for easy deployment. Docker provides an isolated environment for the applications running inside the container image. Akka.Net is a framework to build concurrent, resilient, distributed and scalable software systems. The cluster feature lets you distribute your Actors across multiple machines to achieve load balancing, fail-over and the ability to scale up and out.
-        </p>
-        <p>
-          During this session, we will build and deploy an Actor Cluster to distribute an image processing using multiple machines.
-        </p>
-      tags:
-        - actor
-        - akka.net
-        - docker
-        - clustering
-        - distributed systems
-        - async
-        - parallelism
     talks:
       - title: Building your perfect world with concurrent combinators!
         level: bunny

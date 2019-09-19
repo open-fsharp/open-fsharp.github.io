@@ -30,7 +30,7 @@ title: Speakers Information
 		<div class="row">
 			<div class="conference-main faq-wrapper first-faq-wrapper">
 				<div class="section-head">
-					<h2 class="header-title">Open FSharp 2018</h2>
+					<h2 class="header-title">Open FSharp 2019</h2>
 					<p class="header-desc">A conference to learn, create and connect with F# and its Community.</p>
 				</div>
 				<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
@@ -38,7 +38,7 @@ title: Speakers Information
 						<div class="panel-heading" role="tab" id="headingOne">
 							<div class="panel-title">
 								<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-									<span>Organisers contact information</span>									
+									<span>Organisers contact information</span>
 								</a>
 							</div>
 						</div>
@@ -48,8 +48,8 @@ title: Speakers Information
 									<li>
 										<span class="c-info-icon"><i class="fa fa-mobile"></i></span>
 										<span class="c-info-content">
-											<strong>Riccardo Terrell</strong>
-											<span class="i-text">+1 (304) 579-5728</span>
+											<strong>Jeremy Abbott</strong>
+											<span class="i-text">+1 (318) 347-6012</span>
 										</span>
 									</li>
 									<li>
@@ -74,15 +74,15 @@ title: Speakers Information
 						<div class="panel-heading" role="tab" id="headingTwo">
 							<div class="panel-title">
 								<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-									<span>Venues</span>							
+									<span>Venues</span>
 								</a>
 							</div>
 						</div>
 						<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
 							<div class="panel-body">
-								<p>Workshop (Wed 26th of September): MicroTek, 655 Montgomery Street, Suite 400, San Francisco CA 94111</p>
-								<p>Conference (Thu 27th and Fri 28th of September): Broadway venue, 435 Broadway Street, SF, California 94133</p>
-								<p>Speakers dinner (Wed 26th of September): Regalito rosticeria, 3481 18th St San Francisco, CA, 94110</p>
+								<p><strong>Workshop (Wed 25th of September):</strong> MicroTek, 655 Montgomery Street, Suite 400, San Francisco CA 94111</p>
+								<p><strong>Conference (Thu 26th and Fri 27th of September):</strong> Broadway venue, 435 Broadway Street, SF, California 94133</p>
+								<p><strong>Speakers dinner (Wed 25th of September):</strong> Regalito Rosticeria, 3481 18th St San Francisco, CA, 94110</p>
 							</div>
 						</div>
 					</div>
@@ -90,15 +90,14 @@ title: Speakers Information
 						<div class="panel-heading" role="tab" id="headingThree">
 							<div class="panel-title">
 								<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-									<span>Speakers dinner</span>							
+									<span>Speakers dinner</span>
 								</a>
 							</div>
 						</div>
 						<div id="collapseThree" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingThree">
 							<div class="panel-body">
-								<p>Speakers dinner will be held on the Wed 26th of September, the day before the conference.</p>
-								<p>Address is <a href="http://www.sfregalito.com/">Regalito rosticeria</a>, 3481 18th St San Francisco, CA, 94110</p>
-								<p>RSVP's are <a href="https://goo.gl/forms/xMgVuABOnsGUit0E2" target="_blank">open</a>.</p>
+								<p>Speakers dinner will be held on the Wed 25th of September, the day before the conference.</p>
+								<p>Address is <a href="http://www.sfregalito.com/">Regalito Rosticeria</a>, 3481 18th St San Francisco, CA, 94110</p>
 							</div>
 						</div>
 					</div>
@@ -106,7 +105,7 @@ title: Speakers Information
 						<div class="panel-heading" role="tab" id="headingEight">
 							<div class="panel-title">
 								<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-									<span>Discount codes</span>							
+									<span>Discount codes</span>
 								</a>
 							</div>
 						</div>
@@ -114,7 +113,7 @@ title: Speakers Information
 							<div class="panel-body">
 								<p>
 									We made three discount tickets available for each speaker to hand out to friends and colleagues.
-									We mailed you a code that gives a 10% discount on the workshop + conference ticket. 
+									We mailed you a code that gives a 10% discount on the workshop + conference ticket.
 									If you did not receive them yet or you would need more than three, please don't hesitate to get in touch with us!
 								</p>
 							</div>
@@ -124,15 +123,15 @@ title: Speakers Information
 						<div class="panel-heading" role="tab" id="headingFour">
 							<div class="panel-title">
 								<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-									<span>Hotels/accommodation in the area</span>							
+									<span>Hotels/accommodation in the area</span>
 								</a>
 							</div>
 						</div>
 						<div id="collapseFour" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingFour">
 							<div class="panel-body">
-								<p><a href="http://www.swhotel.com" target="_blank">Sam Wong Hotel: $180 / night</a> - <a href="https://www.tripadvisor.com/Hotel_Review-g60713-d224951-Reviews-SW_Hotel-San_Francisco_California.html#REVIEWS" target="_blank">REVIEWS</a>																		
+								<p><a href="http://www.swhotel.com" target="_blank">Sam Wong Hotel: $180 / night</a> - <a href="https://www.tripadvisor.com/Hotel_Review-g60713-d224951-Reviews-SW_Hotel-San_Francisco_California.html#REVIEWS" target="_blank">REVIEWS</a>
 								</p>
-								<p><a href="https://www.greentortoisesf.com/private-rooms" target="_blank">Green Tortoise: $138</a> - <a href="https://www.yelp.com/biz/green-tortoise-hostel-san-francisco" target="_blank">REVIEWS</a>	
+								<p><a href="https://www.greentortoisesf.com/private-rooms" target="_blank">Green Tortoise: $138</a> - <a href="https://www.yelp.com/biz/green-tortoise-hostel-san-francisco" target="_blank">REVIEWS</a>
 								</p>
 								<p><a href="https://www.airbnb.com/" target="_blank">Airbnb</a>
 								</p>
@@ -146,7 +145,7 @@ title: Speakers Information
 						<div class="panel-heading" role="tab" id="headingFive">
 							<div class="panel-title">
 								<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-									<span>Technical stuff</span>							
+									<span>Technical stuff</span>
 								</a>
 							</div>
 						</div>
@@ -154,7 +153,7 @@ title: Speakers Information
 							<div class="panel-body">
 								<p>
 									<ol>
-										<li>You will be presenting from your own laptop. You will be provided with a sound system and a wireless microphone. 
+										<li>You will be presenting from your own laptop. You will be provided with a sound system and a wireless microphone.
 											You will also be provided with a remote clicker for your slides (if required).</li>
 										<li>Do our attendees need to read anything or install software prior to your session? Do you need printed materials?
 											Please let us know and we will assist you with this.</li>
@@ -173,7 +172,7 @@ title: Speakers Information
 						<div class="panel-heading" role="tab" id="headingSix">
 							<div class="panel-title">
 								<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-									<span>Other interesting stuff</span>							
+									<span>Other interesting stuff</span>
 								</a>
 							</div>
 						</div>
@@ -183,7 +182,7 @@ title: Speakers Information
 									<ol>
 										<li>As a speaker, you'll be watered and fed throughout the conference. We always provide a vegetarian option.
 											If you have any specific dietary requirements, please remember to contact us.</li>
-										<li>There is a party on Thu 27th of September, at the end of the first conference day. This takes place in the venue itself.</li>
+										<li>There is a party on Thu 26th of September, at the end of the first conference day. This takes place in the venue itself.</li>
 										<li>Don't forget your power converter if you come from outside the US.</li>
 									</ol>
 								</p>
@@ -194,7 +193,7 @@ title: Speakers Information
 						<div class="panel-heading" role="tab" id="headingSeven">
 							<div class="panel-title">
 								<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-									<span>Travel cost coverage</span>							
+									<span>Travel cost coverage</span>
 								</a>
 							</div>
 						</div>
