@@ -269,6 +269,15 @@
         tags:
         room: A
         keynote: false
+      - title: TBD
+        level: bunny
+        date: "2019-09-27 12:00:00"
+        abstract: |
+          <p>TBD</p>
+        type: talk
+        tags:
+        room: A
+        keynote: false
     workshop:
       title: Domain Modeling Made Functional
       date: "2019-09-25 09:00:00"
@@ -457,29 +466,6 @@
           - game development
           - dotnetcore
           - cognitive services
-        room: A
-        keynote: false
-  - name: RICCARDO TERRELL
-    speakerUrl: speakers/2019/riccardo-terrell
-    imageUrl: public/assets/speakers/2019/ricky-terrell.jpg
-    imageAltText: Riccardo Terrell
-    bio: Functional guy living in an imperative world
-    githubUrl: https://github.com/rikace
-    twitterUrl: https://twitter.com/trikace
-    blogUrl: http://http://www.rickyterrell.com/
-    bioDetail: |
-      <p>Riccardo is an information systems and technology professional and architect specializing in software & systems development. He has over 20 years’ experience delivering cost-effective technology solutions in the competitive business environment. Riccardo is passionate about integrating advanced technology tools to increase internal efficiency, enhance work productivity, and reduce operating costs. He is a Microsoft Most Valuable Professional (MVP) who is active in the .Net, functional programming, and F# communities. Riccardo believes in multi-paradigm programming to maximize the power of code and is the author of "Functional Concurrency in .NET”; which, features how to develop highly-scalable systems in F# & C#.</p>
-    talks:
-      - title: Building your perfect world with concurrent combinators!
-        level: bunny
-        date: "2019-09-27 12:00:00"
-        abstract: |
-          <p>This session is a deep dive into how to compose concurrent and parallel interfaces in a seamless and effective manner with the help of mathematical concepts. From the programming point of view, mathematical patterns are useful code abstractions, which leads to more robust code at the core of your application and can give your business a competitive advantage. Combinators are used as a simplified model of computation, and enable you to build complex things from simple things controlling unwanted behaviors. The more you learn how to use combinators, the more elegant your code will be. At first, we will introduce concurrent combinators, which are the building blocks to write performant and non-blocking operations. Second, we will implement both general-purpose reusable and sophisticated patterns that can be extended these ideas in other programming model such as event-sourcing and reactive programming. You will have the knowledge to start incorporating this tool immediately for better performance and reasoning in your programs.</p>
-        type: talk
-        tags:
-          - concurrency
-          - parallelism
-          - combinators
         room: A
         keynote: false
   - name: KEVIN FEASEL
