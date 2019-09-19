@@ -182,7 +182,7 @@ title: Speakers Information
 						<div id="collapseSeven" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingSeven">
 							<div class="panel-body">
 								<p>
-									If you requested domestic or international travel support on your CFP, you will automatically receive an e-mail a few days before the conference
+									If you requested domestic or international travel support on your CFP, you will automatically receive an e-mail a few days after the conference
 									that will contain all the information you need to get your travel expenses reimbursed.
 									Sadly, lightning talks are not eligible for travel support.
 								</p>
