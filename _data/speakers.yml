@@ -269,13 +269,16 @@
         tags:
         room: A
         keynote: false
-      - title: TBD
+      - title: Domain Modeling Made Functional
         level: bunny
         date: "2019-09-27 12:00:00"
         abstract: |
-          <p>TBD</p>
+          <p>Statically typed functional programming languages encourage a very different way of thinking about types. The type system is your friend, not an annoyance, and can be used in many ways that might not be familiar to OO programmers.</p>
+          <p>Types can be used to represent the domain in a fine-grained, self documenting way. And in many cases, types can even be used to encode business rules so that you literally cannot create incorrect code. You can then use the static type checking almost as an instant unit test — making sure that your code is correct at compile time.</p>
+          <p>In this talk, we'll look at some of the ways you can use types as part of a domain driven design process, with some simple real world examples in F#. No jargon, no maths, and no prior F# experience necessary.</p>
         type: talk
         tags:
+          - domain modeling
         room: A
         keynote: false
     workshop:
@@ -300,6 +303,13 @@
                 <li>How to treat errors as a part of the domain</li>
                 <li>How to build a complete business workflow from smaller components using composition</li>
             </ul>
+        </p>
+        <p>
+          <strong>Requirements:</strong>
+          <ul>
+            <li>F# should be installed! <a href="https://fsharp.org/">fsharp.org</a> has installation instructions for most operations systems.</li>
+            <li>If using VS Code, have <a href="http://ionide.io/#20150804gettingstarted">Ionide installed</a>.</li>
+          </ul>
         </p>
       tags:
         - domain modeling
@@ -633,6 +643,7 @@
         date: "2019-09-27 11:00:00"
         abstract: |
           <p>At Wyatt Technology one of our products is used to run workflows during pharmaceutical production. These workflows monitor analytical instruments and control pump hardware, as well as integrating with the rest of the customer's production control system. Our first cut at implementing one of these workflows resulted in a thousand lines of state machine code that was a convoluted mess of nested matches on nested discriminated unions. While some of the code was reusable for other workflows, it was very much not clear how to extract it into a reusable form. Enter free monads and computation expressions. Using this technique we were able create a system of reusable building blocks that make it easy to write understandable workflow code (with dramatically reduced line counts). Error handling, pause/resume, and state saving/restoring is factored out so that it doesn't complicate the workflow code itself. In this workshop I'll show how to create a system of this sort.</p>
+          <p>Demo code for this hands-on session is available <a href="https://github.com/bretthall/workflow-demo">here</a>
         type: hands-on
         tags:
           - workflows
