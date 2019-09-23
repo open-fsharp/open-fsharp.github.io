@@ -321,7 +321,7 @@
     githubUrl: https://github.com/praeclarum
     twitterUrl: https://twitter.com/praeclarum
     blogUrl: https://praeclarum.org
-    bioDetail:
+    bioDetail: I am a mobile app developer specializing in iOS and .NET programming. I am into graphics, AI, robotics, and programming languages.
     talks:
       - title: "Why I wish I wrote my App in F#"
         level: bear
