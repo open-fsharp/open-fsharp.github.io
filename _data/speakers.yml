@@ -218,7 +218,7 @@
         </p>
         <p>
           <strong>Requirements:</strong>
-          <ul>
+          <ul class="requirements">
             <li><a href="https://dotnet.microsoft.com/download/dotnet-core/2.2">dotnet SDK version 2.2.204</a></li>
             <li><a href="https://nodejs.org/en/">Node.JS LTS</a></li>
             <li><a href="http://ionide.io/#20150804gettingstarted">An editor with F# support like VSCode with Ionide extension</a></li>
@@ -314,7 +314,7 @@
         </p>
         <p>
           <strong>Requirements:</strong>
-          <ul>
+          <ul class="requirements">
             <li>F# should be installed! <a href="https://fsharp.org/">fsharp.org</a> has installation instructions for most operations systems.</li>
             <li>If using VS Code, have <a href="http://ionide.io/#20150804gettingstarted">Ionide installed</a>.</li>
           </ul>
@@ -375,6 +375,21 @@
                 <li>Object-oriented programming</li>
                 <li>Type providers</li>
             </ul>
+          </p>
+          <p>
+            <strong>Requirements:</strong>
+            <ol class="requirements-ordered">
+              <li>Please bring a laptop with the <a href="http://www.fsharpworkshop.com/#pre-requisites">pre-requisites already installed</a>.</li>
+              <li>Clone this repo: <a href="Please bring a laptop with the pre-requisites already installed (see http://www.fsharpworkshop.com/#pre-requisites).">Please bring a laptop with the pre-requisites already installed (see http://www.fsharpworkshop.com/#pre-requisites).</a></li>
+              <li>Open Visual Studio Code</li>
+              <li>Open the root folder (File -> Open)</li>
+              <li>Open the terminal (Terminal -> New Terminal)</li>
+              <li>Run “dotnet test Completed/Module1/Tests”</li>
+              <li>Double check it finishes without errors</li>
+              <li>Open the F# Interactive (View -> Command Palette -> FSI: Start)</li>
+              <li>Write “let a = 1;;” in the terminal window and press enter</li>
+              <li>Double check you see “val a : int = 1”</li>
+            </ol>
           </p>
       tags:
   - name: KRZYSZTOF CIESLAK
