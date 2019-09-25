@@ -807,6 +807,12 @@
         date: "2019-09-27 11:00:00"
         abstract: |
           <p>Let’s see how F# language features make it simple to create a unit conversion service and deploy it to Azure Functions.</p>
+          <p>
+            <strong>Requirements:</strong>
+            <ul class="requirements">
+              <li><a href="https://github.com/brettrowberry/OpenFSharp2019-UnitConversionService">Clone this git repository, and follow the prerequisites in the README.</a></li>
+            </ul>
+          </p>
         type: hands-on
         tags:
           - FaaS
