@@ -1160,6 +1160,24 @@ li.menu-item-has-children>a::before {
 	margin: 0 auto 50px;
 }
 
+.requirements-ordered {
+	list-style-type: decimal
+}
+
+
+.requirements-ordered a {
+	text-decoration: underline;
+	font-weight: 600;
+}
+
+.requirements {
+	list-style-type: circle
+}
+
+.requirements a {
+	text-decoration: underline;
+	font-weight: 600;
+}
 /*-------------------------------------
 	9  	 speaker section
 ---------------------------------------*/
